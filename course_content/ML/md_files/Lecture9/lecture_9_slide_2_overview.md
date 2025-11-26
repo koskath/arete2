@@ -1,8 +1,4 @@
 # Slide 2 of Lecture 9 contains information about the Overview.
 
-• Intro to Artificial Neural Networks
-• Perceptron
-• TLU
-• MLP
-• Backpropagation
-2
+This slide covers an introduction to Artificial Neural Networks, including Perceptron, TLU (Threshold Logic Units), MLP (Multilayer Perceptron), and Backpropagation.
+

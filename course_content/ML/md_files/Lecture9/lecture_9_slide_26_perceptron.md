@@ -1,13 +1,4 @@
 # Slide 26 of Lecture 9 contains information about the Perceptron.
 
-• Perceptron incapable of learning complex patterns:
-• Because decision boundary of each output neuron is linear (just like Logistic Regression
-classifiers).
-• Logistic Regression Vs Perceptrons:
-• Perceptrons do not output a class probability.
-• Perceptrons make predictions based on a hard threshold.
-• Weaknesses:
-• Incapable of solving Exclusive OR (XOR) classification problem
-• Soln: Can be solved by stacking multiple Perceptrons
-• Resulting ANN is called a Multilayer Perceptron (MLP).
+The Perceptron is incapable of learning complex patterns because the decision boundary of each output neuron is linear, just like Logistic Regression classifiers. When comparing Logistic Regression versus Perceptrons, Perceptrons do not output a class probability and make predictions based on a hard threshold. Key weaknesses include being incapable of solving the Exclusive OR (XOR) classification problem. The solution is to stack multiple Perceptrons, and the resulting ANN is called a Multilayer Perceptron (MLP).
 28

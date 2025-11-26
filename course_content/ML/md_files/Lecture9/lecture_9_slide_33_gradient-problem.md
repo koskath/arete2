@@ -1,14 +1,4 @@
 # Slide 33 of Lecture 9 contains information about the Gradient Problem.
 
-• Vanishing Gradient Problem: When gradients are very small, they can diminish as they are
-propagated back through network, leading to minimal or no updates to weights in initial
-layers.
-• Reasons: Choice of activation functions, NN architecture.
-• Solution: Activation Functions: ReLU, Proper weight initialization, Batch Norm.
-• Exploding Gradient Problem: When gradients of network's loss with respect to parameters
-(weights) become excessively large. The "explosion" of the gradient can lead to numerical
-instability and inability of the network to converge to a suitable solution.
-• How to check? Monitore gradients and check loss function showing unusually large
-fluctuations or becoming NaN.
-• Solution: Proper activation function choice, Batch Norm.
+The Vanishing Gradient Problem occurs when gradients are very small and diminish as they are propagated back through the network, leading to minimal or no updates to weights in initial layers. Reasons include the choice of activation functions and NN architecture. Solutions include using activation functions like ReLU, proper weight initialization, and Batch Norm. The Exploding Gradient Problem occurs when gradients of the network's loss with respect to parameters (weights) become excessively large. The "explosion" of the gradient can lead to numerical instability and inability of the network to converge to a suitable solution. To check for this, monitor gradients and check if the loss function shows unusually large fluctuations or becomes NaN. Solutions include proper activation function choice and Batch Norm.
 36
