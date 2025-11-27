@@ -17,7 +17,7 @@ The image contains a 3x2 grid of plots, each with its own graph and annotations:
 - Legend in the upper left corner with labels for the blue dots and the red line
 
 **Middle Left Plot:**
-- Title: No title
+- Title: "Residuals and tree predictions"
 - Y-axis labeled as "y - h₁(x₁)"
 - X-axis labeled as "x₁"
 - Black plus signs scattered between -0.4 and 0.4 on the x-axis and -0.3 to 0.3 on the y-axis, labeled in the legend as "Residuals"
@@ -25,7 +25,7 @@ The image contains a 3x2 grid of plots, each with its own graph and annotations:
 - Legend in the upper left corner with labels for the plus signs and the green line
 
 **Middle Right Plot:**
-- No title
+- Title: "Ensemble predictions"
 - Y-axis labeled as "y"
 - X-axis labeled as "x₁"
 - Same blue dots as in the Top Right Plot
@@ -33,14 +33,14 @@ The image contains a 3x2 grid of plots, each with its own graph and annotations:
 - Legend at the top with labels for the blue dots and the red line
 
 **Bottom Left Plot:**
-- No title
+- Title: "Residuals and tree predictions"
 - Y-axis labeled as "y - h₁(x₁) - h₂(x₁)"
 - X-axis labeled as "x₁"
 - Black plus signs similar to the Middle Left Plot, distributed between -0.4 and 0.4 on the x-axis and -0.2 to 0.2 on the y-axis
 - Green line labeled "h₃(x₁)" approximating a step function pattern from -0.2 to 0.2
 
 **Bottom Right Plot:**
-- No title
+- Title: "Ensemble predictions"
 - Y-axis labeled as "y"
 - X-axis labeled as "x₁"
 - Same blue dots as in the prior plots
