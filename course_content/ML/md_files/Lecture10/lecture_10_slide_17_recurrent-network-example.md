@@ -1,10 +1,8 @@
 # Slide 17 of Lecture 10 contains information about the Recurrent Network Example.
 
-Built-in RNN layers: keras.layers.SimpleRNN
-•
-fully-connected RNN where the output from previous timestep is to be fed to next
-•
-timestep.
+Built-in RNN layers such as `keras.layers.SimpleRNN` implement a fully connected recurrent structure where the output from the previous time step is fed into the next time step, allowing temporal context to influence every prediction.
+
+The following example shows how to instantiate and use `SimpleRNN` in TensorFlow, highlighting both the single-output and sequence-output configurations.
 inputs = np.random.random([32, 10, 8]).astype(np.float32)
 tf.keras.layers.SimpleRNN(
 simple_rnn = tf.keras.layers.SimpleRNN(4)
@@ -26,5 +24,4 @@ whole_sequence_output, final_state = simple_rnn(inputs)
 return_sequences=False, return_state=False,
 go_backwards=False, stateful=False, unroll=False, **kwargs
 )
-17
-https://www.tensorflow.org/api_docs/python/tf/keras/layers/SimpleRNN
+This configuration and its arguments are documented further at https://www.tensorflow.org/api_docs/python/tf/keras/layers/SimpleRNN, which is referenced directly on Slide 17.

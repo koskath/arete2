@@ -1,11 +1,5 @@
 # Slide 13 of Lecture 10 contains information about the RNN for Sequence Problems.
 
-• Encoder-decoder/sequence-to-sequence
-• Synced sequence input to
-architecture: A sequence of words in a
-output: need to label each
-language as input, and we want a sequence of
-video frame (Video Classification).
-words as output in another language
-(Machine translation and Speech recognition)
-13
+Slide 13 introduces the encoder–decoder, or sequence-to-sequence, architecture in which a sequence of words in one language serves as the input and a sequence of words in another language becomes the output, enabling machine translation and speech recognition.
+
+It also covers synchronized sequence input to output settings, such as labeling each video frame in a stream for video classification, where the model must emit aligned predictions at every time step.

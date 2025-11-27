@@ -1,11 +1,3 @@
 # Slide 13 of Lecture 11 contains information about the Bidirectional LSTM (BLSTM).
 
-• Bidirectional LSTM a type of RNN
-• Built to improve unidirectional LSTM.
-• Designed for speech recognition.
-• Combines outputs from side-by-side networks to predict next time step of a
-sequence having both past and future related information.
-• Usage Scenarios
-• When a coherent set of information is present (learning problems).
-• Works well for sequence prediction.
-13
+This slide introduces the bidirectional LSTM as an RNN variant built to improve on its unidirectional counterpart, originally designed for tasks such as speech recognition. A BLSTM combines the outputs from parallel networks that process the sequence in both directions, enabling the prediction of the next time step using information from both past and future context. It is particularly useful when the learning problem presents coherent contextual information and when sequence prediction performance is paramount, which is why slide 13 highlights these usage scenarios.

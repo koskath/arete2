@@ -1,5 +1,3 @@
 # Slide 22 of Lecture 10 contains information about the Non-distributed ML Way.
 
-• Standard way to execute ML model
-22
-Distributed Machine Learning: A Brief Overview By Dan Alistarh, IST Austria.
+The non-distributed approach follows the standard way of executing an ML model on a single machine, as summarized in “Distributed Machine Learning: A Brief Overview” by Dan Alistarh, IST Austria.

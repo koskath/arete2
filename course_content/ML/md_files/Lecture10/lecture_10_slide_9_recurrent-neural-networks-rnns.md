@@ -1,10 +1,5 @@
 # Slide 9 of Lecture 10 contains information about the Recurrent Neural Networks (RNNs).
 
-• Recurrent Computational Graph: RNN formalized as an unfolded computational
-graph.
-• An unfolded computational graph shows information flow through recurrent layer at
-every time instant in the sequence.
-A sequence of five-time steps: We will
-unfold recurrent neuron five-times across number of
-instants.​
-9
+Slide 9 explains that a recurrent computational graph formalizes an RNN as an unfolded graph so that the information flow through the recurrent layer at every time instant becomes explicit.
+
+Using a sequence of five time steps as an example, we unfold the recurrent neuron five times across the instants to illustrate how the same parameters operate repeatedly throughout the sequence.​

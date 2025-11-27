@@ -1,14 +1,5 @@
 # Slide 8 of Lecture 10 contains information about the Recurrent Neural Networks (RNNs).
 
-• RNNs developed to solve learning problems (time series or sequential tasks)
-where information about past (i.e., past instants/events) is directly linked to
-making future predictions.
-• Recurrent Neuron: maintains a memory or a state from past computations.
-• Data is looped back into same neuron at every new time instant.
-• It takes input as output of previous instant y in addition to its current input
-t − 1
-at instant x .
-t
-• The recurrent neuron has two input weights, W and W
-xt yt -1
-8
+RNNs were developed to solve learning problems such as time-series or other sequential tasks where information about past instants or events is directly linked to making future predictions, which is why the recurrent neuron maintains a memory, or state, from past computations.
+
+Data is looped back into the same neuron at every new time instant so that the neuron takes the previous output \(y_{t-1}\) alongside the current input \(x_t\), and to support this loop the recurrent neuron uses two input weights, \(W_{x_t}\) and \(W_{y_{t-1}}\), a relationship highlighted throughout Slide 8.

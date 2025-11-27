@@ -1,12 +1,5 @@
 # Slide 12 of Lecture 10 contains information about the RNN for Sequence Problems.
 
-• A sequence of inputs to an output: Pass a
-• An input to a sequence of output: when an
-sequence of words as input to network,
-image is passed as an input to network,
-and output is a class indicating either a
-and output is a sequence of words
-positive or negative review or sentiment
-(Image captioning problem)
-(Sentiment Analysis)
-12
+A sequence of inputs can be mapped to a single output by passing a sequence of words into the network and predicting a class such as positive or negative sentiment, which characterizes the sentiment-analysis case.
+
+Conversely, a single input can be mapped to a sequence of outputs when, for example, an image passes through the network and the output becomes a sequence of descriptive words, which is the image-captioning problem highlighted on Slide 12.

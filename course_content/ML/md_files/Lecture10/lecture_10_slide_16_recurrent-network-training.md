@@ -1,11 +1,5 @@
 # Slide 16 of Lecture 10 contains information about the Recurrent Network Training.
 
-• Challenge of training RNN is vanishing and exploding gradient problem.
-• Due to long-term dependencies or time instant of
-unrolled recurrent neuron RNN suffers.
-• Gradient clipping, BatchNorm and ReLU can be used for vanishing
-and exploding gradient problem.
-• (Exploding and vanishing gradients + discards early time instances) leads
-to development of a memory cell called the Long Short-Term
-Memory/LSTM.
-16
+The main challenge in training RNNs is the vanishing and exploding gradient problem that arises because long-term dependencies across many unrolled time instants make gradients either decay away or blow up.
+
+Gradient clipping, BatchNorm, and ReLU activations can mitigate these issues, yet the combination of exploding and vanishing gradients and the tendency to discard information from early time instances ultimately motivated the creation of the Long Short-Term Memory (LSTM) memory cell.
