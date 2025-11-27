@@ -1,11 +1,3 @@
 # Slide 10 of Lecture 12 contains information about the Convolution Autoencoder.
 
-• If you want to build an autoencoder for images, you need to build a convolutional
-autoencoder.
-• Encoder is a regular CNN composed of convolutional layers and pooling
-layers.
-• It reduces spatial dimensionality of inputs (i.e., height and width)
-while increasing depth (i.e., number of feature maps).
-• Decoder must do reverse (upscale image and reduce its depth back to
-original dimensions), and for this use transpose convolutional layers.
-10
+To build an autoencoder for images, the architecture generally becomes a convolutional autoencoder. The encoder behaves like a conventional CNN composed of convolution and pooling layers that reduce spatial dimensions (height and width) while expanding depth via additional feature maps. The decoder then reverses this process by upscaling the image and reducing its depth back to the original dimensions, typically using transpose convolutional layers.

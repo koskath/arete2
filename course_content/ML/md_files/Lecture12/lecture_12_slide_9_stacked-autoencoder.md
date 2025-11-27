@@ -1,6 +1,6 @@
 # Slide 9 of Lecture 12 contains information about the Stacked Autoencoder.
 
-• Stacked autoencoder very much like a regular deep MLP.
+Stacked autoencoder very much like a regular deep MLP.
 stacked_encoder = keras.models.Sequential([
 keras.layers.Flatten(input_shape=[28, 28]),
 keras.layers.Dense(100, activation="selu"),
@@ -16,4 +16,4 @@ stacked_ae.compile(loss="binary_crossentropy",
 optimizer=keras.optimizers.SGD(learning_rate=1.5))
 history = stacked_ae.fit(X_train, X_train, epochs=10,
 validation_data=[X_valid, X_valid])
-9
+

@@ -1,17 +1,5 @@
 # Slide 20 of Lecture 12 contains information about the Learning Rate Scheduling.
 
-• Strategies to reduce learning rate during training called learning schedules.
-1. Power scheduling: Set learning rate to a function of iteration number t: η(t) = η / (1+t/s)c .
-0
-(initial learning rate η , power c (set to 1), steps s are hyperparameters).
-0
-2. Exponential scheduling: Set learning rate to η(t) = η 0.1t/s. Learning rate will gradually
-0
-drop by a factor of 10 every s steps.
-3. Piecewise constant scheduling: Use a constant learning rate for a number of epochs
-(e.g., η = 0.1 for 5 epochs), then smaller learning rate for another number of epochs
-0
-(e.g., η = 0.001 for 50 epochs), and so on.
-1
-4. Performance scheduling: Measure validation error every N steps (like early stopping) and
-reduce learning rate by a factor of λ when error stops dropping.
+Learning-rate schedules gradually reduce the step size during training to maintain stability while continuing to make progress. Power scheduling sets the learning rate as a function of the iteration number, η(t) = η₀ / (1 + t / s)ᶜ, where the initial rate η₀, the power c (often 1), and the step scale s are hyperparameters. Exponential scheduling uses η(t) = η₀ · 0.1^(t/s), causing the rate to drop by a factor of 10 every s steps.
+
+Piecewise-constant scheduling keeps the rate fixed for a block of epochs, for example η₀ = 0.1 for five epochs followed by η₁ = 0.001 for the next fifty, and continues with additional plateaus as needed. Performance scheduling ties the adjustment to validation metrics by measuring the error every N steps and reducing the learning rate by a factor λ whenever the error stops improving.

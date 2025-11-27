@@ -1,14 +1,3 @@
 # Slide 8 of Lecture 12 contains information about the Stacked Autoencoder.
 
-• Stacked autoencoders (or deep autoencoders): Autoencoders can have
-multiple hidden layers.
-• Advantage: Adding more layers helps autoencoder learn more complex
-codings.
-• An autoencoder for MNIST have 784
-inputs, followed by a hidden layer with 100
-neurons.
-• A central hidden (coding) layer of 30 neurons,
-then another hidden layer with 100 neurons,
-and an output layer with 784 neurons
-8
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron, 2019
+Stacked or deep autoencoders extend the basic architecture with multiple hidden layers, allowing the model to capture more complex codings. A typical MNIST autoencoder might start with 784 input units, feed them into a 100-neuron hidden layer, compress them further into a 30-neuron coding layer, expand back through another 100-neuron hidden layer, and finally reconstruct the 784-dimensional output. T

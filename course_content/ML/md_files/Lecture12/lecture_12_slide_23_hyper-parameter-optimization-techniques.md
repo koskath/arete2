@@ -1,13 +1,5 @@
 # Slide 23 of Lecture 12 contains information about the Hyper-parameter Optimization Techniques.
 
-• Babysitting or ‘Trial and Error’ or Grad student descent (GSD) method is implemented by
-100% manual tuning and widely used.
-• Problems due to large number of hyper-parameters, complex models, time-
-consuming model evaluations, and non-linear hyper-parameter interactions.
-• Grid search (GS) most commonly-used methods
-• An exhaustive search or a brute-force method
-• Works by evaluating the Cartesian product of user-specified finite set of values
-• Problem: Inefficiency for high-dimensionality hyper-parameter configuration space
-• Since number of evaluations increases exponentially to number of hyper-
-parameters growth
-Yang, Li, and Abdallah Shami. "On hyperparameter optimization of machine learning algorithms: Theory and practice."Neurocomputing415 (2020): 295-316.
+The “babysitting,” “trial and error,” or “grad student descent” approach relies entirely on manual tuning and is still widely practiced despite the growing complexity of models. As the number of hyperparameters increases, evaluations become time-consuming and interactions become highly non-linear, making manual iteration inefficient.
+
+Grid search remains one of the most commonly used techniques; it is an exhaustive, brute-force evaluation of the Cartesian product of user-specified hyperparameter values. Unfortunately, the method scales poorly because the number of evaluations grows exponentially with each additional hyperparameter. 

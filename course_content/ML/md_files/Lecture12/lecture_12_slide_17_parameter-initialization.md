@@ -1,12 +1,3 @@
 # Slide 17 of Lecture 12 contains information about the Parameter Initialization.
 
-• Parameter initialization is crucial to NN performance:
-• Can’t initialize weights in same layer to same value, or they will stay same.
-• Can’t initialize weights too large, it will take too long to learn.
-• A traditional random initialization:
-• Initialize bias variables to 0.
-• Sample from standard normal, divided by 105(0.00001*randn).
-• w = .00001*randn(k,1)
-• Performing multiple initializations does not seem to be important.
-• Popular approach from 10 years ago:
-• Initialize with deep unsupervised model (like “autoencoders”)
+Parameter initialization is critical for neural-network performance. Weights within the same layer cannot start with identical values, or they will remain indistinguishable during training, yet overly large initial weights slow convergence. A traditional random scheme sets biases to 0 and samples weights from a standard normal distribution divided by 105(0.00001*randn), for example `w = .00001*randn(k,1)`. Multiple random restarts were once considered unnecessary, and a popular alternative a decade ago involved initializing the network with a deep unsupervised model such as a stack of autoencoders.

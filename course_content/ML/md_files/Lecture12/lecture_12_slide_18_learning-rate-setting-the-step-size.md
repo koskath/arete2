@@ -1,9 +1,3 @@
 # Slide 18 of Lecture 12 contains information about the Learning Rate: Setting the Step-Size.
 
-• Stochastic gradient is very sensitive to step size in deep models.
-• A common approach:
-• Run SG for a while with a fixed step-size.
-• Occasionally measure error and plot progress.
-• If error is not decreasing, decrease step-size.
-• Bias step-size multiplier: use bigger step-size for bias variables.
-• Momentum: Add term that moves in previous direction where βt=0.9
+Stochastic gradient descent is highly sensitive to the choice of step size, especially in deep models. A common strategy is to run SGD for a period with a fixed learning rate, periodically measure and plot the error, and reduce the step size if progress stalls. Bias terms sometimes benefit from a dedicated multiplier that allows a larger effective step, and many practitioners add momentum—moving βₜ, often around 0.9, in the previous update direction—to stabilize and accelerate convergence.
