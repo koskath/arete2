@@ -1,8 +1,3 @@
 # Slide 38 of Lecture 15 contains information about the Linear programming.
 
-• LP-based verification works by defining the system as a set of linear constraints, and
-property to be verified as an objective function.
-• Objective function can be either a minimization or a maximization function.
-• DNN verification: LP is used to check robustness of network against adversarial
-attacks.
-• Limitation of LP: Requires linear constraints.
+Linear-programming-based verification defines the system through linear constraints and casts the property being verified as an objective function, which can be framed as either a minimization or maximization problem. For deep neural networks, LP methods commonly check robustness against adversarial attacks, although their applicability is limited by the requirement that models or abstractions adhere to linear constraints.

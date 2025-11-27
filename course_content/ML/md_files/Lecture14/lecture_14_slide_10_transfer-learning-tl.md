@@ -1,11 +1,3 @@
 # Slide 10 of Lecture 14 contains information about the Transfer Learning (TL).
 
-• In TL, a model pre-trained on one task is fine-tuned for a new, related task.
-• Use TL to retrain existing models on related tasks with new data.
-• For example, if a model can identify images of dogs, it can be trained to
-identify cats using a smaller image set that highlights the feature
-differences between dogs and cats.
-• Advantage: time and cost savings [NLP, Image processing use case]
-• Application: Transfer learning strategies are critical for generative AI adoption
-in various industries.
-https://aws.amazon.com/what-is/transfer-learning/
+In transfer learning, a model that was pre-trained on one task is fine-tuned for a related objective using additional data, such as adapting a dog classifier to recognize cats with a much smaller dataset that emphasizes distinguishing features. This approach saves time and cost across NLP, computer vision, and other domains, and it underpins many generative AI deployments.

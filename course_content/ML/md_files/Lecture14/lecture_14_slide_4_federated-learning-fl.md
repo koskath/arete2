@@ -1,12 +1,3 @@
 # Slide 4 of Lecture 14 contains information about the Federated Learning (FL).
 
-• Google introduced term "federated learning" in 2016.
-• A way to train AI models without anyone seeing or touching user private
-data.
-• By processing data at their source, FL allows raw data streaming (from
-sensors).
-• Benefits: Allow to collaboratively train a decentralized model without
-sharing confidential data.
-• Financial Application: Aggregate customer financial records could allow banks
-to generate more accurate customer credit scores or improve their ability to
-detect fraud.
+Google coined the term “federated learning” in 2016 to describe a way of training AI models without exposing users’ private data. Because computation happens at the data source, FL can stream raw sensor readings locally while contributing only model updates to a shared objective. This decentralized process lets multiple parties collaborate without sharing confidential records, which in finance could mean combining customer summaries to build better credit scoring or fraud detection models.

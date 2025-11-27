@@ -1,15 +1,5 @@
 # Slide 29 of Lecture 15 contains information about the Misalignment.
 
-• Two Causes of Misalignment:
-• Reward Hacking: Proxy rewards are easy to optimize and measure, but suffers
-from capturing full spectrum of actual rewards (misspecified rewards).
-• Optimizing misspecified rewards lead to reward hacking.
-• Goal misgeneralization: Agent actively pursues objectives distinct from training
-objectives, while retaining capabilities acquired during training.
-• Two primary factors of misalignment:
-• Limitations of Human Feedback: During LLMs training
-• inconsistencies can arise from human data annotators.
-• may introduce biases deliberately.
-• Limitations of Reward Modeling:
-• Accurately capturing human values.
-https://arxiv.org/pdf/2310.19852.pdf​
+Misalignment often stems from two central causes. Reward hacking occurs when proxy rewards, chosen because they are easy to optimize and measure, fail to capture the full spectrum of intended outcomes; optimizing these misspecified rewards incentivizes unintended behavior. Goal misgeneralization describes scenarios where an agent pursues objectives that differ from the training goals even though it retains the capabilities acquired during training.
+
+Two primary contributing factors amplify misalignment risks. Human feedback can be inconsistent during large language model training, either because annotators make mistakes or because their own biases creep into the labels. Reward modeling also struggles to capture human values with sufficient fidelity, making it difficult to guide models toward behaviors that consistently reflect stakeholder intent.

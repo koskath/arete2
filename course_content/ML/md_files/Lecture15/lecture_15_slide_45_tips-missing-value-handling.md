@@ -1,10 +1,3 @@
 # Slide 45 of Lecture 15 contains information about the Tips: Missing Value Handling.
 
-• Example: Missing values are problematic for product catalogs of online retailers.
-• Manual update is not scalable.
-• ML methods are designed for matrices only.
-• Data is not available in numeric formats but rather in text/other forms.
-o Sols: Implementing feature extraction steps and imputation algorithms in one
-single pipeline.
-• Must support hyperparameter optimization to automatically perform model selection
-and parameter tuning.
+Missing values pose particular problems for product catalogs in online retail settings because manual updates do not scale and many machine learning methods expect matrix-formatted numerical data even though the source information often appears as text or other structures. A practical solution is to build a single pipeline that couples feature extraction with imputation algorithms and includes hyperparameter optimization so the system can automatically select models and tune parameters while handling incomplete inputs.*** End Patch}$

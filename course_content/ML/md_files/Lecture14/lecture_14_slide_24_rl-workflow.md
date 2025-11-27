@@ -1,11 +1,3 @@
 # Slide 24 of Lecture 14 contains information about the RL Workflow.
 
-• Deployment:
-• Policy is a standalone decision-making system.
-• If training process does not converge to an optimal policy within a reasonable
-amount of time. Then adjust
-• Training settings
-• Algorithm configuration
-• Policy representation
-• Reward signal definition
-https://se.mathworks.com/discovery/reinforcement-learning.html
+In deployment, the learned policy operates as a standalone decision-making system; if training fails to converge to an acceptable policy in reasonable time, revisit the training settings, algorithm configuration, policy representation, or reward definition and iterate again.

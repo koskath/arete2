@@ -1,10 +1,3 @@
 # Slide 12 of Lecture 13 contains information about the Choosing "Correct" Kernel Size.
 
-• Kernel size determines the receptive field of each convolutional operation.
-• kernel size should be chosen based on the data characteristics.
-• Detection of fine-grained details --> smaller kernel sizes [capture local information].
-• Detection of larger patterns --> larger kernel sizes [capture global information].
-• Smaller input sizes works well with smaller kernel sizes.
-• Larger input sizes can accommodate larger kernel sizes [resource intensive].
-• Stacking multiple layers with small kernel sizes can help preserve information.
-• Very large kernel sizes may result in over smoothing or loss of fine-grained details.
+Kernel size controls the receptive field of each convolution and must match the data’s characteristics: small kernels capture fine-grained, local patterns and suit smaller inputs, while larger kernels detect broader structures in bigger images but demand more resources. Stacking several layers of small kernels can approximate a wider context without losing detail, whereas excessively large kernels risk over-smoothing and erasing subtle features.

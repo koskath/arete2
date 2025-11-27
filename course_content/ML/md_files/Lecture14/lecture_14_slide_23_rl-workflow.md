@@ -1,13 +1,3 @@
 # Slide 23 of Lecture 14 contains information about the RL Workflow.
 
-• Create Agent: Consists of policy and training algorithm.
-o Represent policy using NNs or look-up tables.
-o NN are good candidates for large state/action spaces and complex problems.
-• Training: Set up training options (like stopping
-criteria) and train agent to tune policy.
-• Make sure to validate trained policy after training.
-• If necessary, revisit design choices like reward
-signal and policy architecture and train again.
-• Overall, RL is sample inefficient; training can take anywhere from minutes to days
-depending on the application.
-https://se.mathworks.com/discovery/reinforcement-learning.html
+Creating the agent involves defining both the policy and the training algorithm; policies may be represented with lookup tables for small problems or neural networks when state and action spaces grow complex. Once the agent architecture is set, configure training options such as stopping criteria, run the training to refine the policy, and validate its behavior; if performance lags, revisit reward shaping or the policy structure and iterate. Because RL is typically sample-inefficient, training times can range from minutes to days.

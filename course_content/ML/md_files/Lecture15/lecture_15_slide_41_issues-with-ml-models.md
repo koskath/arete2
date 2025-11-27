@@ -1,10 +1,3 @@
 # Slide 41 of Lecture 15 contains information about the Issues with ML models.
 
-• Adversarial learning is a technique employed to attempt to fool machine learning by
-automatically crafting adversarial examples.
-• Interpretability: Model is given an input X and it produces an output Y through a
-sequence of operations hardly understandable to a human.
-• Interpretability of the model determines how easily the analysts can manage and
-assess the quality and correct the operation of a given model.
-• Example: Cybersecurity analysts prefer rule-based and signature-based
-systems rather than neural-based methods
+Additional issues involve adversarial learning, where attackers automatically craft adversarial examples to fool a model, and interpretability, since a model may transform an input X into an output Y through opaque operations. Interpretability determines how easily analysts can manage, assess, and correct a model’s behavior, which is why practitioners such as cybersecurity analysts often favor rule-based or signature-based systems over neural approaches when clarity is essential.*** End Patch}$

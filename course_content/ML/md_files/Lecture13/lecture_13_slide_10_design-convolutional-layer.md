@@ -1,13 +1,3 @@
 # Slide 10 of Lecture 13 contains information about the Design Convolutional layer.
 
-• Considerations to design convolutional layer:
-• Filter size: Neuron’s weights can be represented as a small image size of receptive
-field.
-• Filters are small matrix used to detect patterns in an image.
-• Different filters detect edges, textures, and shapes.
-• A n×n filter slides over image and performs dot product (convolution).
-• Stride of filter: [Step Size] determines how many pixel steps filter makes when moving
-from one image activation to another (default 1).
-• Padding for input layer: Zero padding is used to pad borders of image pixels with a
-defined layer of zeros.
-• Larger stride --> smaller feature map (less details, faster)
+Designing a convolutional layer involves choosing the filter size, which represents the neuron’s receptive field as a small image-shaped weight matrix that slides across the input to perform dot products and detect edges, textures, or shapes. The stride determines how many pixels the filter steps between positions (commonly one), while padding—often zero-padding—extends the borders so that features near the edges are preserved. Larger strides shrink the feature map, speeding computation at the cost of detail.

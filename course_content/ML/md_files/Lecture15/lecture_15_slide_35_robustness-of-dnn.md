@@ -1,11 +1,3 @@
 # Slide 35 of Lecture 15 contains information about the Robustness of DNN.
 
-• Robustness determines the integrity of the network under varying operating
-conditions, and the accuracy of DNN outputs in the presence/absence of input or
-network alterations.
-• Divided into two security and reliability.
-1. If attacker cannot steal information, engage system resources, modify network
-parameters, or render an incorrect input.
-2. If it does not display any changes to its output, parameters, or behavior, due
-to changes in environmental conditions, during fabrication and deployment.
-Shafique, Muhammad, et al. "Robust machine learning systems: Challenges, current trends, perspectives, and the road ahead."IEEE Design & Test37.2 (2020): 30-57.
+Robustness characterizes how well a deep neural network preserves its integrity under varying operating conditions and how accurately it produces outputs even when inputs or internal components change. The concept spans both security and reliability: on the security side, robustness implies that attackers cannot steal information, commandeer resources, modify parameters, or introduce malicious inputs, while on the reliability side it means the network’s outputs, parameters, and behavior remain stable despite environmental changes during fabrication or deployment. These dimensions follow the taxonomy presented by Shafique et al. in their survey on robust machine learning systems.

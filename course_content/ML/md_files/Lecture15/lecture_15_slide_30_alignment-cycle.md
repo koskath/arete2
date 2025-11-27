@@ -1,13 +1,3 @@
 # Slide 30 of Lecture 15 contains information about the Alignment Cycle.
 
-• Forward Alignment (training) produces
-trained systems based on alignment
-requirements.
-• Backward Alignment (refinement) ensures
-practical alignment of trained systems and
-revises alignment requirements
-• Ensure practical alignment
-of trained systems.
-• Cycle is repeated until reaching a
-sufficient level of alignment.
-https://arxiv.org/pdf/2310.19852.pdf
+The alignment cycle alternates between forward and backward phases. Forward alignment focuses on training systems in accordance with the current alignment requirements, while backward alignment refines the trained systems, verifies that they behave as intended in practice, and revises the requirements when necessary. This cycle repeats until the AI system achieves a sufficient level of alignment with stakeholder goals.

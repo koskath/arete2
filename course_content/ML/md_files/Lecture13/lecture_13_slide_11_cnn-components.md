@@ -1,17 +1,3 @@
 # Slide 11 of Lecture 13 contains information about the CNN Components.
 
-• Feature Maps are output matrix of a filter in a convolutional layer.
-• Expose patterns of input image (such as horizontal lines, vertical lines).
-• Multiple filters = Multiple feature maps.
-• Deeper CNN: Inputs to a deeper convolutional layer are feature maps of previous layer.
-• Pooling layer summarizes image features learned in previous network layers.
-• Pooling Layer: follow one or more convolutional layers.
-• Common type of pooling layer is Max pooling layer.
-• Goal: to reduce feature map of convolutional layer.
-If we have a 32×32 RGB image and
-apply 32 filters, we get 32 feature
-maps.
-Reason: Each filter processes the
-image to extract different features,
-resulting in a separate feature map
-for each filter.
+Feature maps are the matrices produced by applying convolutional filters to the input, revealing patterns such as horizontal or vertical lines; using multiple filters yields multiple feature maps, which then serve as the inputs to deeper convolutional layers in a CNN. Pooling layers, typically max pooling, summarize these maps to reduce their spatial size while retaining salient information—for example, applying 32 filters to a 32×32 RGB image generates 32 distinct feature maps because each filter extracts a different aspect of the image.

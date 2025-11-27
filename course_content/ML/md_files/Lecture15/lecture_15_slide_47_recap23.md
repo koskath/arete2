@@ -1,13 +1,3 @@
 # Slide 47 of Lecture 15 contains information about the Recap(2/3).
 
-• Ethical issues in AI are a key concern.
-• AI alignment is the process of encoding human values and goals into LLMs to make them
-helpful, safe, and reliable.
-• Goal of AI alignment is to enable enterprises to tailor AI models to follow their business rules
-and policies. Alignment happens during fine-tuning, involving instruction-tuning and a critique
-phase.
-• Importance of AI alignment stems from the increasing impact and risks of Deep Learning (DL)
-applications, with misalignment being a significant source of these risks.
-• Misalignment has two main causes: reward hacking, where proxy rewards are optimized
-instead of actual rewards, and goal misgeneralization, where the agent pursues objectives
-different from training objectives.
+Ethical issues continue to be central to AI debates, which is why AI alignment—the process of encoding human values and goals into large language models so they act helpfully, safely, and reliably—receives so much attention. Alignment lets enterprises adapt models to their own policies by fine-tuning with instruction-tuning phases followed by critique phases. Its importance reflects the growing impact and risk profile of deep learning: misalignment is a major source of danger because systems may optimize proxy rewards (reward hacking) or pursue goals that diverge from their training objectives (goal misgeneralization).*** End Patch}$

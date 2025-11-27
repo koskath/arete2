@@ -1,15 +1,5 @@
 # Slide 26 of Lecture 15 contains information about the What is AI alignment?.
 
-• Process of encoding human values and goals into LLMs to make them helpful, safe,
-and reliable.
-• Goal: Enterprises can tailor AI models to follow their business rules and policies.
-• Alignment happens during fine-tuning, when a foundation model is fed examples of
-the target task.
-• Involves two steps:
-1. Instruction-tuning phase: LLMs are given examples of target task so it can learn
-by example.
-2. Critique phase: Human or another AI interacts with the model and grades its
-responses in real-time.
-• E.g., In RL, this step is called RL with human feedback (RLHF) or AI feedback
-(RLAIF).
-https://research.ibm.com/blog/what-is-alignment-ai
+AI alignment is the process of encoding human values and goals into large language models so they behave in helpful, safe, and reliable ways, enabling enterprises to tailor models to their own business rules and policies. Alignment generally occurs during fine-tuning, where a foundation model is fed task-specific examples that steer its behavior toward the desired outcomes.
+
+The workflow typically involves two steps. During instruction tuning, the model receives curated examples of the target task and learns by imitation. In the critique phase, a human or another AI system interacts with the model and evaluates its responses in real time; in reinforcement learning contexts this feedback loop is commonly referred to as RLHF when humans grade the outputs or RLAIF when AI systems provide the critiques.

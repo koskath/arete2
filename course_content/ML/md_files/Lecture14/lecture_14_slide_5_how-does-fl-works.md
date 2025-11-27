@@ -1,10 +1,3 @@
 # Slide 5 of Lecture 14 contains information about the How does FL works?.
 
-1. Multiple people remotely share their data to collaboratively train a model.
-2. Each party downloads model from a server, usually a pre-trained model.
-3. Train it on their private data, then summarize and encrypt model’s new
-configuration.
-4. Model updates are sent back to server, decrypted, averaged, and integrated
-into centralized model.
-5. Collaborative training continues (iteratively) until model is fully trained.
-https://research.ibm.com/blog/what-is-federated-learning
+Federated learning unfolds in iterative rounds: multiple participants keep their data local while downloading a shared, often pre-trained, model from a coordinating server. Each party fine-tunes the model on its private dataset, summarizes and encrypts the updated parameters, and sends these updates back to the server, which decrypts, averages, and merges them into the centralized model. The process repeats until convergence, enabling collaborative training without exposing raw data.

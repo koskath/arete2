@@ -1,11 +1,3 @@
 # Slide 20 of Lecture 14 contains information about the Reinforcement Learning (RL).
 
-• Goal: To find most suitable action model to maximize total cumulative reward (for RL
-agent).
-• With no training dataset, RL problem is solved by agent’s own actions with input
-from the environment.
-• No need for data collection, preprocessing, and labeling before training.
-• Given right incentive, a RL model can start learning a behavior on its own, without
-(human) supervision.
-• Incentive is either negative (punishment) or positive (reward).
-https://se.mathworks.com/discovery/reinforcement-learning.html​
+The objective in reinforcement learning is to discover an action policy that maximizes total cumulative reward, even without a pre-existing training dataset; the agent learns solely by acting in the environment, observing the outcomes, and adjusting based on incentives that may be positive (rewards) or negative (penalties). Because the agent gathers data through interaction, there is no need for separate collection or labeling before training.

@@ -1,13 +1,3 @@
 # Slide 13 of Lecture 13 contains information about the Convolutional Layer.
 
-• Neurons in first convolutional layer are connected
-only to pixels in their receptive fields (BUT not to
-all pixels).
-• Each neuron in second convolutional layer is
-connected only to neurons located within a small
-rectangle in first layer.
-• It allows network to concentrate on small low-level
-features in first hidden layer, then assemble them
-into larger higher-level features in next hidden layer,
-and so on.
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+Neurons in the first convolutional layer connect only to pixels within their receptive fields rather than to the entire image, and neurons in subsequent layers receive input from a small neighborhood of the previous layer’s activations. This local connectivity enables the network to capture low-level features in early layers and progressively combine them into higher-level patterns.

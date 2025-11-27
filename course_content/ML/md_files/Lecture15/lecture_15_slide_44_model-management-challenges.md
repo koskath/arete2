@@ -1,12 +1,3 @@
 # Slide 44 of Lecture 15 contains information about the Model Management Challenges.
 
-• Data Management Challenges: data integration, feature transformation, model
-training apply different operations based on different abstractions.
-• Querying model Metadata to select best model: To accelerate model lifecycle
-management, need to understand metadata and lineage of models
-(e.g., hyperparameters, trained and validated datasets).
-• Centralized metadata store can accelerate learning processes (e.g., warm-
-starting of hyperparameter search) and automate simple error checks.
-• Multi-Language Code Bases
-• Backwards Compatibility: Model that was trained (last month or last year) should still
-be working today (required for production deployments).
+Subsequent model management challenges revolve around data operations and metadata. Integrating data, performing feature transformations, and executing training all rely on different abstractions, so teams must query rich model metadata—such as hyperparameters and the datasets used for training and validation—to pick the best candidate quickly. Centralized metadata stores help accelerate learning processes like warm-starting hyperparameter searches and support automated error checks even when codebases span multiple languages. Ensuring backward compatibility is equally important, because models trained months or even years ago often need to keep working reliably in production environments today.*** End Patch}$

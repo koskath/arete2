@@ -1,12 +1,3 @@
 # Slide 15 of Lecture 14 contains information about the Privacy-Accuracy trade-off.
 
-• Issue:
-• Attackers look for ways to steal user data or hijack an AI model.
-• In FL, when a data host trades their working model with the central
-server.
-• Reason of Exchange: Each exchange improves model but leaves data
-that helped train, [it open to inference attacks].
-• More rounds of information you exchange, the easier it is to infer
-information
-• Trend: Focuses on minimizing and neutralizing privacy threats.
-https://research.ibm.com/blog/what-is-federated-learning
+Federated learning faces a privacy–accuracy trade-off because every exchange of model updates with the central server improves performance yet exposes signals that attackers might exploit to infer training data or compromise the model. The more rounds of communication, the greater the risk of inference attacks, so current research emphasizes minimizing and neutralizing these threats.

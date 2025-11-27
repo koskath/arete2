@@ -1,10 +1,3 @@
 # Slide 27 of Lecture 13 contains information about the Adversarial Examples.
 
-• A model is performing a task (e.g. classification) with some level of success.
-• An adversary is attacking that model.
-• Objective: to perform the task (maintaining a similar accuracy) under attack.
-• Forms of adversarial image attacks:
-• Untargeted adversarial attacks: cannot control output label of adversarial
-image.
-• Targeted adversarial attacks: can control output label of image.
-Goodfellow et al. Explaining and Harnessing Adversarial Examples
+In the adversarial setting, a model that normally performs tasks such as classification now faces an attacker who tries to induce errors, so the objective becomes maintaining comparable accuracy even under attack. Image-based attacks come in untargeted forms, where the adversary merely pushes the model toward any wrong label, and targeted forms, where the adversary forces a specific incorrect label.

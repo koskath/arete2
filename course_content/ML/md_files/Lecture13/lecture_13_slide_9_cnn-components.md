@@ -1,12 +1,3 @@
 # Slide 9 of Lecture 13 contains information about the CNN Components.
 
-• Convolution layer is made up of filters and feature maps.
-• Filter [or Kernel] is passed over input image pixels to capture a specific set of features
-in a process called convolution.
-• Convolution is the process by which a function is applied to a matrix
-to extract specific information from the matrix.
-• Feature maps are outputs of a filter in a convolutional layer.
-Receptive Field is
-an area of the input
-image that CNN
-neuron "sees"
+The convolutional layer consists of filters, or kernels, that slide over the input pixels to capture patterns through the convolution operation, effectively applying a function to the input matrix to extract specific information. Each kernel produces a feature map that records where its target pattern appears, and the receptive field describes the portion of the input image that a particular neuron “sees” when computing its activation.

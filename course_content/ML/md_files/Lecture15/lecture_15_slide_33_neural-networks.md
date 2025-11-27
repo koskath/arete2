@@ -1,12 +1,3 @@
 # Slide 33 of Lecture 15 contains information about the Neural Networks.
 
-• If input propagates through the network in only one direction -> feedforward network.
-• If there are feedback loops in the network -> Recurrent NN.
-• LSTMs retains information for long duration, well suited for time-series prediction.
-• First generation of NNs: single-layer NNs and MLPs
-• Second generation of NNs: To reduce number of parameters in a network, introduces
-convolutional NNs (CNNs).
-• To solve problem of information loss in CNNs use capsule networks (CapsNets).
-• Third generation of NNs: Makes use of spiking NNs (SNNs) to emulate human brain-like
-functioning.
-Shafique, Muhammad, et al. "Robust machine learning systems: Challenges, current trends, perspectives, and the road ahead."IEEE Design & Test37.2 (2020): 30-57.
+Neural networks can be broadly categorized by structure and information flow: when inputs propagate in only one direction the architecture is feedforward, whereas feedback loops create recurrent networks such as LSTMs, which retain information over long durations and excel at time-series prediction. The first generation of neural networks consisted of single-layer models and multilayer perceptrons, while the second generation introduced convolutional neural networks to reduce parameter counts and later incorporated capsule networks to mitigate information loss. A third generation explores spiking neural networks that emulate brain-like signaling. These observations align with the survey by Shafique et al., “Robust machine learning systems: Challenges, current trends, perspectives, and the road ahead” published in *IEEE Design & Test*.

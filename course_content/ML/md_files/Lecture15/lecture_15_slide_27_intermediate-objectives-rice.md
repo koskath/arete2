@@ -1,10 +1,5 @@
 # Slide 27 of Lecture 15 contains information about the Intermediate Objectives: RICE.
 
-• Four Key principles: Robustness, Interpretability, Controllability, and Ethicality (RICE).
-1. Robustness: System’s stability needs to be guaranteed across various
-environments.
-2. Interpretability: Operation and decision-making process of the system should be
-clear and understandable.
-3. Controllability: System should be under guidance and control of humans.
-4. Ethicality: System should adhere to society’s norms and values.
-https://arxiv.org/pdf/2310.19852.pdf​
+The intermediate objectives for alignment are summarized by the RICE framework—Robustness, Interpretability, Controllability, and Ethicality. Robustness focuses on guaranteeing system stability across diverse environments, while interpretability insists that the model’s operation and decision-making process remain clear and understandable to stakeholders.
+
+Controllability ensures that humans maintain meaningful guidance and authority over the system’s behavior, preventing autonomous drift away from intended goals, and ethicality demands adherence to societal norms and values so that the system’s actions remain acceptable in real-world contexts.

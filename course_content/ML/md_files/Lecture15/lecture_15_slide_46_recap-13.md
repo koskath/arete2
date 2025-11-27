@@ -1,17 +1,5 @@
 # Slide 46 of Lecture 15 contains information about the Recap (1/3).
 
-• Responsible AI (RAI) is a set of principles guiding the design, development, deployment, and
-use of AI to build trust in AI solutions.
-• Aim of RAI is to embed ethical principles into AI applications.
-• Pillars of Trust in RAI include explainability and interpretability, which are essential for
-trustworthy AI, encompassing prediction accuracy, traceability, and decision understanding.
-• Fairness in RAI involves diverse and representative data, bias-less algorithms, and the
-establishment of an ethical AI review board.
-• Robustness in RAI means handling exceptional conditions like input abnormalities and
-malicious attacks.
-• Transparency in RAI refers to understanding how a service works, evaluating its functionality,
-and comprehending its strengths and limitations.
-• Privacy in RAI is important, with regulatory frameworks like GDPR being relevant.
-• Implementing responsible AI practices includes defining responsible AI principles, educating
-employees, integrating ethics across the AI development lifecycle, and protecting user
-privacy.
+Responsible AI (RAI) is presented as a comprehensive set of principles that govern the design, development, deployment, and use of AI so that trust can be established. Its primary aim is to embed ethical considerations into applications by relying on pillars of trust such as explainability and interpretability, which together cover prediction accuracy, traceability, and decision understanding. Fairness requires diverse and representative data, bias-aware algorithms, and often an ethical AI review board to oversee decisions.
+
+Robustness focuses on handling exceptional conditions like abnormal inputs or malicious attacks, transparency demands clarity about how a service works and what strengths or limitations it carries, and privacy connects the framework back to regulatory requirements such as GDPR. Implementing responsible AI practices therefore involves defining these principles, educating employees, integrating ethics throughout the AI development lifecycle, and protecting user privacy at every step.

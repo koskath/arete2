@@ -1,10 +1,3 @@
 # Slide 28 of Lecture 13 contains information about the Adversarial Examples.
 
-• Two types of attacks in DL: White-Box and Black-Box attacks
-• White-Box: Attacker has access to training method (data/network initialization/
-algorithm/hyperparameter).
-• Small perturbations --> bad performance.
-• Black-Box attacks: Attacker does not have complete access to network training method.
-• We need robust models: weight decay and dropout do not work.
-• Approach: Brute force method to generate adversarial examples and train model using them
-(Adversarial training).
+Deep-learning systems face both white-box attacks, where adversaries know the training data, initialization, algorithm, and hyperparameters, and black-box attacks, where that knowledge is limited; in either case, carefully crafted small perturbations can yield poor performance. Traditional regularizers like weight decay or dropout are insufficient, so robustness often relies on brute-force adversarial training in which the model is exposed to generated adversarial examples during learning.

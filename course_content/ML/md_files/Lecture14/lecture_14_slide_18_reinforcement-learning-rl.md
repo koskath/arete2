@@ -1,5 +1,3 @@
 # Slide 18 of Lecture 14 contains information about the Reinforcement Learning (RL).
 
-• RL is not a new concept
-• Recent progress in DL and computing power made it possible.
-• RL and DL are not mutually exclusive.
+Reinforcement learning is an established concept, yet recent advances in deep learning and compute have made practical breakthroughs possible, and modern systems often combine RL with deep neural networks rather than treating them as mutually exclusive.

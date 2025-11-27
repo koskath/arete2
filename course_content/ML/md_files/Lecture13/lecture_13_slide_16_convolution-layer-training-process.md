@@ -1,9 +1,3 @@
 # Slide 16 of Lecture 13 contains information about the Convolution Layer Training Process.
 
-Backpropagation
-Forward Propagation
-No learning takes place
-on the pooling layers!!
-Gradients ==> δ ,δ ,δ ,δ
-11 12 21 22
-https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/
+The convolutional layer training process alternates forward propagation, which computes activations, with backpropagation, which passes gradients—denoted δ₁₁, δ₁₂, δ₂₁, δ₂₂, and so on—through the network to update convolutional filters, while pooling layers simply forward values and do not learn separate parameters. 
