@@ -1,0 +1,7 @@
+The image is a plot illustrating the convergence of an algorithm to a minimum on a convex curve. It has a two-dimensional graph with an upward-pointing arrow on the vertical axis labeled "Cost," and a right-pointing arrow on the horizontal axis labeled "θ". 
+
+In the plot, there is a large curved line depicting a convex function which opens upwards. There are several blue circles along this curve, decreasing from left to right, indicating the path of the algorithm as it converges to the minimum. These circles represent different "Learning steps" and are connected by a gray line tracing the descent.
+
+The starting point on the left of the curve is labeled "Random initial value" marked by a dashed vertical line intersecting the first blue circle. A sequence of blue circles follows along the descent of the curve. Near the bottom, there is a yellow circle labeled "Minimum," with a vertical dashed line below it intersecting the horizontal axis at a point marked by the symbol "θ̂". 
+
+A large text "algorithm converges to a minimum" is placed prominently above the convex curve near the top of the image. The word "Convex" is written in red and aligned with the horizontal curve at the bottom right of the plot.

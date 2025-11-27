@@ -1,0 +1,7 @@
+The image depicts a neural network diagram consisting of three layers: input layer, hidden layer, and output layer. The input layer contains three nodes. The first node on the left is a yellow circle labeled "1," which connects with outgoing arrows to all nodes in the hidden layer. The next two nodes are green circles, labeled "x₁" and "x₂," respectively, each with an arrow pointing upwards, also connecting to all nodes in the hidden layer.
+
+The hidden layer consists of four nodes. These nodes are blue circles with a depicted sum-of-products symbol inside, featuring a sigma "Σ" symbol at the top and bottom in a stacked fashion. Each node in the hidden layer has incoming arrows from all nodes in the input layer and outgoing arrows leading to each node in the output layer.
+
+The output layer has three nodes, each represented as a blue circle similar to the hidden layer nodes, with the same sum-of-products symbols inside. There are arrows pointing from each node in the hidden layer to every node in the output layer. Additionally, each node in the output layer has an outgoing arrow extending upwards without connecting to any further structure.
+
+Arrows interconnect the layers progressively from the input to the hidden and from the hidden to the output layer. Three dashed bracketed annotations run vertically parallel to the layers on the right side of the diagram, labeled as follows from top to bottom: "Output layer," "Hidden layer," and "Input layer."

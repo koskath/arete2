@@ -1,0 +1,3 @@
+The image contains a mathematical formula describing the F1 score. It is written in a horizontal layout. On the left side, there is the term "F" with the subscript "1," forming "F₁." This is followed by an equal sign "=". 
+
+To the right of the equal sign is the number "2" followed by a middle dot "∙". Next, a fraction is displayed. The numerator of the fraction reads "Precision ∙ Recall," with a middle dot "∙" between "Precision" and "Recall". The denominator reads "Precision + Recall," with a plus sign "+" between "Precision" and "Recall". The whole fraction is horizontally aligned with the equation.

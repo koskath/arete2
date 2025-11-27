@@ -1,0 +1,5 @@
+A layered, semi-circular diagram presents the evolution of AI with labeled sections and a timeline. The largest outer layer is labeled "ARTIFICIAL INTELLIGENCE" in white capital letters against a light green background. Inside this is a smaller, darker green semicircle labeled "MACHINE LEARNING" in white, and nested within is the smallest, darkest green semicircle, labeled "DEEP LEARNING."
+
+The background has descriptive text for each layer. Within the outermost section, the text reads, "Early AI stirs excitement." In the MACHINE LEARNING section, the text reads, "Machine Learning begins to flourish." The DEEP LEARNING section contains the text, "Deep Learning breakthroughs drive AI boom."
+
+Below the semicircles is a horizontal timeline in light green with a blue baseline and vertical ticks marking decades from the 1950s to the 2010s. The labels below the ticks, in order, are "1950's," "1960's," "1970's," "1980's," "1990's," "2000's," and "2010's." Each decade mark has a blue vertical line extending above the baseline.
