@@ -21,11 +21,25 @@ async def describe_image_with_gpt4o(image_path):
         model="gpt-4o",
         messages=[
             {
+                "role": "system",
+                "content": (
+                    "You are an assistant that outputs ONLY a detailed, literal, exhaustive description of the provided image. "
+                    "The description will be used as a substitute for the image in machine-learning course notes, so it must precisely "
+                    "describe every visible element relevant to diagrams, plots, formulas, network architectures, axes, labels, data points, "
+                    "arrows, annotations, and spatial relationships. Do not add commentary, explanations, interpretations, or prefaces. "
+                    "Do not mention that you are describing an image or that the description is for a class. Output only the description itself."
+                )
+            },
+            {
                 "role": "user",
                 "content": [
                     {
                         "type": "text",
-                        "text": "Describe exactly what is inside this image. Be detailed and precise."
+                        "text": (
+                            "Describe exactly and exhaustively what is inside this image. "
+                            "Focus on every visible detail, structure, shape, annotation, "
+                            "and spatial relationship. Output ONLY the description."
+                        )
                     },
                     {
                         "type": "image_url",
@@ -38,7 +52,7 @@ async def describe_image_with_gpt4o(image_path):
         ],
         max_tokens=8192
     )
-    
+
     return response.choices[0].message.content
 
 async def process_single_image(png_path, md_path, file):
