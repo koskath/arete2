@@ -1,0 +1,1 @@
+The image contains text in bold, black, sans-serif font that reads "Transport Service Providers." The text is centered and stretches across the width of the image. The letters are evenly spaced, and all words are capitalized. There is no additional background imagery or color; the background is plain white.

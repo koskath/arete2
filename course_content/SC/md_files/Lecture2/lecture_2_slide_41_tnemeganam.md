@@ -1,17 +1,4 @@
-# tnemeganaM
+# Description of processes (Standard)
+Standard process descriptions typically include several elements. They specify process elements, performance attributes with associated metrics, and best practices together with the required resources.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Description of processes (Standard)
-– Process-
-Elements
-– Performance
-Attributes with
-metrics
-– Best Practices
-and required
-ressources
 Slide 41

@@ -1,0 +1,1 @@
+The image contains bold, black text on a white background. The text reads "direct Sales" with "direct" and "Sales" each starting with a lowercase and uppercase letter, respectively. There are no additional symbols, images, or annotations present. The letters are evenly spaced and proportionate, with the words aligned horizontally.

@@ -1,0 +1,1 @@
+The image contains bold, black text on a white background. The text reads: "Financial Service Providers." The font is large and clear, with even spacing between the letters and words. There are no additional graphics, annotations, or details present in the image.

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. Smart Labels for
+# e.g. Smart Labels for
 Applications in Retail and Logistics
  Smart labels for open loop applications are on the market since the
 late 90s

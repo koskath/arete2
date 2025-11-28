@@ -1,0 +1,5 @@
+The image shows the lower part of a person standing near a white vehicle. The person is wearing dark pants and yellow and black sneakers on a paved surface. In front of the vehicle, there are several stacked boxes. 
+
+On the left, there are two brown cardboard boxes stacked vertically. The top box is labeled "wood" with a checkmark, and the side text reads, "necessity, advantage, and uthority over on intellectual prowess and." The bottom box is similar with the label "wood" and the partially visible text, "types of life state and exist because DOE the fact that it alleg." 
+
+Closer to the center, a green box marked "wood" with a checkmark is in front of the car's tire. To the right, there are four cardboard boxes stacked in two columns. The first column has a tan box labeled "wood" with a checkmark and a small white label, atop a brown box similarly marked and labeled. The second column consists of a pink box marked "metal" with a checkmark and label, atop a beige box with a white label and the label "metal."

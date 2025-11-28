@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Material Requirement Planning –
+# Material Requirement Planning –
 Explosion of the Bill of Material
 Technical drawing
 Working plan

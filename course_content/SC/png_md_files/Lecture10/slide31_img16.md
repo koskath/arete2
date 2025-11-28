@@ -1,0 +1,1 @@
+The image contains the text "Logistics Intermediaries" written in a black, bold sans-serif font. The text is horizontally centered in the image. There are no other elements, structures, shapes, or annotations visible in the image. The background is white, providing a clear contrast with the black text.

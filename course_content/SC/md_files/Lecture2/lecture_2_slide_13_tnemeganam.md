@@ -1,20 +1,4 @@
-# tnemeganaM
+# Today’s Topics
+Intro: a big picture of internationalization and globalization will be presented, together with the question of the role of logistics and supply chain management within this context. We will ask whether the world is really flat – even without COVID-19 – by discussing the case of Flowers B.V., examining the structure of the supply chain and exploring complications and considerations in the global context of operations. Finally, we will wrap it up by highlighting some key issues in a slightly broader view than that of the case itself.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Today’s Topics
-Intro: A Big Picture of Internationalization and
-Globalization
-– And the Question on the role of
-Logistics and Supply Chain Management within
-Is the World really flat – even without C19?
-– Discussing the case of Flowers B.V.
-– The structure of the supply chain
-– Complications and Considerations in the
-global context of the operations
-Wrapping it up: some key issues in a little bit
-broader view than that of the case
 Slide 13

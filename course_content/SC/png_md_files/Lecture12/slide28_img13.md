@@ -1,0 +1,1 @@
+The image is a gradient background transitioning smoothly from a lighter blue at the top to a darker blue at the bottom. There are no other visible details, structures, shapes, annotations, or spatial relationships present in the image.

@@ -1,0 +1,5 @@
+The image shows a rectangular decal or sticker placed on a surface. The surface appears to be a light brown cardboard box, viewed from an angle. The decal itself has a white background with a symmetrical, central pattern composed of thin brown lines. 
+
+The pattern is made up of two identical sections that mirror each other along a central vertical axis. Each section resembles a bow tie or butterfly shape, with two semi-circular portions connected by a narrow, rectangular bridge at the center. These semi-circular portions have a series of concentric, curved lines inside, creating a mesh-like or lattice appearance. 
+
+The narrow bridge connects the two sections and has a thin horizontal line running across its midpoint, which aligns with the central vertical axis. The design is clean, with no visible text, numbers, or additional markings. The sticker is positioned so that its long edges run parallel to the edges of the box, but the overall orientation is slightly angled relative to the viewer, giving a perspective view of both the surface and the sticker. The image is focused, capturing details of the patterns and the texture of the cardboard.

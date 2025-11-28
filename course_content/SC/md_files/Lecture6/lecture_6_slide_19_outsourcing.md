@@ -1,18 +1,4 @@
 # Outsourcing
 
 Motives and Risks
-Outsourcing is the transfer of the management and delivery of a process
-to a third party previously performed by the company itself.
-Motives of Outsourcing Risks of Outsourcing
- Cost advantages  Higher total costs compared
-with a make option
- Concentration on core business
- Opportunistic behaviour
- Improvement of flexibility,
-of suppliers
-efficiency and performance
- Transfer of core competencies
- Advantages in financing and
-risk transfer  Loss of know-how
- Access to technology
-19
+Outsourcing is the transfer of the management and delivery of a process to a third party, when that process was previously performed by the company itself. There are several motives for outsourcing, including cost advantages, the possibility to concentrate on the core business, improvement of flexibility, efficiency and performance, the transfer of certain activities or core competencies to specialised providers, advantages in financing and risk transfer and improved access to technology. At the same time, outsourcing entails important risks: total costs may in fact turn out to be higher than under a make option, opportunistic behaviour of suppliers can occur, and there is a danger of losing critical know-how. 19

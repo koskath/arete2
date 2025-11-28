@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Motion waste
+# Motion waste
  Poor ergonomics
 • Causes of motion waste
  Poor plant or workstation layout

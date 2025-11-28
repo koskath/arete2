@@ -1,30 +1,6 @@
-# tnemeganaM
+# In technocratical and „simplified“ Terms
+In technocratic and simplified terms, we can think of systems in terms of structure, function, process and environment. **Structure** refers to the boundary, elements, subsystems and interfaces (input/output) of the system, and to the super system (rank = +1). **Function** is related to the purpose of the system – what it is supposed to do at the system level (rank = 0). **Process** describes how the structure is actually combined and applied to fulfil the function.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-In technocratical and „simplified“ Terms
-Environment
- STRUCTURE: Boundary, Elements,
-Super System (Rank = +1)
-Subsystems, Interfaces
-(Input/Output) of the System
- FUNCTION: related to the purpose
-System (Rank = 0) of the system; what is it supposed to
-do
- PROCESS: how the structure is
-actually combined, applied, to fulfill
-the function
- ENVIRONMENT: Elements outside
-the boundaries but affecting the
-system
- Super System
+The **environment** consists of elements outside the boundaries that nonetheless affect the system, including the super system. Sub-systems (rank = −1) interact via inputs and outputs to deliver the overall function.
+
 33
-tupnI
-tuptuO
-Function
-E E
-E E E
-Sub-System (Rank = -1)

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Broad production location strategies Dicken
+# Broad production location strategies Dicken
 (2003)
 Globally
 concentrated

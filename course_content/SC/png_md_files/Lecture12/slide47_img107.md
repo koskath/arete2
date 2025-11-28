@@ -1,0 +1,1 @@
+The image consists of a narrow vertical rectangular area on the left, featuring a gradient transition from dark grey on the left edge to a lighter grey towards the center. The remainder of the image is white, occupying the larger portion on the right. There are no visible shapes, annotations, or other elements in the image.

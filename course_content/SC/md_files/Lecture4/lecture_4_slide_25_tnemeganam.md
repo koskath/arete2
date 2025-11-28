@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Improving the flow
+# Improving the flow
 not the single activity …
  e.g. „Principles of flow systems“ …
 a flow is the better, the …

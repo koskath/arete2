@@ -1,27 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-WHAT Scope? Basic – Extended - Ultimate
-Seller Buyer
-Partnership
-Supplier Focal Firm Customer
-Basic Supply Chain
-Supplier’s Customer’s
-… Supplier Focal Firm Customer …
-Supplier Customer
-Extended Supply Chain
-Third Party
-Logistics Supplier
-Initial Ultimate
-… Supplier Focal Firm Customer …
-Supplier Customer
-Financial Market
-Provider Research Firm
-Ultimate Supply Chain
-Source:Mentzeru.a. (2001), S. 7
-Strategy & Configuration Slide 12
+# WHAT Scope? Basic – Extended - Ultimate
+When we ask “what scope?” in supply chain management, we can distinguish between basic, extended and ultimate perspectives. At the most **basic supply chain** level, we focus on the relationship between **seller and buyer**, where a supplier, the focal firm and the customer form the core triad and may be linked through some form of partnership. Extending this view, the **extended supply chain** not only considers the supplier, focal firm and customer, but also includes the supplier’s supplier and the customer’s customer, capturing a longer sequence such as “… supplier – focal firm – customer …” together with upstream and downstream partners, including third‑party logistics suppliers and other intermediaries. Finally, the **ultimate supply chain** broadens the scope even further to involve initial and ultimate suppliers and customers, as well as actors such as **financial market providers** and **research firms**, again arranged around the central chain of “… supplier – focal firm – customer …”. This progression from basic to extended to ultimate supply chain scope follows Mentzer et al. (2001, p. 7) and is summarised in Strategy & Configuration Slide 12.

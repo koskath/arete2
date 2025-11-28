@@ -1,0 +1,1 @@
+The image contains the text "Subposition HS" written in a black, bold, sans-serif font. The letters are evenly spaced and aligned horizontally in a straight line. The text is large and clearly legible against a white background. There are no additional elements, annotations, or graphics present within the image.

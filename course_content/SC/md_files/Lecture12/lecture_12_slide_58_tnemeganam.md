@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Würth uses smart containers in order to optimize
+# Würth uses smart containers in order to optimize
 C-Parts management processes in industry
 Examples for CPS in the real world
  Embedded microelectronics for monitoring of filling level of

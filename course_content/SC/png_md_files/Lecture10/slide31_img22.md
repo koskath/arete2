@@ -1,0 +1,1 @@
+The image contains black lowercase letters "viders" against a white background. The letters are bold and thick, with consistent spacing between each one. There are no additional symbols, decorations, or distinguishing marks.

@@ -1,18 +1,3 @@
 # Danish External Trade Law
 
-The Ministry of Business and Industry Consolidating Act No 635 of 9 June 2011 on
-the application of certain European Communities Acts on economic relations to third
-countries (Enabling Act) offers mainly national implementation procedures for the
-Security Amendments of the Revised Community Customs Code after 9/11:
-• (1) Restrictions of goods transports to third countries (e.g. Dual-Use Goods)
-• (2) Prohibitions of technical assistance (i.e. 2000/401/CFSP) and
-• (3) Execution of restrictive measures accruing from obligation under
-international law (e.g. GASP, OSCE, UN-Security Council)
-Goods in this respect are all sort of physical merchandise (but not commercial
-papers and means of payment) and technical knowledge (e.g. software, manuals).
-Given (1) sort and volume of goods to be shipped, (2) country of destination,
-(3) consignee and (4) end use, a permission is needed; but (1) an individual
-authorization, (2) a Community general export authorization, (3) a global national
-export authorization as well as one general authorization can be granted.
-More about? See: https://danishbusinessauthority.dk/international-trade
-12
+The Ministry of Business and Industry’s Consolidating Act No. 635 of 9 June 2011 on the application of certain European Communities Acts on economic relations to third countries (the Enabling Act) mainly provides national implementation procedures for the security amendments of the revised Community Customs Code after 9/11. These procedures address, first, restrictions on goods transports to third countries, for example concerning dual-use goods; second, prohibitions of technical assistance (i.e. 2000/401/CFSP); and third, the execution of restrictive measures arising from obligations under international law, such as those established by the CFSP/GASP, OSCE and UN Security Council. Goods in this context include all sorts of physical merchandise and technical knowledge (e.g. software, manuals), but not commercial papers and means of payment. Given (1) the sort and volume of goods to be shipped, (2) the country of destination, (3) the consignee and (4) the end use, a permission is needed; however, different types of authorisations can be granted, including an individual authorisation, a Community general export authorisation, a global national export authorisation and a general authorisation. More information is available at `https://danishbusinessauthority.dk/international-trade`. 12

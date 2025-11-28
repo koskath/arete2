@@ -1,0 +1,1 @@
+The image contains the words "sales agents" in lowercase letters. The text is in a bold, sans-serif font, with even thickness throughout all the characters. The words are evenly spaced on a white background, with no additional elements or annotations visible. The font color is black, providing a strong contrast against the white background.

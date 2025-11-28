@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-From ERP to Advanced Planning Systems
+# From ERP to Advanced Planning Systems
  Why are Enterprise Resource Planning (ERP) often not
 (longer) sufficient
  Top-Down, sequential design logic

@@ -1,0 +1,1 @@
+The image consists of the text "Financial Intermediaries" in bold, black letters. The font is sans-serif and evenly spaced. The text is centered horizontally and occupies the central part of the image. The background is plain white, providing a clear contrast to the black lettering. There are no additional elements, annotations, or graphical features present in the image.

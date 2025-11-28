@@ -1,17 +1,4 @@
 # Release into Free Circulation
 
 and Status of Goods
-Release into Free Circulation:
-All duties and taxes paid
-on non–community goods
-Free circulation with(out) further
-surveillance by customs authorities
-(depends on sort of goods and end-use)
-Status of Goods:
-Non-Union Goods are goods from non-EU, third countries =>
-Union goods are:
-• Non-Union goods after release into free circulation =>
-• Goods made in the EU based on (Non-)Union Goods =>
-• Goods fully raised up or made from Union Goods in the EU =>
-Normally, Country of Origin / heritage of goods does not change!
-20
+Release into free circulation means that all duties and taxes have been paid on non‑community goods so that they can circulate freely, with or without further surveillance by customs authorities depending on the type of goods and their end use. Regarding the status of goods, non‑Union goods are those originating from non‑EU third countries. Union goods, by contrast, include non‑Union goods after their release into free circulation, goods made in the EU based on (non‑)Union goods and goods fully raised or made from Union goods in the EU. Normally, the country of origin or heritage of the goods does not change even when their customs status changes in this way. 20

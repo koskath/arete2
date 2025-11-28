@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-This Needs to Be Addressed With the Appropriate Changes in Supply
+# This Needs to Be Addressed With the Appropriate Changes in Supply
 Chain Design From Efficient to Responsive and Vice Versa – FOR
 INSTANCE
 Efficient Responsive

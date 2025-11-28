@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-With Humans and Machines as supporting
+# With Humans and Machines as supporting
 elements
  The better, the shorter, more direct and less interrupted the linkage between source
 and sink is designed

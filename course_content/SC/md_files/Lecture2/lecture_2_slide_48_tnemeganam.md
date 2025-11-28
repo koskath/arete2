@@ -1,20 +1,4 @@
-# tnemeganaM
+# Incoterms -Understanding
+Incoterms are published by the International Chamber of Commerce (ICC). They constitute a set of rules for the interpretation of commonly used international commercial terms (INCOTERMS). First published by the ICC in 1936, they have since been updated in 1953, 1967, 1976, 1980, 1990, 2000, 2010 and, most recently, in 2020. These rules are framed to ensure uniformity in the understanding of various shipping terms used in international trade by different countries.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Incoterms -Understanding
- Published by the International Chambers of
-Commerce
- A set of rules for the interpretation of the
-commonly used international commercial terms
-(INCOTERMS)
- First published by the ICC in 1936, since then
-updated in 1953, 1967, 1976,1980, 1990, 2000,
-2010 and latest revision in 2020
- Rules framed to ensure uniformity in
-understanding of various shipping terms used in
-international trade by different countries
 48

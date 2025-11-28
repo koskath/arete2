@@ -1,32 +1,4 @@
-# tnemeganaM
+# Slide 6
+The full supply chain can be seen as a sequence of “S”s that includes primary suppliers, component customers, manufacturers (OEM), retail customers and final users. Along this supply chain, there are flows of information, product or service and money.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Slide 6
-sreilppuS
-yramirP
-sremotsuC
-tnenopmoC
-=
-.naM
-sremotsuC .funaM
-MEO
-=
-remotsuzC
-liateR
-=
-sresU
-laniF
-=
-The Full Supply Chain: A Sequence of S‘s
-Information
-Product/
-Service
-Money
-PrimaryProd./ Parts, OEM‐Products Distribution Final Use
-Raw Materials Components Consumtion
-... How to configure entire economy‐wide
-Supply Chains for competitiveness?
+Starting from raw materials and components, moving through primary production, parts and OEM products, then through distribution and finally to consumption and final use, the key question is how to configure entire economy-wide supply chains for competitiveness.

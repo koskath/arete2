@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Information Technologies can be used to optimize Processes at the Interface between
+# Information Technologies can be used to optimize Processes at the Interface between
 PhCoamspaeni e4s : Process Integration at Interfaces between
 Companies
 Supplier Customer  Goal: Automated information

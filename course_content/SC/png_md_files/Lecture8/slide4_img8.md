@@ -1,0 +1,1 @@
+The image contains the word "WOOLWORTH" in bold, uppercase letters. The font is sans-serif, and the color is a solid red. The letters are evenly spaced, and the text is centered within the image. The background is plain white, providing high contrast with the red text. There are no additional elements, shapes, or annotations visible in the image.

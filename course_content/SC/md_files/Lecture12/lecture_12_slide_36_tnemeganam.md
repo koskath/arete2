@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-What about the basement of the tower?
+# What about the basement of the tower?
 And what about
 governance
 and control?

@@ -1,15 +1,1 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-But also: maybe new competences, new rules,
-new competition
-Source: Wall Stree Journal
-Session 3 -IntegratioSno uarcned: C Carodrlloapb.coomration Source: Deutsche Verkehrszeitung Slide 42
-Source:
-H&M
-website
+But also: maybe new competences, new rules, new competition Source: Wall Stree Journal Session 3 -IntegratioSno uarcned: C Carodrlloapb.coomration Source: Deutsche Verkehrszeitung Slide 42 Source: H&M website

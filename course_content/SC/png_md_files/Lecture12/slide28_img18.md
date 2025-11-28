@@ -1,0 +1,1 @@
+A gradient background transitions from a deep purple at the top to a slightly darker shade towards the bottom. There are no visible structures, shapes, annotations, or other elements within the image. The transition is smooth and evenly distributed across the entire frame.

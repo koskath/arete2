@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Cyber-Physical Systems are based on complex embedded
+# Cyber-Physical Systems are based on complex embedded
 microelectronics and deliver different functions – Towards
 a Definition of the term “Cyber-Physical System” (CPS)
 End

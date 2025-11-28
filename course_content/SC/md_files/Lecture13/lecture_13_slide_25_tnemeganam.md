@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-WHAT Scope? Basic – Extended - Ultimate
+# WHAT Scope? Basic – Extended - Ultimate
 Seller Buyer
 Partnership
 Supplier Focal Firm Customer

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Approaches are using different dimensions
+# Approaches are using different dimensions
 and variables and focusing on different
 Authors Dimensions Configurations
 aspects Fisher, 1997 - uncertainty of demand - Physically efficient process

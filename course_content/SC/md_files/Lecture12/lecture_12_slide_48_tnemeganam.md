@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-There exist a number of different RfID Tags –
+# There exist a number of different RfID Tags –
 e.g. Electronic Tags for Automation Purposes
  Used since the 80s for production and material flow
 applications within industrial facilities

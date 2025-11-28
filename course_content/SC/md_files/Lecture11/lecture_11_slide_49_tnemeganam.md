@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Preparation
+# Preparation
 Course material
 1. The lecture plan
 2. The course book

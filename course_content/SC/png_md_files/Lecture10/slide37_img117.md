@@ -1,0 +1,1 @@
+The image shows the word "utes" written in lowercase letters. The text is slightly blurred and slanted upwards from left to right. The letters are in a gradient style, with colors transitioning from burgundy to blue with some hints of lighter and darker shades creating a metallic effect. The background appears to be white.

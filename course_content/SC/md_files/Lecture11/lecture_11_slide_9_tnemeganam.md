@@ -1,21 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Grading & feedback
-1. Know your grading scale well:
- Based on (new) 7-point grading scales which are in
-effect from Sept 1, 2007
- Evaluations - internal examiners
-2. Grading:
-• Equal weights for all main questions
-• 7-point scale for multiple-choice
-(-3, 0 with double weight)
-3. Feedback:
-an answer key (no solution template)
-shall be posted!
-12.03.2025 Slide 9
+# Grading & feedback
+Grading and feedback follow a clear structure. First, you should know the grading scale well: it is based on the (new) 7‑point grading scale, which has been in effect since 1 September 2007, and evaluations are carried out by internal examiners. Second, grading assigns equal weights to all main questions, and multiple‑choice questions are graded using the 7‑point scale, with the marks –3 and 0 having double weight. Third, feedback will be provided in the form of an answer key (but not a full solution template), which will be posted after the exam. 12.03.2025 Slide 9

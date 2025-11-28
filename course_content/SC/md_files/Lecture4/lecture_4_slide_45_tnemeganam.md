@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Yourself - voluntary
+# Yourself - voluntary
 Questions
  Where do we produce different
 products – go to the internet and

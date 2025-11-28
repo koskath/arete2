@@ -1,25 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Even a bit deeper – Some basic question on the design of logistics (flow) systems -
+# Even a bit deeper – Some basic question on the design of logistics (flow) systems -
 e.g. the model of Hoekstra/Romme
-Some basic questions:
- Centralize or Decentralize
- Direct or Indirect (stages)
- Speculate or Wait
- Tight or loose coupling,
-linking
-Basis tasks of logistics:
- Bundling, Structuring,
-Securing, and splitting,
-Rearrange,
- Segment; Classify
- Specialize and Diversify
- Create flexibility and
-synchronize
-Strategy & Configuration Slide 18
+To go even a bit deeper, the model of Hoekstra and Romme raises some basic questions about the design of logistics (flow) systems. Among these basic questions are whether to **centralize or decentralize**, whether flows should be **direct or indirect (in stages)**, whether to **speculate or wait**, and whether to design **tight or loose coupling and linking** between stages. In addition, the model points to several basic tasks of logistics, such as **bundling, structuring, securing and splitting flows**, as well as **rearranging** them when necessary. Logistics must also **segment and classify** different flows, **specialize and diversify** where appropriate, and **create flexibility and synchronize** activities across the system. Together, these questions and tasks help to structure thinking about logistics system design, as presented in Strategy & Configuration Slide 18.

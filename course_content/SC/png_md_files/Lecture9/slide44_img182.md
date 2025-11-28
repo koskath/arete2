@@ -1,0 +1,1 @@
+The image is a completely blank white rectangle with no visible elements, structures, shapes, annotations, or any other distinguishable features present. It is bordered by very thin light blue lines on the left and right edges.

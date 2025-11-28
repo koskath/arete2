@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Overcoming the time funnel by a changed planning logic
+# Overcoming the time funnel by a changed planning logic
 – Better „muddling through“ in a sequence of “not
 perfect” plans than a perfect but quickly obsolete plan
 Old New

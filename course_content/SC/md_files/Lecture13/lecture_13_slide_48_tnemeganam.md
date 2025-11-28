@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Postpone the moment of variation
+# Postpone the moment of variation
 – The way to hybrids
 • The Configuration of a Logistics system
 is the better the further „upstream“

@@ -1,0 +1,1 @@
+The image is a gradient background transitioning vertically from lighter to darker blue. The top portion is a lighter blue, gradually becoming darker as it moves downward, culminating in a deep navy blue at the bottom. There are no other visible elements, structures, shapes, annotations, or spatial relationships present in the image.

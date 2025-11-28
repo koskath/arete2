@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-The options – who should do it?
+# The options – who should do it?
 See book chapter: Factory gate pricing!!
 Discuss:
 benefits

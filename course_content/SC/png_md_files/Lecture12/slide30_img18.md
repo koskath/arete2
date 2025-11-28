@@ -1,0 +1,1 @@
+The image is a gradient background transitioning from a lighter red-orange hue at the top to a darker, more saturated red-brown hue at the bottom. The gradient transition is smooth, with no visible lines or separations. There are no additional shapes, annotations, or elements within the image.

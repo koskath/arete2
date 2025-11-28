@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Kraljik matrix
+# Kraljik matrix
 High
 Leverage suppliers Strategic suppliers
  many competitors  market leaders

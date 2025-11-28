@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-DB Schenker transforms standard transportation
+# DB Schenker transforms standard transportation
 units into CPS and delivers new types of customer
 services - Examples for CPS in the real world
  Embedded microelectronics for returnable

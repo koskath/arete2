@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Strategic Scope of the single actor in the
+# Strategic Scope of the single actor in the
 Supply Chain – ONLY some thoughts!
 Objectives With different Scope Concepts,
 Strategic Chain/Function?? Instruments??

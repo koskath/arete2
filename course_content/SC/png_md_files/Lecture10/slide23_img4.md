@@ -1,0 +1,1 @@
+The image is a gradient background. It transitions smoothly from a light blue at the bottom to a very light grayish blue towards the top. The gradient is evenly distributed vertically across the entire image. There are no other visible elements, structures, shapes, or annotations present.

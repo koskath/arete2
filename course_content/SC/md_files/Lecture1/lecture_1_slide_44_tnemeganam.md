@@ -1,28 +1,6 @@
-# tnemeganaM
+# Its only logistics, but I like it! Pedagogical?
+In general, the principles focus on student learning and action rather than teacher performance. Class lectures, slides and similar materials are intended to support and facilitate student learning, but a major part of the learning process takes place outside classes. The basic concept is that class sessions support what students have already prepared, for example by using the book and readings and perhaps digging deeper into the material.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Its only logistics, but I like it! Pedagogical?
-In general, the principles focus on
-student learning and action  Class lectures – slides etc.
-rather than teacher
-performance  Using the book and readings for being
-“The basic concept…….is that class
-sessions are intended to support prepared and maybe digging deeper
-and facilitate student learning,
-but a major part of the learning  Attendance should better be thinking - not
-process takes place outside
-classes” just listening
-“Cases, examples and textbooks
-based on CBS’ own research will  Optimize learning by useful debates and
-be used”
-“The most recent research results will discussion
-be included in the courses,
-researchers will take part in  To learn “how to” and also ask “why to” and
-the courses, and external
-teachers will be more involved how to communicate it
-in research environments.”
+Attendance should therefore be more about thinking than just listening. Cases, examples and textbooks based on CBS’ own research will be used to optimise learning through useful debates and discussion. The most recent research results will be included in the courses; researchers will take part in the courses, and external teachers will be more involved in research environments. The aim is to learn “how to” and also to ask “why to” and how to communicate it.
+
 44

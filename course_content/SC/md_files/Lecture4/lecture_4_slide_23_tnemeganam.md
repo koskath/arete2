@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Uneven processes and waste of defects
+# Uneven processes and waste of defects
 • Money and time wasted to find
 mistakes and fix or replace
 products

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam content
+# Exam content
 What can be asked
 Example Q1, open essay
 Q3. This question pertains to supply chain management in general, and

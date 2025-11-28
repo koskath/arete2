@@ -1,0 +1,1 @@
+The image consists solely of a white background. There is nothing else visible—no shapes, text, lines, or any other elements.

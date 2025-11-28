@@ -1,27 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Information Technologies can be used to make whole Departments more efficient
+# Information Technologies can be used to make whole Departments more efficient
 Phase 2: IT Support for functional Blocks
-Supplier  Goal: Process optimization within
-functional blocks like “finance” or
-Finance
-“sales” or “production”
-Sales
- Benefits: Higher efficiency of
-function specific processes
-Production
- Results: New methods like
-….
-Integration production planning
-based on IT
-Function / Process  BUT: Barriers between functional
-Business Unit blocks stay intact
-Source: Fleisch, E., Österle, H.; 2000; A Process-oriented Approach to Business
-Networking; Electronic Journal of organizational Virtualness2(2), 1-21
-12 Digitization and Digitalization 14.03.2025 Slide 18
+In Phase 2, information technologies are used to make whole departments more efficient by providing IT support for functional blocks. The goal here is process optimisation within functional areas such as finance, sales or production. The benefits include higher efficiency of function‑specific processes, and the results are new methods such as IT‑based production planning. However, even though processes within functions are improved, the barriers between functional blocks remain intact. Source: Fleisch, E., Österle, H. (2000), “A Process‑oriented Approach to Business Networking”, Electronic Journal of Organizational Virtualness 2(2), 1–21. 12 Digitization and Digitalization 14.03.2025 Slide 18

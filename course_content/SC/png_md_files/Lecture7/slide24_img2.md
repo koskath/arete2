@@ -1,0 +1,5 @@
+The image consists of a representation of a globe with a predominantly blue color scheme, showing a depiction of Earth's continents. A wide, horizontal white band crosses the globe at the center with the text "NCTS" in bold black capital letters.
+
+Encircling the globe is a curved line that forms three-quarters of a circle, starting from the bottom left quadrant, moving clockwise, and ending at the top right quadrant. Attached to this curved line are twelve yellow, five-pointed stars evenly spaced along the path from the lower left side of the globe to the bottom middle, continuing to the upper right.
+
+The line ends with an arrowhead pointing upward and slightly to the right, positioned at the top right of the globe. The arrow is rendered in a darker shade of blue than the rest of the line, signifying direction or movement around the globe. The backdrop of the image is plain white, allowing the colors and elements to stand out distinctly.

@@ -2,18 +2,6 @@
 
 Processing under Customs Control
 Temporary Admission
-Goods may be used without
-payment of duty or taxes
-Admission
-upon importation under certain
-conditions and re-exported after-
-wards in the same state.
-Releasing into free circulation
-after use is normally not intended!
-Processing under
-Customs Control
-Assessment of of lower duties and
-taxes postponed after processing in
-the EU with some sort of degradion
-of value (e.g. denaturation of alcohol)
-22
+Temporary admission allows goods to be used without payment of duty or taxes upon importation under certain conditions, provided that they are re‑exported afterwards in the same state. Releasing such goods into free circulation after use is normally not intended under this regime.
+Processing under Customs Control
+Processing under customs control postpones the assessment of duties and taxes until after processing in the EU, in cases where the processing leads to some degradation or change in the value of the goods, for example the denaturation of alcohol. 22

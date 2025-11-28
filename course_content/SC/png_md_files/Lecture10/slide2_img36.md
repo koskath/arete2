@@ -1,0 +1,1 @@
+The image consists of a plain white background with two vertical blue lines, one on each side. The lines are evenly spaced from the edges and run parallel from the top to the bottom of the image. There are no other elements, annotations, shapes, or details within the image.

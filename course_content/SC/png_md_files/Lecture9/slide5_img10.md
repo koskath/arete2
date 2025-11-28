@@ -1,0 +1,1 @@
+The image contains the text "End Consumer" in large, bold black letters. The words are centered and aligned horizontally across the image. The font is sans-serif, with smooth curves and clear letterforms. The background is plain and uncluttered, providing high contrast with the black text.

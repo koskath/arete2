@@ -1,0 +1,1 @@
+The image contains the word "Providers" in a bold, black font. The text is centered within the image. The letters are large and occupy most of the image space, with no additional graphics, annotations, or visible background elements present.

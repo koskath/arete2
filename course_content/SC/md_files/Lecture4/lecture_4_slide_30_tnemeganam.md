@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Today’s Topics
+# Today’s Topics
  Production planning and design
  Context and development –
 Milestones in the history of production

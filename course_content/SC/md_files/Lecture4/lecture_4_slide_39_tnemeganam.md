@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-4 – “Outreachers”
+# 4 – “Outreachers”
 Sourcing Prod/Ass Distrib.
 • Global brands, huge R&D investments paid back on
 a global scale only

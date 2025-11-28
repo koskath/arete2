@@ -1,15 +1,1 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Episode 6
- Actors, roles, objectives:
- Phone call to Alice Dias of ValuMart by an unknown
-from Regency Brand
- Key topic, key messages:
- “Immoral” offering of Regency to sell to ValuMart
-Session 3 -Integration and Collaboration Slide 11
+Episode 6  Actors, roles, objectives:  Phone call to Alice Dias of ValuMart by an unknown from Regency Brand  Key topic, key messages:  “Immoral” offering of Regency to sell to ValuMart Session 3 -Integration and Collaboration Slide 11

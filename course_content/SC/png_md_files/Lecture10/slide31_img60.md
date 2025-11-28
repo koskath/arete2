@@ -1,0 +1,1 @@
+The image contains the words "commission houses" in lowercase letters. The font is bold and sans-serif. The text is centered horizontally within the image and is black in color, positioned against a white background with no other visible elements, structures, or annotations.

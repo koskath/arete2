@@ -1,0 +1,1 @@
+The image consists of the words "sales agents" in lowercase letters. The font is bold and black, giving a strong and clear appearance. The text is simple, without any additional graphics or background elements, and is centered within the image. The spacing between the letters is uniform, maintaining a clean and organized look.

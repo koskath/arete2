@@ -1,25 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Taylors „Scientific Management“ - Historical
-Milestone from craftsmanship to industry
- Frederick Winslow Taylor, 1856-1915
- From rich Philadelphia family
- Preparing for college at Harvard but had problems with
-his eyesight; instead of it:
- Apprenticeship in industry – and shocked
-of the inefficiency of his fellow workers
- 1878, Midvale Steel, laborer--> foreman--> chief
-engineer
- By 1881 --> time and motion studies
- “Shovel experiments” at Bethlehem Steel Works
-reducing number of people shoveling from
-500 to 140
- 1883, “Night school” and engineering degree from
-Stevens Institute of Technology
-Session 4 -Production and Global Production Networks Slide 3
+# Taylors „Scientific Management“ - Historical
+This historical milestone marks the transition from craftsmanship to industry and is closely associated with Frederick Winslow Taylor, 1856–1915. Taylor came from a rich Philadelphia family and was originally preparing for college at Harvard, but he had problems with his eyesight; instead of continuing that path, he entered an apprenticeship in industry and was shocked by the inefficiency of his fellow workers. In 1878, at Midvale Steel, he advanced from laborer to foreman and eventually to chief engineer, and by 1881 he was carrying out extensive time and motion studies. His famous “shovel experiments” at Bethlehem Steel Works reduced the number of people shoveling from 500 to 140, demonstrating the power of scientific management. In 1883 he attended “night school” and obtained an engineering degree from Stevens Institute of Technology. Session 4 - Production and Global Production Networks Slide 3.

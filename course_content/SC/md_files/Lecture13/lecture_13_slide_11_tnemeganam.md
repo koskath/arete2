@@ -1,23 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Competitive Strategy and Supply Chain
-Competitive
-strategy
-Supply chain
-Cost Differentiation
-strategy
-Supply chain structure
-Basic
-Inventory Transportation Facilities
-Logistical
-Drivers
-Cross-
-Functional Information Sourcing Pricing
-Drivers
-Strategy & Configuration Slide 11
+# Competitive Strategy and Supply Chain
+Competitive strategy and supply chain design are closely intertwined. A firm’s **competitive strategy**, which often involves a choice between **cost** leadership and **differentiation**, must be supported by a coherent **supply chain strategy** that translates these high‑level aims into operational realities. Consequently, the **supply chain structure**—including basic elements such as **inventory**, **transportation** and **facilities**—must be configured so that it reinforces the chosen competitive position; these structural choices are commonly referred to as the core **logistical drivers**. In addition, a set of **cross‑functional drivers**, such as **information**, **sourcing** and **pricing**, also need to be aligned, since they influence how effectively the supply chain can execute the competitive strategy. Taken together, these logistical and cross‑functional drivers shape the overall supply chain strategy as presented in Strategy & Configuration Slide 11.

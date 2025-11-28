@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Strategic Scope across the total supply chain
+# Strategic Scope across the total supply chain
 how to vertically and horizontally align it???
 Suppliers Manufacturer Distributor Retailer Customer
 Competitive

@@ -1,0 +1,1 @@
+The image consists of a barcode with alternating vertical black and white bars of varying thicknesses. The barcode is centered horizontally. On the left and right sides of the barcode, there are thin vertical blue lines. The background is white. There are no visible numbers, annotations, or additional elements in the image.

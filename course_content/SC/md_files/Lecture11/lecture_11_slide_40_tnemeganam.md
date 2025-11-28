@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 3: Integration,
+# Key learning points: Session 3: Integration,
 collaboration and SCM
 Content: Literature:
 • Ackerman, Ken B. and Bodegraven, Art Van (2007):

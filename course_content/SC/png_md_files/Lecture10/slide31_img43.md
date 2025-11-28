@@ -1,0 +1,1 @@
+The image contains the text "export packaging firms" in bold, black, lowercase letters. The font appears to be sans-serif, with all letters evenly spaced and occupying a single horizontal line. The text is centered and aligned within the image, taking up most of the width. The background is plain white with no additional elements or graphics.

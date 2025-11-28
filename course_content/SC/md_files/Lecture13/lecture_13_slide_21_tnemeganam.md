@@ -1,22 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Strategic Scope of the single actor in the
+# Strategic Scope of the single actor in the
 Supply Chain – ONLY some thoughts!
-Objectives With different Scope Concepts,
-Strategic Chain/Function?? Instruments??
-Themes??
-Supply Chain
-Awareness
-Supply Chain
-Configuration
-Supply Chain
-Execution
-Supply Chain
-Adaptation
-Strategy & Configuration Slide 21
+When thinking about the **strategic scope of a single actor in the supply chain**, we can sketch only some initial thoughts, but they already highlight how objectives, scope, concepts, chain or function, instruments and themes interact. At a high level, different objectives may be associated with different scopes and concepts, and each actor must decide which part of the chain or which function to emphasize and which instruments to use. Within this broad picture, we can distinguish several strategic themes: **Supply Chain Awareness**, which concerns recognising supply chain issues and opportunities; **Supply Chain Configuration**, which focuses on how the chain is structured; **Supply Chain Execution**, which relates to how day‑to‑day operations are carried out; and **Supply Chain Adaptation**, which covers how the chain is adjusted over time. These themes provide a way to frame the strategic role of an individual actor in the broader supply chain, as indicated in Strategy & Configuration Slide 21.

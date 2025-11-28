@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-More Bottom-Up – From “conducted
+# More Bottom-Up – From “conducted
 Orchestra” more towards the “Jazz-Combo”
  Jamming: work within a structure and live by its own
 dynamics

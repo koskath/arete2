@@ -1,38 +1,4 @@
 # Supplier Data of ABC and XYZ
 
 Supplier ABC A/S Supplier XYZ Ltd.
-•Quoted price (without any extras): $25.00
-•Quoted price (without any extras): $ 30.00
-•Freight costs last year you incurred a total freight
-•Freight costs last year you incurred a total freight
-cost of $50 for sourcing 100 pieces from XYZ, using
-cost of $40 for sourcing 150 pieces from ABC using
-road & water modes.
-truck transport solemnly.
-•Discounts: XYZ offers 1% discount on prompt
-•Discounts: ABC offers 3% discount on prompt
-payment
-payment
-•Delivery performance: XYZ delivers the product
-•Delivery performance: ABC delivers the product
-85% on time.
-95% on time.
-•Quality: you rejected 10% of XYZ’s goods last year.
-•Quality: there were 5% rejects from ABC’s goods
-last year. •Lead time: it takes 12 weeks to source the product
-from XYZ.
-•Lead time: it takes 6 weeks to source the product
-from ABC. •Recycling policy: XYZ doesn’t recycle and doesn’t
-completely agree with your recycling policy.
-•Recycling policy: ABC recycles and confirms to
-your recycling and CSR (Corporate Social •Heroics: ABC has helped you in the time of need &
-Responsibility) policies. distress - Once when a fire broke out damaging all
-our stock; another time when we faced shortage; and
-•Heroics: ABC has never gone out-of-the-way to help
-another time when the shipment got lost.
-you in the time of need & distress.
-•Background: XYZ is a typical US-American supplier.
-•Background: ABC is a local Danish supplier.
-However, the CEO of XYZ & you went to the
-Copenhagen Business School together.
-30
+For supplier ABC A/S, the quoted price without any extras is \$25.00, whereas for supplier XYZ Ltd. the quoted price without any extras is \$30.00. In terms of freight costs, last year you incurred a total freight cost of \$40 for sourcing 150 pieces from ABC using truck transport solely, while the total freight cost was \$50 for sourcing 100 pieces from XYZ using road and water modes. Regarding discounts, ABC offers a 3% discount on prompt payment, whereas XYZ offers a 1% discount on prompt payment. Concerning delivery performance, ABC delivers the product 95% of the time on schedule, while XYZ delivers the product 85% on time. Looking at quality, there were 5% rejects from ABC’s goods last year, whereas you rejected 10% of XYZ’s goods in the same period. Lead time also differs: it takes 6 weeks to source the product from ABC but 12 weeks to source the product from XYZ. With respect to recycling policy, ABC recycles and conforms to your recycling and CSR (Corporate Social Responsibility) policies, whereas XYZ does not recycle and does not completely agree with your recycling policy. In terms of “heroics”, ABC has helped you in times of need and distress—once when a fire broke out damaging all your stock, another time when you faced a shortage and another time when a shipment got lost—while XYZ has never gone out of the way to help you in such situations. Finally, ABC is a local Danish supplier, whereas XYZ is a typical US-American supplier; however, the CEO of XYZ and you went to the Copenhagen Business School together. 30

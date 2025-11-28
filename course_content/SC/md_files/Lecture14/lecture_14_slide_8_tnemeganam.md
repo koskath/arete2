@@ -1,24 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-e.g. Integrating with different length of the chains
+# e.g. Integrating with different length of the chains
 or the major objectives such as efficiency vs. agility, vs resilience, vs.
 sustainability …
-Slide 8
-Customers/End
-Users
-Order Flow
-Suppliers/Vendors
-Purchasing Forecasting
-Sourcing Procurement/Production Fulfillment flow
-Payment Flow
-1. „short“ deliveredfromstock -S
-2. „medium“ madetoorder -S
-3. „long“ engineeredtoorder-S
-... howtodetermine„optimal complexity“
-andtheoptimal „customerpenetrationpoint“?
-31.01.2024
+In this example, we consider how to integrate supply chains of different lengths while pursuing major objectives such as efficiency, agility, resilience and sustainability. At the core, there is an **order flow** that connects **customers or end users** with **suppliers or vendors**, and that encompasses activities like **purchasing**, **forecasting**, **sourcing**, **procurement and production**, the **fulfilment flow** and the **payment flow**. Depending on how this flow is configured, we can distinguish three basic chain lengths: a **“short” chain**, where products are delivered from stock (delivered‑from‑stock, S); a **“medium” chain**, where goods are made to order (made‑to‑order, S); and a **“long” chain**, where products are engineered to order (engineered‑to‑order, S). The central challenge is to determine the **optimal complexity** of the chain and the optimal **customer penetration point**, that is, the point at which customer‑specific requirements start to shape the flow, as illustrated on Slide 8 dated 31.01.2024.

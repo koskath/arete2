@@ -1,0 +1,1 @@
+The image is a plain white to light grey gradient with no visible structures, shapes, annotations, or distinct details. The gradient begins with a white color on the left side and gradually transitions to a light grey on the right side, creating a subtle shift in shading. There are no other elements, such as lines, text, or symbols, present in the image.

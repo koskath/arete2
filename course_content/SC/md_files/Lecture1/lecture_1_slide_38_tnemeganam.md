@@ -1,23 +1,6 @@
-# tnemeganaM
+# It is not only the order-to-payment flow
+Supply chain management is not only about the order-to-payment flow. It also involves supply chain awareness in developing new business and supply chain ideas and in developing products. It requires attention to supply chain structure, meaning configuring your physical network and optimising resource allocation and facility locations.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-It is not only the order-to-payment flow
- SupplyChain Awareness
-in DevelopingnewBusiness/SupplyChain Ideas, DevelopProducts
- Supply Chain Structure
-Configure your physical network and optimize
-ressource allocation and facility location
- Integrated Processes
-Integrate organizations,
-information systems and
-human ressources into
-effective and efficient flows
- Adaptation andDevelopment
-Keep yoursupplychain„state-of-
-the-art“ andadoptemerging
-technologiesandideas
+Furthermore, it demands integrated processes, in which organisations, information systems and human resources are integrated into effective and efficient flows. Finally, adaptation and development are essential to keep your supply chain “state-of-the-art” and to adopt emerging technologies and ideas.
+
 05.02.2025 Slide 38

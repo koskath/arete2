@@ -1,0 +1,1 @@
+The image contains the text "direct Export" in black, bold lettering. The font is sans-serif, with the first letter "d" in lowercase followed by the rest of the letters in mixed casing. The spacing between letters is tight, and the text is horizontally aligned in the center. The background is plain white, emphasizing the text as the primary element.

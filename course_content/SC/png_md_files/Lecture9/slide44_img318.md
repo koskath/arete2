@@ -1,0 +1,1 @@
+The image is a simple gradient. The top part of the image contains a light blue color that gradually transitions to white as it moves downward. There are no distinct shapes, annotations, or structures, and the transition is smooth without any visible lines or separations. The gradient occupies the entire image from left to right.

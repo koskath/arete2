@@ -1,9 +1,4 @@
-# tnemeganaM
+# The Core Idea – The globe is the system
+The core idea is that the entire globe now functions as a single system, within which economic, informational and logistical flows are increasingly interconnected and interdependent.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-The Core Idea – The globe is the system
 Slide 17

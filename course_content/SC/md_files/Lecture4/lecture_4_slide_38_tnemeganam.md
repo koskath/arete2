@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-3 – “Shoppers”
+# 3 – “Shoppers”
 Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Prod/Ass Distrib.

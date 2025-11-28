@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-SOME Key learning points: Session 1: Introduction
+# SOME Key learning points: Session 1: Introduction
 to logistics and supply chain management
 Literature:
 Content:

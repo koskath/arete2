@@ -1,0 +1,1 @@
+The image shows the text "cialand" written in bold, black, lowercase letters in a sans-serif font. The letters are evenly spaced and sharply defined against a plain white background. There are no other elements, annotations, or details visible in the image.

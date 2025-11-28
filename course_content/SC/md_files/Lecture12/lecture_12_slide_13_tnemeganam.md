@@ -1,29 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Information Technologies can be used to make isolated Processes or Activities more efficient
+# Information Technologies can be used to make isolated Processes or Activities more efficient
 Phase 1: IT Support for basic Functions
-Supplier  Goal: Automation of information
-processes for basic functions like
-Finance
-“MRP” or “billing” in finance
-Sales
- Benefits: Higher efficiency for
-isolated processes
-Production
- Results: Isolated IT solutions
-….
-Integration
- BUT: Existing processes remain
-based on IT
-unchanged, potential of
-Function / Process
-Business Unit information technologies only
-Source: Fleisch, E., Österle, H.; 2000; A Process-oriented Approach to Business partially exploited
-Networking; Electronic Journal of organizational Virtualness2(2), 1-21
-12 Digitization and Digitalization 14.03.2025 Slide 13
+In Phase 1, information technologies are used to make isolated processes or activities more efficient by providing IT support for basic functions. The goal is the automation of information processes for basic functions such as finance, for example through MRP systems or billing applications, as well as for sales and production. The benefits are higher efficiency for these isolated processes, and the result is a set of isolated IT solutions within different functions. However, existing processes themselves remain unchanged, so the potential of information technologies is only partially exploited. Source: Fleisch, E., Österle, H. (2000), “A Process‑oriented Approach to Business Networking”, Electronic Journal of Organizational Virtualness 2(2), 1–21. 12 Digitization and Digitalization 14.03.2025 Slide 13

@@ -1,0 +1,1 @@
+The image contains the word "brokers" written in lowercase letters. The font is bold and sans-serif, with a uniform thickness throughout each letter. The text is black on a plain white background, with no additional graphics, symbols, or annotations present. Each letter is evenly spaced, creating a balanced alignment across the word.

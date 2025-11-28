@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-More top-down: Collaborative approaches in
+# More top-down: Collaborative approaches in
 the extended companies context –
 • From the limited world of the single company to the
 exchange of planning data „up“

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Yourself -
+# Yourself -
 Questions
  Where do we produce different
 Prepare for the

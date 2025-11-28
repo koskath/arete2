@@ -1,0 +1,1 @@
+The image contains the text "cargo sales agents" in lowercase letters. The font used is bold and sans-serif, with uniform thickness throughout each character. The text is black against a transparent background. The spacing between the letters is consistent, and the text is horizontally aligned in a straight line. The letters are large and occupy most of the space in the image.

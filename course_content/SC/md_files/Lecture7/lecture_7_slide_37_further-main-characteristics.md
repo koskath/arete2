@@ -1,20 +1,4 @@
 # Further Main Characteristics
 
-One Point Clauses (Transfer of risks and costs at same place):
-• EXW, FCA, FAS, FOB, DAP, DPU, DDP
-Two Point Clauses (Different place of transfer of risk and costs):
-• CPT, CIP, CFR, CIF
-Principally for any mode(s) of transports applicable:
-EXW, FCA, CPT, CIP, DAP, DPU, DDP
-Only for maritime shipping / inland waterway whenever goods
-are delivered on board or along side a vessel in a port
-(NOT recommended for container transports):
-FAS, FOB, CFR, CIF
-Can be also used for international as well as domestic shipments, and for arrange-
-ments for carriage with seller’s or buyer’s own means of transport in FCA, DAP, DPU
-and DDP
-Have to be explicitly incorporated into a sales contract, like
-“[…] according to Incoterms® 2020”
-“Named Place” has to be specified as precisely as possible, e.g. by
-postal address / UNLOCODE (http://www.unece.org/cefact/locode/welcome.html/)
-37
+Further main characteristics of Incoterms® include the distinction between one‑point and two‑point clauses. One‑point clauses, in which the transfer of risks and costs occurs at the same place, include EXW, FCA, FAS, FOB, DAP, DPU and DDP. Two‑point clauses, where the place of transfer of risk and the place of transfer of costs differ, include CPT, CIP, CFR and CIF.  
+Certain Incoterms® are principally applicable for any mode or modes of transport, such as EXW, FCA, CPT, CIP, DAP, DPU and DDP. Others—FAS, FOB, CFR and CIF—are intended only for maritime shipping and inland waterways, where goods are delivered on board or alongside a vessel in a port, and they are not recommended for container transports. Incoterms® can be used for international as well as domestic shipments and can accommodate arrangements for carriage with either the seller’s or the buyer’s own means of transport in FCA, DAP, DPU and DDP. They have to be explicitly incorporated into a sales contract, for example by stating “[…] according to Incoterms® 2020”, and the “named place” has to be specified as precisely as possible, for instance by using a postal address or a UN/LOCODE (`http://www.unece.org/cefact/locode/welcome.html/`). 37

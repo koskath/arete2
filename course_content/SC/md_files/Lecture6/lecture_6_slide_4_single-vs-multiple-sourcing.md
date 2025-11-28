@@ -1,9 +1,3 @@
 # Single vs. Multiple Sourcing
 
-Single Sourcing Multiple Sourcing
-Refers to sourcing from one Sourcing policy of using two or
-selected supplier, even though more or even many suppliers to
-there are other suppliers that purchase certain components,
-provide similar products. products, product groups or
-services.
-4
+Single sourcing refers to sourcing from one selected supplier even though there are other suppliers that provide similar products. In contrast, multiple sourcing is a sourcing policy that uses two or more, or even many, suppliers to purchase certain components, products, product groups or services. 4

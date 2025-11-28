@@ -1,24 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-… e.g. some more up-to-date ways of
+# … e.g. some more up-to-date ways of
 Handling „C-Parts“
-• KANBAN System using Barcode Scanning
-Empty Box Barcode Info in the
-(withBarcode) Scanning System
-Information flow
-PhysicalFlow
-Weekly Filling Boxes
-delivery
-Refilling
-Supply Stock
-Return of
-empties
-Fotos: Bossard,
-Keller&Kalmbach, Würth
-12.03.2025 Slide 22
+One more up‑to‑date way of handling “C‑parts” is to use a KANBAN system with barcode scanning. In such a system, empty boxes with barcodes are scanned so that their information enters the scanning system and triggers replenishment. There is a clear distinction between the information flow, which is managed electronically, and the physical flow, in which boxes are refilled from supply stock and returned empties are collected, often on a weekly delivery cycle. Examples of companies applying such systems include Bossard, Keller & Kalmbach and Würth. 12.03.2025 Slide 22

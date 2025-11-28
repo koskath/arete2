@@ -1,27 +1,6 @@
-# tnemeganaM
+# The challenge of the Scope?
+Basic, extended and ultimate supply chains pose different challenges in terms of scope. At the most basic level, a seller–buyer partnership can be represented as a supplier, the focal firm and the customer, forming a basic supply chain. An extended supply chain adds the supplier’s supplier and the customer’s customer, as well as third-party logistics suppliers. An ultimate supply chain, in turn, further includes entities such as financial market providers and research firms around the focal firm, supplier and customer.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-The challenge of the Scope?
-Basic – Extended - Ultimate
-Seller Buyer
-Partnership
-Supplier Focal Firm Customer
-Basic Supply Chain
-Supplier’s Customer’s
-… Supplier Focal Firm Customer …
-Supplier Customer
-Extended Supply Chain
-Third Party
-Logistics Supplier
-Initial Ultimate
-… Supplier Focal Firm Customer …
-Supplier Customer
-Financial Market
-Provider Research Firm
-Ultimate Supply Chain
-Source:Mentzeru.a. (2001), S. 7
+Source: Mentzer et al. (2001), p. 7
+
 31.01.2024 Slide 8

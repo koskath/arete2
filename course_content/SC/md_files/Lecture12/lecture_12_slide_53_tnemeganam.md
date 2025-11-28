@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Harmonization or even integration of
+# Harmonization or even integration of
 Information and Material Flow or iow
 “Cyber and Physical”world
 World of Information „Cyber“

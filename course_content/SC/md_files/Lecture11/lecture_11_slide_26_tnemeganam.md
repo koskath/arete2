@@ -1,20 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam content
+# Exam content
 What could be asked
 Example Q2, prestructured
-• Supplier management is fundamental in the
-operation of supply chains.
-– Thoroughly explain the concept of
-bullwhip effect, include the factors
-that lead to it!
-– How can it be controlled and how
-would you rate the chances for
-success of different approaches?
-12.03.2025 Slide 26
+This example of a pre‑structured question focuses on supplier management, which is fundamental in the operation of supply chains. You might be asked to thoroughly explain the concept of the bullwhip effect and to include the factors that lead to it. You could also be required to discuss how the bullwhip effect can be controlled and to assess the chances of success of different approaches. 12.03.2025 Slide 26

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Elements of Lean Management:
+# Elements of Lean Management:
 Lean Philosophy techniques and tools
  Lean Philosophy
  Eliminate waste

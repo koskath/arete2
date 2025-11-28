@@ -1,0 +1,5 @@
+A large cargo ship is sailing on the open sea, moving from the bottom left towards the top right of the image. The ship is packed with multicolored shipping containers arranged in a grid-like manner. These containers are predominantly red, with some in shades of blue, green, and yellow. 
+
+The ship's hull is grey, with a white superstructure. A tall white mast is positioned near the front of the ship, extending vertically with several lines and rigging attached. Near the back of the ship, the bridge is visible, with multiple levels and windows, along with communication antennas.
+
+The ocean is a deep blue, with visible white waves formed by the movement of the ship, primarily visible at the front, where it cuts through the water. The sky above is clear, with a light blue color. There are no other visible ships or landmasses in the background.

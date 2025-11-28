@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Waste of Waiting
+# Waste of Waiting
 Cuttingsare coming
 out!
 So I work!

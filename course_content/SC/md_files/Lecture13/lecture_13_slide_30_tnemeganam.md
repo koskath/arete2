@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-E.G. Computer Industry Structure 1975 – 1985
+# E.G. Computer Industry Structure 1975 – 1985
 Showing changes in the product architecture -
 Microprocessor
 Operating System

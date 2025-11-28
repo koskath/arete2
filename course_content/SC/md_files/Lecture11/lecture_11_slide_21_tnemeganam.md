@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Example The ABC-Classification
+# Example The ABC-Classification
 of materials …
 Value of
 material type

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points – Session 6 Outsourcing,
+# Key learning points – Session 6 Outsourcing,
 Offshoring and Procurement in the Supply Chain
 Literature:
 Content:

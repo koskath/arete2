@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Information Technologies can be used to build up highly efficient m:n Information Networks
+# Information Technologies can be used to build up highly efficient m:n Information Networks
 Phase 5: m:n Coordination of Companies
 Supplier Customer  Goal: Cost reduction for
 networking between firms

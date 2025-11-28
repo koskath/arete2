@@ -1,0 +1,1 @@
+The image is a simple gradient background transitioning from a light gray color at the top to a white color at the bottom. There are no visible shapes, annotations, structures, texts, or other elements present. The entire composition consists of this smooth vertical gradient without any additional details.

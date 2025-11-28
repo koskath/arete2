@@ -1,21 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Response
+# Response
 Language
-• The exam is held in English!
-• It is not an (English) language exam!
-Some points to remember:
-• Use easily understood language......demonstrate command of
-technical terminology......demonstrate good academic style.....the
-assignment is not improved if foreign words are thrown around.
-• Use short sentences. Long sentences increase the risk of
-confusion and ambiguity.
-• Spend time proofreading and checking .....
-• Be consistent in your argumentation and use of language.....
-12.03.2025 Slide 33
+The exam is held in English, but it is not an English language exam. Some points are worth remembering: use easily understood language and at the same time demonstrate command of technical terminology and good academic style; the assignment is not improved by throwing in foreign words unnecessarily. Use short sentences, because long sentences increase the risk of confusion and ambiguity. Spend time proofreading and checking your work, and be consistent in your argumentation and in your use of language. 12.03.2025 Slide 33

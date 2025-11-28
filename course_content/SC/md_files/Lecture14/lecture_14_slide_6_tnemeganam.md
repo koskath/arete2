@@ -1,30 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Key learning points: Session 1: Introduction to
+# Key learning points: Session 1: Introduction to
 logistics and supply chain management
-Literature: Content:
-• Kopczak, L. R. and Johnson, M. Eric (2003): The
-• An introduction to the course
-Supply-Chain management effect. MIT Sloan
-• The evolution of logistics and scm
-Management Review, Vol. 44, No. 3, pp. 27-34.
-• Key logistics activities and • Bowersox, Donald (2007): SCM: The past is
-components prologue, in: CSCMP's Supply Chain Quarterly,
-2/2007, pp. 1-7
-• The grand purpose of supply chain
-management
-Some broad questions that address the
-main issues:
-Main issues: SCManagement
-Q What is Logistics/SCM; What is the
-• System/flow/network thinking in
-logistics and scm difference?
-• Functional vs. holistic view Q What means “managing” a Supply
-• Footprints of modern logistics/SCM
-Chain
-29.02.2024 Slide 6
+Literature and content for this session focus on providing both an academic and a practical introduction to logistics and supply chain management. On the **literature** side, Kopczak, L. R. and Johnson, M. Eric (2003), in “The Supply‑Chain Management Effect” (MIT Sloan Management Review, Vol. 44, No. 3, pp. 27–34), and Bowersox, Donald (2007), in “SCM: The Past is Prologue” (CSCMP's Supply Chain Quarterly, 2/2007, pp. 1–7), offer important perspectives on how supply‑chain management has evolved and why it matters. On the **content** side, the session begins with an introduction to the course, followed by a discussion of the evolution of logistics and SCM, a review of key logistics activities and components, and an explanation of the grand purpose of supply chain management. These topics are framed by some broad questions that address the main issues of **SCManagement**, such as: What is logistics and SCM, and what is the difference between them? What does system, flow or network thinking in logistics and SCM mean? How do functional and holistic views differ, and what are the “footprints” of modern logistics and SCM? Finally, the session asks what it really means to “manage” a supply chain, encouraging participants to think about management as applied to entire flows and networks rather than isolated functions, as summarised on 29.02.2024 Slide 6.

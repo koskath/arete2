@@ -1,0 +1,1 @@
+The image contains the text "Transport Intermediaries" written in a bold, black font. The text is centrally aligned with each word capitalized. The background is white, providing contrast to the text, making it stand out. There are no other visible elements, annotations, or graphics present in the image.

@@ -1,19 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Today’s Topics
- Production planning and design
- Context and development –
-Milestones in the history of production
- Production layout, scheduling and materials
-planning
- More current approaches and main production systems
-– From Mass to Lean (“flexible mass”) and Agile
-production systems
- Global Production systems/networks
-Session 4 -Production and Global Production Networks Slide 2
+# Today’s Topics
+Production planning and design are discussed in relation to the broader context and development of production, including milestones in the history of production. In addition, the session examines production layout, scheduling and materials planning as central elements of managing operations. Furthermore, it introduces more current approaches and the main production systems, ranging from Mass to Lean (“flexible mass”) and Agile production systems, and it finally considers Global Production systems and networks. Session 4 - Production and Global Production Networks Slide 2.

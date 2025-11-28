@@ -1,0 +1,1 @@
+The image contains the text "trading companies" in bold black lettering. The font style appears to be sans-serif, with smooth and even letter thickness throughout. The letters are lowercase, evenly spaced, and aligned on a horizontal axis. There are no additional markings, symbols, or background elements visible in the image; it is plain and focused solely on the text.

@@ -1,0 +1,1 @@
+The image contains the text "international freight" in bold, black lowercase letters. The font is sans-serif, with consistent thickness throughout the characters. The background is plain white, and there are no additional elements, annotations, or variations in color. The text is centered, occupying the main portion of the image.

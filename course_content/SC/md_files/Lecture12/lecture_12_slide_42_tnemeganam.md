@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-How to handle the necessary information
+# How to handle the necessary information
 technically?
 How is the information Hand or machine Machine readable One or two
 coded? written label with object id dimensional barcode

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Three questions for you
+# Three questions for you
 Questions
 From the
  Read in particular until including

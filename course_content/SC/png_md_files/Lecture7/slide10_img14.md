@@ -1,0 +1,1 @@
+The image displays a large, bold number "4". It is black in color and is presented in a sans-serif font. The lines are thick and evenly weighted. The character occupies the majority of the frame and is centered on a plain white background. There are no additional elements, annotations, or decorations surrounding the number.

@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Select the best supplier between ABC Corp. & XYZ Corp -
+# Select the best supplier between ABC Corp. & XYZ Corp -
 Supplier Data
  Supplier 2: XYZ Corp.
  Supplier 1: ABC Corp.

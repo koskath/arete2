@@ -1,40 +1,4 @@
 # Three categories of monetary
 
 measures in UTC calculations
-Cost Performance Policy
-Factors
-Factors
-Factors
-The cost to the
-Issues of policy,
-Hard costs that have
-organization of a
-preference, and all
-already been quanti-
-supplier's failure to
-other issues that are
-fied by a quoted price
-perform.
-not data-related.
-or invoice etc.
-Measures like on-time
-May be expressed in
-delivery, product qua-
-Just have to broken monetary terms as a
-lity, and lead time to
-down to unit costs per credit for suppliers
-be transformed in a
-that comply or a tax
-shipment, period etc.
-“price adder” formula,
-on those who don`t.
-like percentage of
-Examples are e.g.
-Could be also cost
-quoted price or reflec-
-recycling content,
-savings like discounts ting actual costs per
-heroics, design
-for prompt payment unit on average.
-support etc.
-25
+In unit total cost (UTC) calculations, three categories of monetary measures are distinguished: cost factors, performance factors and policy factors. Cost factors are hard costs that have already been quantified by a quoted price or invoice and therefore do not need further transformation; they directly reflect the basic monetary outlay. Performance factors, by contrast, capture the cost to the organisation of a supplier’s failure to perform, and include measures such as on-time delivery, product quality and lead time, which have to be transformed into a “price adder” formula, for example as a percentage of the quoted price or as actual costs per shipment, period or unit on average. Policy factors, finally, relate to issues of policy, preference and other considerations that are not strictly data-related, and may be expressed in monetary terms as a credit for suppliers that comply with preferred policies or as a tax on those who do not. Examples of such policy-related measures include recycling content, “heroics” such as design support, cost savings like discounts for prompt payment and other similar elements. 25

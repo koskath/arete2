@@ -1,0 +1,1 @@
+The image contains the text "Distribution Structures at Home" in a bold, black serif font. The text is centered horizontally and occupies most of the space in the image. The background is white and plain, providing high contrast with the text for clear readability. There are no additional elements, graphics, or annotations present in the image.

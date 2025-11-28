@@ -1,19 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam format & resources
- 4hr closed book exam
- Some important features:
- Individual
- PC-Written
- Closed book - no books, notes,
-other academic reference materials
- Basic language dictionaries
-allowed!
- Basic calculators allowed!
-12.03.2025 Slide 4
+# Exam format & resources
+The exam is a 4‑hour closed‑book exam with some important features to keep in mind. It is an individual, PC‑written exam, and it is closed book, meaning that no books, notes or other academic reference materials are allowed. However, basic language dictionaries and basic calculators are permitted. 12.03.2025 Slide 4

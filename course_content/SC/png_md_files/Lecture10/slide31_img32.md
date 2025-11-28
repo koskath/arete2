@@ -1,0 +1,1 @@
+The image contains black text on a white background. The text reads "or insurance markets" in a bold, sans-serif font. The letters are evenly spaced and aligned horizontally. The text is centrally positioned within the image with no additional elements, decorations, or annotations present.

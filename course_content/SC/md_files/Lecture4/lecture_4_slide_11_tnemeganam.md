@@ -1,39 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Are there other ways to organize production –
+# Are there other ways to organize production –
 Basic Layout-types Why, how?
-Criteria for Basic Type - Characteristics Key Advantage
-the Key Disadvantage
-Organization
-The production Product layout „line“, „flowshop layout“ High volume production with
-• Layout that uses standardized processing unlearned but specialized workers
-process
-operations to achieve smooth, rapid, high- possible
-volume flow High initial setupcostsand setup
-•
-Linear arrangement of specialized times; thusinflexible
-workstations to produce a specific product
-The machine Process layout , „job shop layout“ Allows fordifferent productroutings;
-•
-Centers/machines grouped by process they flexibility
-processes
-perform Need forrouting, scheduling, and
-(single tasks) •
-Departments (sewing, kitting…) more transportationbetween single
-universal machinery productionsteps; + setups
-The final Fixed Position Layout Suitable forbig single
-•
-Product/ project stationary; workers, products/processes
-product
-materials, and equipment are moved as „one time“
-needed
-•
-Used in projects where the product cannot
-be moved
-Session 4 -Production and Global Production Networks Slide 11
+There are several basic layout types for organizing production, each with its own characteristics, key advantages and key disadvantages. The production, or product, layout—also called a “line” or “flowshop layout”—uses a standardized processing sequence to achieve a smooth, rapid, high-volume flow. It typically involves a linear arrangement of specialized workstations to produce a specific product and supports high volume production with relatively unlearned but specialized workers, yet this comes with high initial setup costs and setup times and therefore makes the system inflexible. In contrast, a machine or process layout—often referred to as a “job shop layout”—groups centres or machines by the processes they perform, that is, by single tasks such as departments for sewing, kitting and other operations with more universal machinery. This allows for different product routings and offers flexibility, but it also creates a need for careful routing and scheduling and leads to more transportation between single production steps, along with additional setups. Finally, a fixed position layout is suitable for big single products or projects, where the product or project remains stationary and workers, materials and equipment are moved as needed. This kind of layout is used in projects where the product cannot be moved. Session 4 - Production and Global Production Networks Slide 11.
+

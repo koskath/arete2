@@ -1,0 +1,1 @@
+The image shows a black number "10" on a white background. The digits are in a bold font. The '1' is a simple straight vertical line with a slight base at the bottom. The '0' is a perfectly rounded oval shape. Both numbers are centered and evenly spaced on the white background, aligned horizontally. There are no additional marks, lines, or annotations within the image.

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Mason-Jones/Towills
+# Mason-Jones/Towills
 Definitions of Postponement-Strategies
 Full Speculation Strategy
 

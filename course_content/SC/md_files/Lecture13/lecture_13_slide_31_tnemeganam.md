@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-… and consequences on the Network – example –
+# … and consequences on the Network – example –
 Computer Industry Structure 1985 - 1995
 Modularization instead vertically integrated supply chains
 Microprocessor Intel Motorola AMD Etc.

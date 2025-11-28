@@ -1,14 +1,4 @@
 # CASE STUDY
 
 Sell Direct-to-Consumer or Through Amazon?
-Questions:
-1.) Discuss pro‘s and con‘s for selling through Amazon!
-2.) Which bikes should Pedal Spark sell through Amazon?
-a) The present luxury ebike for $ 4,000
-b) The new budget ebike for $ 899
-3.) Which option offered by Amazon may be better for Pedal Spark?
-a) Sell products to Amazon for it to resell.
-b) Sell bikes themselves on Amazon and let them
-handle warehousing and shipping.
-c) List them on Amazon and ship them on their own.
-More details aboutAmazon Service? https://sell.amazon.se/en 17
+This case study, “Sell Direct‑to‑Consumer or Through Amazon?”, raises several key questions. First, you are asked to discuss the pros and cons of selling through Amazon. Second, you should consider which bikes Pedal Spark ought to sell through Amazon, namely whether it should be the present luxury e‑bike for \$4,000, the new budget e‑bike for \$899 or both. Third, you are invited to evaluate which option offered by Amazon may be better for Pedal Spark: selling products to Amazon for it to resell; selling bikes themselves on Amazon and letting Amazon handle warehousing and shipping; or listing the bikes on Amazon while handling shipping on their own. More details about Amazon’s services can be found at `https://sell.amazon.se/en`. 17

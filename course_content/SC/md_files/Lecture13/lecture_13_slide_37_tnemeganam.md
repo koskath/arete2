@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Further key patterns
+# Further key patterns
 Anticipating vs. Reacting – Push vs Pull
 WIP
 WIP

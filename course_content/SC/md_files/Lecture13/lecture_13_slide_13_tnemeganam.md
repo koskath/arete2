@@ -1,23 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. Broad production location strategies Dicken
+# e.g. Broad production location strategies Dicken
 (2003) see lessons 2 and 4
-Globally
-concentrated
-production
-Host-market
-production
-Product
-specialisation
-Transnational
-for regional
-vertical
-markets
-integration
-Strategy & Configuration Slide 13
+Broad production location strategies, as discussed for example by Dicken (2003; see lessons 2 and 4), can be grouped into several characteristic patterns. One option is **globally concentrated production**, where manufacturing is centralised in a limited number of locations and products are then shipped worldwide. Another approach is **host‑market production**, in which production facilities are located within the markets they serve, so that goods are made close to customers. A further pattern is **product specialisation**, where different locations specialise in particular products or components, enabling economies of scale and expertise. Finally, firms may adopt **transnational vertical integration for regional markets**, combining elements of global coordination and local responsiveness through integrated value chains that span regions. These different strategies illustrate the variety of ways in which companies can configure their production footprint, as captured in Strategy & Configuration Slide 13.

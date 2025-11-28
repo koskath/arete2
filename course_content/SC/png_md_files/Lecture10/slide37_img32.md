@@ -1,0 +1,1 @@
+The image consists of a plain white background with two thin, vertical, parallel blue lines. These lines are positioned close together on the right edge of the image. They run continuously from the top to the bottom of the frame. There are no other visible elements such as text, shapes, or annotations.

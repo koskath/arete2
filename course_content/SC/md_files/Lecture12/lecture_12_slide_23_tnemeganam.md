@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Complication 1: … The “time funnel” …
+# Complication 1: … The “time funnel” …
 Decreasing flexibility
 Parameters of delivery
 Master production

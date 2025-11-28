@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-2 1 3 4
+# 2 1 3 4
 Consumption Consumptionvalue
 Article Price Rank
 In units in % in total units in %

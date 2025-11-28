@@ -1,0 +1,1 @@
+A thin, diagonal blue line stretches from the top left to the bottom right of the image. The line is set against a plain white background. It appears slightly blurred, with a gradation of blue hues along its width, suggesting a soft, shadowed effect. The line maintains a consistent thickness throughout its length. There are no other elements or annotations visible in the image.

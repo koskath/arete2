@@ -1,25 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Scope – The strategic hierarchy??
-Key strategic Influences on
-decisions decision-making
-What business to be in? Economic environment
-Corporate What to acquire? Social environment
-strategy What to divest? Political environment
-How to allocate cash? Company values and ethics
-What is the mission? Customer/market dynamics
-Business What are the strategic Competitor activity
-strategy objectives of the firm? Core technology dynamics
-How to compete? Financial constraints
-How to contribute to the Skills of function’s staff
-Functional strategic objectives? Current technology
-strategy How to manage the Recent performance of the
-function’s resources? function
-Slacket al. 2007
-Strategy & Configuration Slide 7
+# Scope – The strategic hierarchy??
+Scope in the strategic hierarchy can be understood by looking at the key strategic influences on decisions and decision‑making at different levels. At the **corporate strategy** level, managers decide what business to be in, what to acquire, what to divest, how to allocate cash, and what the overall mission should be; these choices are shaped by the economic, social and political environment as well as by company values and ethics. At the **business strategy** level, the focus shifts to what the strategic objectives of the firm are and how to compete in chosen markets, taking into account customer and market dynamics, competitor activity, core technology dynamics and financial constraints. Finally, at the **functional strategy** level, the key questions concern how to contribute to the strategic objectives, how to manage the function’s resources, and how to build on the skills of the function’s staff and the current technology, while also considering the recent performance of the function. This perspective on the strategic hierarchy, drawing on Slack et al. 2007, is summarised in Strategy & Configuration Slide 7.

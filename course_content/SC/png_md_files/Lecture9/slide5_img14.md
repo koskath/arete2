@@ -1,0 +1,1 @@
+The image contains the words "Indirect Sales" written in large, bold, black letters. The text is capitalized at the beginning of each word and uses a sans-serif font. The background is plain and solid white with no additional elements, ensuring that the words stand out prominently in the center of the image. The alignment is horizontal, and the entire phrase is on a single line.

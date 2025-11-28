@@ -1,13 +1,5 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-FAS – Free Alongside ship
+# FAS – Free Alongside ship
 Seller Buyer
-Place ofdelivery: Alongside ship
-Transfer ofrisk
-Transfer ofcost
+Under FAS (Free Alongside Ship), the place of delivery is alongside the ship. When the goods are placed alongside the vessel, risk and cost are transferred from the seller to the buyer.
+
 Slide 54

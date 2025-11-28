@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Capacity requirement planning and – Need
+# Capacity requirement planning and – Need
 for smoothing
 Total Capacity in h
 Required per week
