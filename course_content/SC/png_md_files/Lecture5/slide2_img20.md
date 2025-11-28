@@ -1,0 +1,1 @@
+The image is a completely blank white rectangle with no visible elements, structures, shapes, annotations, or other details present.

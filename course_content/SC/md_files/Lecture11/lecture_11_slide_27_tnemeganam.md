@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Quality Criteria – Pre structured answer
+# Quality Criteria – Pre structured answer
 Criteria Description Changed
 Criteria
 Clarity about the Here: This choice is already limited Relate already the

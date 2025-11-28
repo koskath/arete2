@@ -1,25 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-SCM – e.g. Flow Oriented Thinking based on the „S“-model:
+# SCM – e.g. Flow Oriented Thinking based on the „S“-model:
 four generic Processes and related main Challenges
- SupplyChain Awareness
-in DevelopingnewBusiness/SupplyChain Ideas, DevelopProducts
- Supply Chain Structure
-Configure your physical network and optimize
-ressource allocation and facility location
- Integrated Processes
-Integrate organizations,
-information systems and
-human ressources into
-effective and efficient flows
- Adaptation andDevelopment
-Keep yoursupplychain„state-of-
-the-art“ andadoptemerging
-technologiesandideas
-Strategy & Configuration Slide 20
+Flow‑oriented thinking in supply chain management, as illustrated by the “S”‑model, identifies four generic processes and their related main challenges. The first process is **Supply Chain Awareness**, which involves developing new business and supply chain ideas and developing products, thereby ensuring that the supply chain is considered early in innovation and business development. The second process is **Supply Chain Structure**, where the challenge is to configure the physical network and optimize resource allocation and facility location so that the entire system supports strategic goals. The third process, **Integrated Processes**, focuses on integrating organisations, information systems and human resources into effective and efficient flows, which requires coordination and alignment across many functions and partners. Finally, **Adaptation and Development** aims to keep the supply chain “state‑of‑the‑art” and to adopt emerging technologies and ideas, ensuring that the system evolves over time. These four processes and challenges are summarised in Strategy & Configuration Slide 20.

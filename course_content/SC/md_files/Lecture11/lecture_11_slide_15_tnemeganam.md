@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. you could do an ABC Analysis
+# e.g. you could do an ABC Analysis
 • Idea: • Checklist:
 1. Calculation of the total consumption value of each material per
 • Use „consumption period (quantity multiplied by the cost price)

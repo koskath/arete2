@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Attitude
+# Attitude
 “Most students prefer certain types of examination to
 others. It is not necessarily just a question of which
 types are easier than others - but also whether you feel

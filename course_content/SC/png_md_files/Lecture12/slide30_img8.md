@@ -1,0 +1,1 @@
+The image is a seamless gradient background transitioning horizontally from a darker shade of gray on the left to a lighter shade of gray on the right. The gradient is smooth and even, with no visible lines or sharp transitions between the shades. There are no other elements such as text, shapes, or annotations present.

@@ -1,0 +1,1 @@
+The image is a smooth gradient that transitions from a lighter blue on the left side to a darker blue on the right side. The gradient is seamless, with no distinct lines or interruptions, creating a continuous and even color transition across the entire image. There are no additional details, shapes, structures, annotations, or spatial elements present.

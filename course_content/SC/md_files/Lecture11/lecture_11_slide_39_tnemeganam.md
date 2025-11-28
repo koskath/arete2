@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 2: The global context
+# Key learning points: Session 2: The global context
 of logistics and supply chain management
 Content:
 Literature:

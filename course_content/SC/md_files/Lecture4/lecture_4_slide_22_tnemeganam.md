@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Lean - A Strategy Based
+# Lean - A Strategy Based
 on Lead Time Compression
 Lean Tools to
 $ $

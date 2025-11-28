@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. Fine: Integral vs. Modular
+# e.g. Fine: Integral vs. Modular
 Integrated Products Integrated Supply Chain
 – Components are tightly coupled – Closely coupled elements
 – Components perform several – Elements are not interchangeable

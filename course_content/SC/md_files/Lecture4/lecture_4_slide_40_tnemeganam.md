@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Serving global Markets – Economies of Scale
+# Serving global Markets – Economies of Scale
 don`t stop at borders
 1. step: Rationalization
 2. step: "High‐levelservice logistics

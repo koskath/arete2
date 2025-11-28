@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Dell Computer Company
+# Dell Computer Company
 “How can we make the process of buying a
 computer better?”
  Sell custom-built PCs directly to consumer

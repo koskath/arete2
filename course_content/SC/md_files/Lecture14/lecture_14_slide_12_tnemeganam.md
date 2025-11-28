@@ -1,37 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Key learning points: Session 3: Integration,
+# Key learning points: Session 3: Integration,
 collaboration and SCM
-Content: Literature:
-• Ackerman, Ken B. and Bodegraven, Art Van (2007):
-• Organization, coordination and Relationships for supply chain success. Supply Chain
-Quarterly, Q4, 2007.
-integration issues in the global supply
-• Lambert, D. M. & Knemeyer, M. A. (2004): We’re in this
-chain together. Harvard Business Review, Dec. 2004, pp. 114-122.
-• Boyson, S., Corsi, T., Dresner, M. and Harrington, L. (2004):
-• Intra/inter-organizational relationships Global Supply Chain Management Style depends on
-company size and scale. World Trade, Vol. 20, Iss.10 pp. 32 –
-• Supply chain collaboration methods and 36
-initiatives
-Some broad questions that address the main issues:
-Main issues: Relationships Q What relationships do we have in a typical supply
-chain?
-• A typical example of supply chain
-Q What initiatives can be employed in order to solve
-coordination and integration situation
-related problems?
-• The importance of relationships and Q What relationships should we have with whom in a good
-information exchange supply chain?
-Q What means collaboration and integration?
-• Demand distortion and the Bullwhip effect
-Q Why do the relationships not come naturally?
-• Essentials of a partnership
-CASE - A pain in the (supply) chain illustrates
-stakeholders roles and resulting outcomes,
-29.02.2024 Slide 12
+The key learning points for Session 3 centre on **integration, collaboration and SCM**, combining both content and literature. On the **literature** side, Ackerman, Ken B. and Bodegraven, Art Van (2007), in “Relationships for Supply Chain Success” (*Supply Chain Quarterly*, Q4, 2007), discuss how organisation and coordination influence performance; Lambert, D. M. and Knemeyer, M. A. (2004), in “We’re in This Together” (*Harvard Business Review*, Dec. 2004, pp. 114–122), highlight the importance of partnership; and Boyson, S., Corsi, T., Dresner, M. and Harrington, L. (2004), in “Global Supply Chain Management Style Depends on Company Size and Scale” (*World Trade*, Vol. 20, Iss. 10, pp. 32–36), show how firm characteristics shape supply chain relationships. On the **content** side, the session examines organisation, coordination and integration issues in the global supply chain, intra‑ and inter‑organisational relationships, and various supply chain collaboration methods and initiatives. These topics raise several broad questions that address the main issues of **relationships**, such as: What relationships do we have in a typical supply chain? What initiatives can be employed to solve coordination and integration‑related problems? What relationships should we have with whom in a well‑designed supply chain? What do collaboration and integration actually mean in practice? Why do relationships not come naturally, and what are the essentials of a partnership? The session also covers demand distortion and the **Bullwhip effect**, and a case study, “A Pain in the (Supply) Chain”, illustrates stakeholder roles and resulting outcomes. All of this is brought together on 29.02.2024 Slide 12.

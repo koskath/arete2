@@ -1,0 +1,1 @@
+The image contains bold, black text on a white background that reads "Hybrid Forms." The text is centered and occupies the majority of the image, with the letters being clear and evenly spaced. The font used is a bold sans-serif style, contributing to the text’s readability and impact. There are no other elements, designs, or annotations present in the image.

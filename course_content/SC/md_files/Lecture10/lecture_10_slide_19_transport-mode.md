@@ -1,10 +1,4 @@
 # Transport Mode
 
 and Lead Times
-Lead times are closely related to decisions on transport mode.
-A valuable strategy is accounting logistics costs on a full-cost basis:
-• Freight, insurance and handling costs
-• Inventory carrying costs for products in transit and cycle stock
-• Inventory carrying costs for safety stock
-• Investment cost required to produce the inventory to fill the pipeline
-19
+Lead times are closely related to decisions on transport mode, since different modes offer different speeds and levels of reliability. A valuable strategy is therefore to account for logistics costs on a full‑cost basis rather than looking only at freight rates. This includes freight, insurance and handling costs, inventory carrying costs for products in transit and for cycle stock, inventory carrying costs for safety stock and the investment cost required to produce the inventory needed to fill the pipeline. 19

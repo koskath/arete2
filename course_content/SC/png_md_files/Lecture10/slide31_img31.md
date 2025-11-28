@@ -1,0 +1,1 @@
+The image shows a single solid black diagonal line. The line is oriented from the top left to the bottom right, forming a slash-like shape. Its edges are pixelated, giving it a jagged appearance. The background is white, providing contrast to the black line. The line is uniform in width throughout its length.

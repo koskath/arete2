@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-… together with “the trumpet of doom”
+# … together with “the trumpet of doom”
 Forecast Error Range over Time
 Percentage
 Forecast 0

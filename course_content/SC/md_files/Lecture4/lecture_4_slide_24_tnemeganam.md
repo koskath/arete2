@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-What could be done?
+# What could be done?
 E.g. avoiding overproduction
 Finished
 work

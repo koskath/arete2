@@ -1,0 +1,1 @@
+A gradient image transitioning from black at the top left corner to white at the bottom right corner. The transition is smooth, with various shades of gray in between. The gradient follows a diagonal direction, forming a linear blend between the two corners. No text, shapes, or additional elements are present in the image.

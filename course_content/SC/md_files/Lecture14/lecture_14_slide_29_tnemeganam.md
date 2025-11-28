@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-In an upcoming world of modular ecosystems of services
+# In an upcoming world of modular ecosystems of services
 around the products
 Source: Porter und Heppelmann (2014), How
 Smart Connected Products Are Transforming

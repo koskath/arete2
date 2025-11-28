@@ -1,0 +1,1 @@
+The image displays a single word in lowercase, stylized text: "brokers". The font is bold and sans-serif with thick, evenly spaced letters. The letters are black on a plain white background. The edges of each letter are smooth and crisp, and there are no additional graphics, symbols, or annotations present. The text is centered within the frame of the image.

@@ -1,0 +1,1 @@
+The image displays the text "cargo consolidators" in all lowercase letters. The text is in a bold, black font. The letters are evenly spaced and occupy a single horizontal line, extending from left to right. The background is plain and white, providing strong contrast with the black text. There are no additional elements, structures, or annotations present in the image.

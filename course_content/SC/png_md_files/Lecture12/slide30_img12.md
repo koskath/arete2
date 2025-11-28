@@ -1,0 +1,1 @@
+A gradient fills the entire square image, transitioning from a darker gray in the bottom left corner to a light, almost white tone in the top right corner. The gradient appears smooth and continuous, with no distinct lines or abrupt changes in color. There are no other elements, shapes, annotations, or structures visible in the image.

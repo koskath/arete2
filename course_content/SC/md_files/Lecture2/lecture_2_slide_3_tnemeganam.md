@@ -1,27 +1,5 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-... more specifically: identifying „flows“ in the
+# ... more specifically: identifying „flows“ in the
 world of business
-Name
-Titel
-Name Name Name
-Titel Titel Titel
-Name Name Name Name Name Name Name Name
-Titel Titel Titel Titel Titel Titel Titel Titel
-Name Name Name Name Name Name Name Name
-Titel Titel Titel Titel Titel Titel Titel Titel
-Name Name Name
-Titel Titel Titel NTamiteel NTaimteel NTamiteel
-Name
-Titel
-Name Name Name Name
-Titel Titel Titel Titel
-Name Name Name
-NTaimteel Titel Titel Titel
-customer
+More specifically, this means identifying “flows” in the world of business rather than focusing only on static organisation charts filled with names and titles. Behind these many names and titles, there are flows of activities and responsibilities that ultimately converge on the customer.
+
 Slide 3

@@ -1,0 +1,1 @@
+The image consists of a single word "BEST" written in bold, uppercase letters. Each letter is colored in a deep red. The font is thick and sans-serif. The letters are evenly spaced from each other on a plain white background. There are no additional elements, annotations, or spatial structures in the image.

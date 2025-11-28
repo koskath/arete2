@@ -1,15 +1,3 @@
 # Legal Framework of Trade
 
-• Norms and rules of international law and multinational treaties
-or agreements, building up a supra-national legal framework:
-• UNO, OECD, EEC/EC/EU, GATT/WTO,...
-• Bilateral Commercial Treaties and Trade Agreements.
-• National regulations, mainly following national/regional interests:
-• External Trade Law, Customs Law,....
-• Lex Mercatoria: National and multinational regulations
-allowing valid cross-border legal transactions and their enforcement
-• International procedural law and law of sales contracts
-• Regulations about cross-border enforcement of sentences
-• Mediation and International arbitration
-(instead of ordinary court litigation procedures)
-4
+The legal framework of trade is formed by norms and rules of international law and multinational treaties or agreements, which together build up a supra-national legal framework. This includes organisations and regimes such as the UNO, OECD, EEC/EC/EU and GATT/WTO, as well as bilateral commercial treaties and trade agreements. Alongside these, national regulations—mainly following national or regional interests—also play a major role, including external trade law and customs law. Furthermore, Lex Mercatoria encompasses national and multinational regulations that allow valid cross-border legal transactions and their enforcement. International procedural law and the law of sales contracts, together with regulations about cross-border enforcement of sentences, provide additional structure. Mediation and international arbitration offer alternatives to ordinary court litigation procedures in resolving cross-border trade disputes. 4

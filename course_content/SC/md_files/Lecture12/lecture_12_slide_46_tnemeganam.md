@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Digitization vs. Digitalization
+# Digitization vs. Digitalization
 Digitization
 Digitalization
 Converting analogue into digital

@@ -1,0 +1,5 @@
+The image depicts a trapezoidal shape oriented horizontally. The trapezoid has a light blue fill and a thin black outline. Its left side is slanted inward, starting from a vertical baseline, going up and to the right. The top and bottom sides of the trapezoid are parallel horizontal lines, with the top line shorter than the bottom. The right side is also slanted, mirroring the angle of the left side but in reverse, creating the trapezoidal shape.
+
+Inside the trapezoid, approximately one-third from the left, there is a thin vertical line that divides the shape into two sections. To the left of the trapezoid, there is a large black arrow pointing rightward towards the trapezoid, suggesting movement or direction. On the right side, outside the trapezoid, there is a smaller black arrow pointing leftward, directly opposite to the first arrow, near the base of the right slanting line of the trapezoid. 
+
+The entire illustration is presented on a white background, and all elements are connected or proximally aligned, suggesting a relationship between them.

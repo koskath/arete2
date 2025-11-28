@@ -1,0 +1,5 @@
+The image contains a series of vertical and slightly diagonal lines on a white background. Most of the lines are thin and blue, varying slightly in shade. They are arranged in a seemingly random pattern, with a concentration of lines towards the left side of the image, tapering off towards the right. The lines appear wavy or distorted, creating an effect of movement or blurring.
+
+In the bottom part of the image, slightly diagonal text is present, partially visible, and appears in a blue serif font. The visible part of the text starts with "HE CBS C ASE SERIE," in capital letters, and below it, “on trainer t” can be seen, also in lowercase letters. The letters are slightly blurred, creating a sense of motion or distortion.
+
+There are no figures, annotations, or other graphical elements present besides the lines and text.

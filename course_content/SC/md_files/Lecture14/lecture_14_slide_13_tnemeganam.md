@@ -1,18 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-From “dicky bow” to “rhombus“?
-Classic relationship Partnership relationship
-– Limited to transaction – Multiple levels, including top
-(project, task) management
-– Sales/Purchasing dept. – Focus is on relationship
-Lambert and Knemeyer (2004)
- Development takes time
- Development is costly (extra HR, extra
-coordination, extra communicaiton)
- Development includes risks
-Final Wrap Up 21.03.2025 Slide 13
+# From “dicky bow” to “rhombus“?
+The move from a “dicky bow” to a “rhombus” can be used as a metaphor for the evolution from a classic relationship to a partnership relationship in supply chains. In a **classic relationship**, interactions are typically limited to single transactions, such as specific projects or tasks, and are often handled mainly by the sales or purchasing department. By contrast, a **partnership relationship** spans multiple levels, including top management, and the primary focus is on the overall relationship rather than on isolated transactions. As Lambert and Knemeyer (2004) note, the development of such partnership relationships takes time, is costly—because it requires extra human resources, additional coordination and more intensive communication—and inevitably includes risks. These characteristics highlight why moving from a simple “dicky bow” style relationship to a more complex “rhombus” partnership is both challenging and strategically significant, as summarised in Final Wrap Up 21.03.2025 Slide 13.

@@ -1,0 +1,1 @@
+The image contains the words "Logistics Service" in bold black font. The text is centered against a white background. The letters have a clean and simple sans-serif style. Each letter is evenly spaced, with consistent thickness throughout. The overall layout is straightforward, with no additional graphics, lines, or embellishments present.

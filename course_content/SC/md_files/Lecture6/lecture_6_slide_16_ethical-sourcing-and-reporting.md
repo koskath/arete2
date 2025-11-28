@@ -1,13 +1,3 @@
 # Ethical Sourcing and Reporting
 
-Very complex subjects of sustainability, including
- Green products
- Carbon emissions
- Transport
- Environmental performance
- Health and safety
- Diversity and equality
- Standards at work including suppliers
- Role of the business as
-an employer, customer and corporate citizen
-16
+Ethical sourcing and reporting involve very complex subjects of sustainability that span a wide range of issues. These include green products and the reduction of carbon emissions, as well as the environmental impact of transport and overall environmental performance. They also cover health and safety, diversity and equality, and the standards at work that apply not only within the buying organisation but also to suppliers. Moreover, ethical sourcing reflects the role of the business as an employer, a customer and a corporate citizen, and thus shapes how it interacts with workers, suppliers, communities and the environment. 16

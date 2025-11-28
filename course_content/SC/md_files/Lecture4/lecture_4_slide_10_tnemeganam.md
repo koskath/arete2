@@ -1,24 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Process Layout – Job shop layout
-Milling
-Lathe Department Department Drilling Department
-L L M M D D D D
-M M D D D D
-L L
-L L G G G P
-G G G P
-L L
-Grinding Painting Department
-L L Department
-A A A
-Receiving and
-Shipping
-Assembly
-Session 4 -Production and Global Production Networks Slide 10
+# Process Layout – Job shop layout
+A process layout, or job shop layout, organises production around departments such as Milling, Lathe, Drilling, Grinding and Painting, rather than around a single product flow line. In such a system, lathe departments, milling departments and drilling departments each group similar machines together, while grinding and painting departments handle their respective specialised operations. Receiving and shipping areas handle the inflow of materials and the outflow of finished goods, and finally assembly brings together the various processed parts. This layout supports flexibility in routing products between departments, but often at the cost of more complex material flows. Session 4 - Production and Global Production Networks Slide 10.

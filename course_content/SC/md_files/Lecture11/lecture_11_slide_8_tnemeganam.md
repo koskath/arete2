@@ -1,27 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam structure
+# Exam structure
 What will be asked?
- Will contain a set of three to four main questions with
-sub-questions :
-essay
- Open question with guiding sub-questions that
-require understanding and argumentation
- Pre-structured
-question requiring active knowledge
-to answer it and/or
- Pre-structured
-question requiring a decision to be
-made, and a for/against justification
- Multiple-choice
-questions – Scope of (Passive)
-Knowledge
- All questions would need to be answered
- All questions would be of equal importance
-12.03.2025 Slide 8
+The exam will contain a set of three to four main questions with sub‑questions. One part will be an open essay question with guiding sub‑questions that require understanding and argumentation. In addition, there will be pre‑structured questions that either require active knowledge to answer or require you to make a decision and provide a for/against justification. There will also be multiple‑choice questions that test the scope of your passive knowledge. All questions need to be answered, and all questions are of equal importance. 12.03.2025 Slide 8

@@ -1,12 +1,4 @@
 # Agenda
 
 Distribution Structures and Warehousing
-• Warehouse layouts and warehousing concepts
-• Value adding activities,
-Cross Docking and Merge-in-Transit
-• Warehouse management systems (WMS)
-• Materials handling, storage and order picking
-• Work organization and job design
-Logistics Performance
-Inventory turnover, cash-to-cash-cycle, supply chain ratio
-2
+The agenda for this lecture covers distribution structures and warehousing, followed by logistics performance. Under distribution structures and warehousing, we will examine warehouse layouts and warehousing concepts, value‑adding activities, cross docking and merge‑in‑transit. We will also look at warehouse management systems (WMS), as well as materials handling, storage, order picking, work organisation and job design. In the logistics performance part, we will discuss inventory turnover, the cash‑to‑cash cycle and the supply chain ratio. 2

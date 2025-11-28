@@ -1,0 +1,1 @@
+The image contains the text "Chapter HS" in a simple, black font on a white background. The text is centered horizontally in the image, and each character is evenly spaced. The overall alignment is straight and uniform, with no additional graphics, annotations, or elements present in the image.

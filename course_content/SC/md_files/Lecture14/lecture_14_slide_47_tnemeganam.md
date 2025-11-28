@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Logistics as driver for a shrinking world but
+# Logistics as driver for a shrinking world but
 also increasingly as polluter of this small world
 Best averagespeedofhorse
 drawncoachesandsailing

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Waste of Overproduction
+# Waste of Overproduction
 Work in
 Work in progress
 progress

@@ -1,11 +1,3 @@
 # Generic Warehouse Functions
 
-All activities within a warehouse are associated with one of the following
-core functions of:
-• Goods receiving
-• Put away into storage
-• Order picking & packing
-• Goods dispatch
-In cross docking, goods coming in bypass the storage area…
-Source: Mangan et al. (2021)
-13
+All activities within a warehouse are associated with one of a small number of core functions, namely goods receiving, put‑away into storage, order picking and packing, and goods dispatch. In cross docking, by contrast, goods coming in bypass the storage area altogether and move directly from receiving to shipping. Source: Mangan et al. (2021). 13

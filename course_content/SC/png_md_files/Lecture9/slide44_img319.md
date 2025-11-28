@@ -1,0 +1,1 @@
+A white background with two vertical lines. The left line is navy blue, thin, and vertical. The right line is light blue, also thin and vertical. Both lines are straight and parallel to each other. There are no other elements or annotations visible in the image.

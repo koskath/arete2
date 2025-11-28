@@ -1,26 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Quality Criteria
-Criteria Description
-Clarity about the • “What is this question about and in what direction could a possible answer go?”
-problem • Your interpretation of the problem – referring to key terms in the question
-What makes a addressed with • logically restructuring it into different parts and sub questions?
-good answer? the question in
-the exam
-Approach and “How can you make your case?”
-Open essay
-path of - What are the right concepts, definitions, frameworks, ideas, examples to
-Argumentation deliver arguments that support (best) the required answer and fit to that
-question
-Presentation/ - “Is the presentation of the arguments sound and understandable?“
-delivery of the - Structure/logic of the arguments and the line of arguments
-arguments - Formal/informal aspects of it, like using the correct terms
-Results and • “Are the right conclusions drawn from the argumentation or the facts”?
-Conclusions • Do the conclusion and results fit/contribute to the question asked?
-12.03.2025 Slide 12
+# Quality Criteria
+Quality criteria for open essay answers can be grouped into several aspects. First, clarity about the problem is crucial: you should be able to say what the question is about and in which direction a possible answer could go, and you should show your interpretation of the problem by referring to key terms in the question and logically restructuring it into different parts and sub‑questions. Second, your approach and path of argumentation matter; that is, you should choose the right concepts, definitions, frameworks, ideas and examples to deliver arguments that best support the required answer and fit the question. Third, the presentation and delivery of the arguments should be sound and understandable, with a clear structure and logic in the line of arguments and appropriate formal or informal aspects, including the correct use of terms. Finally, results and conclusions need to be checked: you should ask whether the right conclusions are drawn from your argumentation or from the facts and whether these conclusions and results fit and contribute to the question asked. 12.03.2025 Slide 12

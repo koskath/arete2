@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Three questions for you
+# Three questions for you
 Questions
 Read the
  Read until including chapter 3 and

@@ -1,0 +1,1 @@
+The image displays a bold, uppercase text that reads "SWIFT." The letters are black and evenly spaced. Each letter is styled in a thick, sans-serif font, giving them a solid and robust appearance. The text is centered with a simple white background, creating a high contrast between the black letters and the backdrop.

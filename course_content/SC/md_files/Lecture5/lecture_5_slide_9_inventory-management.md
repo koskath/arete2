@@ -1,15 +1,3 @@
 # Inventory Management
 
-Purpose of Inventory Management
-• Development of relevant inventory strategies.
-• Achieving high inventory performance.
-• Reduction of inventory and related cost as much as
-possible while still maintaining responsiveness, high
-customer satisfaction and general operational
-capabilities.
-Key Decisions
-• Size of the inventory – and time of stock keeping
-• When reordering, what triggers the decision
-• How much to order or reorder
-• Where to locate how much inventory in the supply chain
-9
+The purpose of inventory management is the development of relevant inventory strategies and the achievement of high inventory performance. At the same time, it aims at reducing inventory and related costs as much as possible while still maintaining responsiveness, high customer satisfaction and general operational capabilities. In order to reach these goals, several key decisions have to be made. These include determining the size of the inventory and the appropriate time of stock keeping, deciding when to reorder and what exactly triggers the decision, specifying how much to order or reorder and, finally, deciding where to locate how much inventory in the supply chain. 9

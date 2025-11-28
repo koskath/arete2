@@ -1,16 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-What is the product? And how many of them?
-Fords Model-T-Philosophy
-“Any customer can
-have a car painted
-any color that he
-wants so long as it is
-black”
-Session 4 -Production and Global Production Networks Slide 8
+# What is the product? And how many of them?
+Ford’s Model-T philosophy asks both what the product is and how many units will be produced. It is famously captured in the statement: “Any customer can have a car painted any color that he wants so long as it is black.” This quotation highlights the focus on standardization, high volume and efficiency that underpinned Ford’s approach. Session 4 - Production and Global Production Networks Slide 8.

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 8
+# Key learning points: Session 8
 Distribution Systems and Service Supply Chains
 Content: Literature:
 • Distribution Channels  Rigby, D. (2011): The Future of Shopping. Harvard

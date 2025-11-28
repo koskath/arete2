@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-In the company extending context-
+# In the company extending context-
 Supply Chain Event Management –
  Monitoring
  Getting real-time status data across companies along

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 4 Production
+# Key learning points: Session 4 Production
 planning and design
 Literature:
 Content:

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Thus closer timing/integration of the “worlds”
+# Thus closer timing/integration of the “worlds”
 of Execution and Planning
 Transport Production Distribution Demand
 Decisions

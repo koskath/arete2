@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Push/Pull Boundary –Car Industry
+# Push/Pull Boundary –Car Industry
 (more Europe)
 Configure
 from

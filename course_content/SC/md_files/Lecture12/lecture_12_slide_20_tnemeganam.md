@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Information Technologies can be used to realize integrated and efficient “Order to Payment”
+# Information Technologies can be used to realize integrated and efficient “Order to Payment”
 PhPraocseseses 3: Development of internally integrated
 Processes
 Supplier  Goal: Process optimization

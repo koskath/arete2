@@ -1,26 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-When doing what?
-Basic Types of Layout
-Volume vs. Variety
-Volume
-High
-Product Layout
-“Assembly belt”
-Hybrid Forms like
-Group Technology
-Layout
-Medium
-Fixed Location
-Layout Process
-Buildings, Layout
-Ships
-Low
-Low Medium High Variety
-Session 4 -Production and Global Production Networks Slide 12
+# When doing what?
+Basic types of layout can be understood by looking at the relationship between volume and variety. At high volumes and relatively low variety, a product layout is typically used, often in the form of an “assembly belt” where workstations are arranged in sequence. For medium volumes and medium variety, hybrid forms such as group technology layouts are common, combining elements of both product and process layouts. At the low-volume, high-variety end of the spectrum, fixed location layouts are more suitable, as in the case of buildings and ships, where the product remains stationary and resources move around it. In contrast, process layouts support situations with lower volume but higher variety by routing products through different functional departments. Overall, different combinations of low, medium and high volume and variety point to different basic layout choices. Session 4 - Production and Global Production Networks Slide 12.

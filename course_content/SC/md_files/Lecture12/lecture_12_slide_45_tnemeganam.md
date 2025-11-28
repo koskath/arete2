@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Tracking what, for whom, for what purpose?
+# Tracking what, for whom, for what purpose?
 Hierarchy and means in building logistical units Tracking and Tracing
 Unit – Stage Means e.g Tracked Identification
 unit e.g. standard e.g.

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-5 – “Full players”
+# 5 – “Full players”
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.

@@ -1,0 +1,1 @@
+The image consists of a single black numeral "3" set against a plain white background. The numeral is bold and has a smooth, rounded shape, occupying most of the space within the image. The strokes are uniformly thick, with smooth curves at the top and bottom of the numeral. The design is simple, with no additional elements, textures, or colors present.

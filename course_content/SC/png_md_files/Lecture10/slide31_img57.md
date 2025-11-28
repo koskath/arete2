@@ -1,0 +1,1 @@
+The image contains the phrase "commercial banks" in lowercase letters. The text is bold and presented in black color against a transparent or white background. The font is sans-serif, with each letter evenly spaced. The text occupies the center of the image, with no additional elements or annotations present.

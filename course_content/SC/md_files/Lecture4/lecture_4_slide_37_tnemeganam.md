@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-2 – “Cloners”
+# 2 – “Cloners”
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.

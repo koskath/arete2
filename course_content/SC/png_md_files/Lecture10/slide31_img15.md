@@ -1,0 +1,1 @@
+The image contains a single word in bold, black uppercase and lowercase letters on a white background. The word is "NVOCCs." The letters are in a sans-serif font and are centered within the image. The "NVOCC" part is in uppercase, while the final letter "s" is in lowercase. There are no additional elements, annotations, or structures present.

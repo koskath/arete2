@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-How much to order?
+# How much to order?
 What is the „Economic Order Quantity“
 €
 Decrease ordering

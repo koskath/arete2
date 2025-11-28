@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Complication 2: What about a Supply Chain –
+# Complication 2: What about a Supply Chain –
 e.g. Sequenced JIT flow
  JIT sequenced delivery of parts to  A supplier may ship one or more different
 align with production sequence

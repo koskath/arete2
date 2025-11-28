@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam content
+# Exam content
 What could be asked
 Example Q3, multiple-choice
  Q3. Which one is the correct answer?

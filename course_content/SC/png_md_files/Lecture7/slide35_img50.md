@@ -1,0 +1,5 @@
+The image features a white background with a partial graphic and text. On the left side, there is a prominent blue segment consisting of three vertical, parallel blue lines that curve towards the right in an arc. These lines are in varying thicknesses—the outer lines being thinner than the middle one. Superimposed on this arc is a stylized globe made up of intersecting horizontal and vertical lines creating a grid pattern.
+
+To the right of the arc is the text "icc" in lowercase blue letters. The "i" is stylized with a dot above a vertical line, and the "c" and "c" are connected. Below this, smaller and aligned to the right is the text "INTERNATIONAL" in uppercase gray letters. The text is partially obscured and appears angled, suggesting perspective or motion to the right.
+
+The overall orientation and layout suggest partial visibility as if cropped at an angle. The entire visible content is slanted upward from left to right, with an incomplete view on the right edge of the image.

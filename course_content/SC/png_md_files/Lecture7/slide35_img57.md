@@ -1,0 +1,1 @@
+The image is a plain white background with a vertical dark gray bar on the right side. The bar is uniform in color and runs the entire height of the image. There are no other elements, annotations, or structures visible within the image.

@@ -1,11 +1,3 @@
 # Outlook to Lesson 8
 
-Topics are
-Distribution Systems and
-Service Supply Chains
-Please have a look
-at the Case Study
-Sell Direct-to-Consumer
-or Through Amazon?
-posted on CANVAS!
-39
+Topics for Lesson 8 are distribution systems and service supply chains, which will build on the concepts covered so far. Before the next session, please have a look at the case study “Sell Direct‑to‑Consumer or Through Amazon?” posted on CANVAS. 39

@@ -1,15 +1,4 @@
-# tnemeganaM
+# • Assignment
+This assignment is based on the case article “FLOWERS B.V.”. Question 1 asks you to identify, from the case, the steps, actors and institutions involved in the process of supplying the US market.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-• Assignment
-• Case article: FLOWERS B. V
-• Q1:
-From the case, identify the
-steps, actors and institutions
-involved in the process of
-supplying the US market?
 Slide 29

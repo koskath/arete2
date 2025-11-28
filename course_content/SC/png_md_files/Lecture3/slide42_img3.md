@@ -1,0 +1,5 @@
+A man in a red and yellow jacket is standing beside the open trunk of a white car, placing a cardboard box labeled "SCHROEDER" into it. The trunk lid is lifted upward. Next to the car, on the right side, there is a tall, precarious stack of various cardboard boxes. 
+
+The boxes vary in size and color, with shades of brown, green, purple, orange, and gray. Many boxes have visible print on them, displaying a mix of text and symbols, though not all details are legible. The boxes are stacked vertically in an uneven manner, with some boxes slightly overlapping others. The stack becomes progressively narrower towards the top, creating an unstable appearance. 
+
+The background is plain and white, suggesting a focus on the car, person, and boxes. The car's rear right taillight is visible, as is part of the rear wheel. The man's back is turned to the viewer as he leans slightly forward to place the box inside the trunk.

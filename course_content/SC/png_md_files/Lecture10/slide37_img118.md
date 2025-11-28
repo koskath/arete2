@@ -1,0 +1,1 @@
+The image contains two curved, vertical lines on a white background. The line on the left is thick, blue at the top, and transitions to dark blue towards the bottom, with a slight gradient. The line on the right is thinner, light blue, and less pronounced, positioned diagonally from the upper part to the right. There are no other visible elements or annotations.

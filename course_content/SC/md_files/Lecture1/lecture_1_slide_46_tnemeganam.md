@@ -1,34 +1,10 @@
-# tnemeganaM
+# Syllabus – Book – and so on
+The syllabus and book again present the context of the modules. Module 1 introduces logistics and supply chain management (GP) and the concept of “flows”. Module 2 examines the global context of logistics and supply chain management (GP). Module 3 focuses on integration, collaboration and SCM (GP).
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Syllabus – Book – and so on
-Context of Module 1: Module 2: Module 3:
-Introduction to Logistics and The global context of Integration, collaboration
-SCM &
-Supply Chain Management (GP) logistics and supply chain and SCM (GP)
-“Flows“
-management (GP)
-Module 4: Module 5: Module 6:
-Business Global Production in the Supply Inventory Management Outsourcing Offshoring
-Functions Chain Planning and Control(HJS) and Procurement (HJS)
-(GP)
-Module 7: Module 8: Module 9:
-Specific Management of International Distribution systemsand Logistics Planning and
-Sales and Good flows(HJS) after salesin the supply design: Warehousing &
-Functions
-chain (HJS) Material M. (HJS)
-Module 10: Module 12: Module 13:
-The
-Logistics Planning and design: Digitizationand Digitalization SC strategies and
-General Transport and Logistics in the Supply Chain (GP) configurations for
-Services (HJS) globalization -
-Design
-Summarizing (GP)
-Module 11: Module 14:
-„Getprepared forthe exam“ Contemporary Issues in Logistics and SCM
-Recap of the course
+Module 4 deals with business functions (GP). Module 5 addresses global production in the supply chain (HJS). Module 6 covers inventory management, planning and control, outsourcing, offshoring and procurement (HJS).
+
+Module 7 looks at the specific management of sales and functions. Module 8 focuses on international distribution systems and good flows (HJS). Module 9 examines logistics after-sales in the supply chain and the design of warehousing and material management (HJS).
+
+Module 10 discusses logistics planning and general transport services (HJS). Module 11 is “Get prepared for the exam” and serves as a recap of the course. Module 12 focuses on planning and design, including digitization and digitalization in the supply chain (GP). Module 13 addresses supply chain strategies and configurations for globalization. Module 14 covers contemporary issues in logistics and SCM.
+
 05.02.2025 Slide 46

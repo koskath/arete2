@@ -1,0 +1,1 @@
+The image features a light purple rectangle with a glossy appearance. The rectangle has a beveled edge, creating a three-dimensional effect. The background is a uniform light purple color, and the edges of the rectangle appear slightly darker due to the shadow from the beveling. There are no additional details, annotations, or structures present within the image.

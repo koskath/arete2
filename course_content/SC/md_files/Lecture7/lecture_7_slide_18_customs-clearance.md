@@ -1,21 +1,4 @@
 # Customs Clearance
 
 - Standard Normal Procedure
-Goods Declaration / Customs Declaration
-• Normally lodged using Pre-Declaration (or SAD in rare cases) and decision about
-assignment of the goods presented to a customs procedure
-• Proof of admissibility and of responsibilities.
-Customs Examination of Goods
-• Physical inspection of goods presented and/or taking samples by customs authorities
-to verify that nature, origin, condition, quality and value of the goods are in accordance with
-the particulars mentioned in the goods declaration.
-• Customs authorities have a right to but not the obligation to examine goods presented
-- nevertheless, goods have to be presented!
-Assessment of Duties and Taxes
-• Determination of the amount of duties and taxes payable and giving authorisation to a
-customs-approved treatment on the goods declaration or some additional copy serving as
-a document of evidence about Customs of Entry or Customs Relief.
-Notice of Assessment
-• Addressed to the debtor (importer, buyer, owner of the good), payable at once, but deferred
-payment possible, if securities or guaranteed payments are indicated
-18
+In the standard normal procedure of customs clearance, several steps are involved. First, the goods declaration or customs declaration is normally lodged using a pre-declaration (or, in rare cases, a Single Administrative Document, SAD), followed by a decision about the assignment of the goods presented to a specific customs procedure; this also serves as proof of admissibility and of the responsibilities of the parties involved. Second, customs may carry out an examination of the goods: this can include a physical inspection of the goods presented and/or taking samples by the customs authorities in order to verify that the nature, origin, condition, quality and value of the goods correspond to the particulars mentioned in the goods declaration. Customs authorities have the right, but not the obligation, to examine goods presented; nevertheless, goods have to be presented. Third, there is an assessment of duties and taxes, where the amount payable is determined and authorisation is given to a customs-approved treatment, indicated on the goods declaration or an additional copy serving as a document of evidence about Customs of Entry or Customs Relief. Finally, a notice of assessment is issued and addressed to the debtor (importer, buyer or owner of the good); the amount is payable at once, although deferred payment is possible if securities or guaranteed payments are provided. 18

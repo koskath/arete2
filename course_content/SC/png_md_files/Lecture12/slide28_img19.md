@@ -1,0 +1,1 @@
+A gradient background transitioning from a dark purple at the bottom to a lighter purple at the top. There are no other visible details, shapes, annotations, or structures.

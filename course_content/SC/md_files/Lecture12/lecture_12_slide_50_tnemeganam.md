@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-How is the information Hand or machine Machine readable One or two Passive
+# How is the information Hand or machine Machine readable One or two Passive
 coded? written label with object id dimensional barcode Transponder,RfID
 label of object ID Tag, electronic label
 How is informationread By human eyes Optical reading Optical by mobile or Via radio waves in

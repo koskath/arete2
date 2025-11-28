@@ -1,0 +1,3 @@
+The image contains a logo and text. On the left side, there is a stylized triangular shape, composed of three smaller connected triangular sections in different shades of blue, angled in various directions. Below this triangular design, the acronym "CSCMP" is written in bold, uppercase blue letters. 
+
+To the right of the triangles and acronym, the text "Council of Supply Chain Management Professionals" is written in a smaller, uppercase blue font. The text is aligned to the right of the triangular design and acronym, creating a balanced composition on a white background.

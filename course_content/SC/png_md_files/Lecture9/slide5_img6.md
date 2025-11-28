@@ -1,0 +1,1 @@
+The image contains the text "Distribution Structures Abroad" in bold black font. The letters are capitalized and the font appears to be a serif style. The text is centered horizontally within the image. The background is plain white, providing contrast to the black text. There are no additional elements or decorations in the image.

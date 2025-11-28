@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Next: Scheduling and order release
+# Next: Scheduling and order release
 Master production
 Leadtime = 2
 schedule

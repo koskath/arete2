@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Strategic Scope across the total supply chain
+# Strategic Scope across the total supply chain
 Suppliers Manufacturer Distributor Retailer Customer
 Competitive
 Strategy

@@ -1,24 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Different competitive factors imply different performance
-What propostion and how to “operationalize“
-objectives
-Competitive factors Performance objectives
-If the customers value these … Then, the operations will need to
-excel at these …
-Low price Cost
-High quality Quality
-Fast delivery Speed
-Reliable delivery Dependability
-Innovative products and services Flexibility (products/services)
-Wide range of products and services Flexibility (mix)
-The ability to change the timing or
-Flexibility (volume and/or delivery)
-quantity of products and services
-Strategy & Configuration Slide 8
+# Different competitive factors imply different performance
+Different competitive factors imply different performance objectives, and the central question becomes what value proposition we offer and how we “operationalize” it. In other words, if customers value certain competitive factors, then operations will need to excel at corresponding performance objectives. For example, if customers place a premium on **low price**, operations must focus on **cost**; if they demand **high quality**, then **quality** becomes the key objective. Likewise, when customers want **fast delivery**, operations must emphasize **speed**, and if they expect **reliable delivery**, the objective becomes **dependability**. Moreover, when customers seek **innovative products and services**, operations must provide **flexibility in products and services**, and when they desire a **wide range of products and services**, operations must offer **flexibility in mix**. Finally, when customers need the ability to change the timing or quantity of products and services, operations must deliver **flexibility in volume and/or delivery**, so that the firm’s performance objectives are fully aligned with its competitive factors, as illustrated in Strategy & Configuration Slide 8.

@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Understanding the Supply Chain:
+# Understanding the Supply Chain:
 e.g. Cost-Responsiveness Tradeoff
 Responsiveness (in time, high service level and product variety)
 High

@@ -1,0 +1,1 @@
+The image contains black text on a white background. The text reads "on commodity markets" in a bold, sans-serif font. The letters are all lowercase and evenly spaced, with no additional graphics, symbols, or annotations present. The text is centered horizontally within the image.

@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Key learning points: Session 12: Digitization and
+# Key learning points: Session 12: Digitization and
 Digitalization in the Supply Chain
 Content: Literature:
  Some initial thoughts concerning

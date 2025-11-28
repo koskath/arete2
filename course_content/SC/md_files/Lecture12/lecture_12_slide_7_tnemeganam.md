@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Interrelation of Planning,
+# Interrelation of Planning,
 Control, Scheduling –> „Philosophies“
 Dispatching
 Planning Control Phys. Flow

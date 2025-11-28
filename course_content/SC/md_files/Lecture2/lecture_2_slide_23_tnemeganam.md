@@ -1,10 +1,4 @@
-# tnemeganaM
+# But Logistics is also driven by the economy
+Logistics is also driven by developments in the wider economy, for example by the container boom, which has transformed global trade by standardising and simplifying the movement of goods.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-But Logistics is also driven by the economy
-e.g the container boom
 23

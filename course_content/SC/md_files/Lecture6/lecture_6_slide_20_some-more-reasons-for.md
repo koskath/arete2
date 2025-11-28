@@ -1,16 +1,4 @@
 # Some More Reasons for
 
 Outsourcing in Manufacturing
- Reduce direct and indirect costs
- Reduce capital costs
- Reduce taxes
- Reduce logistics costs
- Overcome tariff barriers
- Provide better customer service
- Spread foreign exchange risks
- Share risk
- Build alternative supply sources
- Pre-empt potential competitors
- Learn from local suppliers, foreign customers or competitors
- Gain access to world class capabilities or attract talent globally
-20
+Outsourcing in manufacturing can be driven by a wide range of additional reasons beyond the basic motives. Companies may seek to reduce direct and indirect costs, reduce capital costs and lower their tax burden, as well as reduce logistics costs and overcome tariff barriers. They may also aim to provide better customer service, spread foreign exchange risks and share risk with partners, while building alternative supply sources and pre-empting potential competitors. Furthermore, firms can learn from local suppliers, foreign customers or competitors and gain access to world-class capabilities or attract talent globally through outsourcing arrangements. 20

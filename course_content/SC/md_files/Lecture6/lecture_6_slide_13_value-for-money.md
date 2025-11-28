@@ -1,9 +1,3 @@
 # Value for Money
 
-- Total Costs / Life-cycle Costs
-SFoigurucere: M8a.2ngan and Lalwani (2016)
- A trade-off between low acquisition, but high operating and disposal
-costs (or vice versa) is evident.
- This might include buying an item with a lower purchase price but
-higher service, maintenance, repair and/or disposal costs…
-13
+Value for money is closely linked to the idea of total costs or life-cycle costs rather than just the initial purchase price. As Figure 8.2 in Mangan and Lalwani (2016) illustrates, there is a clear trade-off between low acquisition costs and higher operating and disposal costs, or vice versa. This trade-off might include buying an item with a lower purchase price but higher service, maintenance, repair and/or disposal costs, which means that the cheapest option upfront is not always the best over the entire life cycle. 13

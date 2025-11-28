@@ -1,14 +1,5 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-FCA – Free Carrier
+# FCA – Free Carrier
 Seller Buyer
-Place ofdelivery: Transfer to
-carrier
-Transfer ofrisk
-Transfer ofcost
+Under FCA (Free Carrier), the place of delivery is when the goods are transferred to the carrier. At this point, the risk and cost are also transferred from the seller to the buyer.
+
 Slide 53

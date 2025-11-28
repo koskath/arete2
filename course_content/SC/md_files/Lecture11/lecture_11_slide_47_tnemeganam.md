@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 10: Transport
+# Key learning points: Session 10: Transport
 and Logistics Services in Supply Chains
 Content:
 Literature:

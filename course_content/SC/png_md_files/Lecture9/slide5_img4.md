@@ -1,0 +1,1 @@
+The image contains the text "Indirect Sales" in bold black font. The letters are capitalized at the start of each word, with "Indirect" followed by a space, then "Sales." The text is presented on a plain background without any additional elements, shapes, or annotations.

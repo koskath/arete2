@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-The grand purpose of SCM
+# The grand purpose of SCM
 In (y)our own words
  “Awareness for a total unit -
 Seeing a whole flow, a network, a system as

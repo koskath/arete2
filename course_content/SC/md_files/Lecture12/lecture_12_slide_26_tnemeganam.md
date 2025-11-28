@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. ATP, CTP instead of capacity “piles“
+# e.g. ATP, CTP instead of capacity “piles“
  Special ATP-Functionalities
  Online-availability check by managers
 using different databases

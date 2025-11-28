@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Archetypes of Supply Chain Configurations
+# Archetypes of Supply Chain Configurations
 The push/pull boundary
 Related concepts; Postponement,
 LOOKING FOR DOMINANT

@@ -1,0 +1,5 @@
+The image consists of vertical stripes of varying colors and widths. Starting from the left side, there is a narrow black stripe. Next to it is a slightly wider stripe with a gradient of olive green and gray shades, flowing smoothly from one to another. This is followed by another dark stripe in gray tones, slightly darker than the previous.
+
+Continuing rightward, there is a mixture of green to gray tones, broader and blending into each other. Adjacent to it is a wider area with a gradient from dark gray to a light sandy color, transitioning smoothly.
+
+Further right, a bold and vibrant blue stripe stands out prominently, larger than the previous ones. This is followed by a medium-width section of muted light gray to off-white tones. A thin line of bright white is visible next to this, which leads into more gray and black stripes on the right edge, with a very narrow strip of bright color visible at the far right. Each stripe maintains a vertical alignment across the entire image.

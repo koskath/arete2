@@ -1,19 +1,6 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-SECA Sulphur Emission Control Areas
-• 1st SECA enforced in May 2006 – the Baltic
-Sea.
-• 2nd SECA enforced in August/ November
-2007 – the North Sea.
-• From 2010 to 2015: Max 1.00% Sulphur
-• From 2015: Max 0.10% Sulphur
-• Outside:
-• Before 2012: 4.5 %
-• - 2020: 3.5 %
-• 2020+: 0,5 %
+# SECA Sulphur Emission Control Areas
+SECA Sulphur Emission Control Areas were introduced in stages: the 1st SECA was enforced in May 2006 in the Baltic
+Sea, and the 2nd SECA was enforced in August/ November 2007 in the North Sea. From 2010 to 2015 the maximum
+1.00% Sulphur limit applied, and from 2015 the Max 0.10% Sulphur limit came into force. Outside these areas, the
+limits changed over time, with values Before 2012: 4.5 %, then - 2020: 3.5 %, and finally 2020+: 0,5 %.
 Slide 49

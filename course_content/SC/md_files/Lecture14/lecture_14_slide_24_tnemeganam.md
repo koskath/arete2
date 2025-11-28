@@ -1,30 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Key learning points: Session 8
+# Key learning points: Session 8
 Distribution Systems and Service Supply Chains
-Content: Literature:
-• Distribution Channels  Rigby, D. (2011): The Future of Shopping. Harvard
-• Online versus Brick-and-Mortar Selling Business Review Vol. 89, 12, pp. 64-75.
-• Multi- and OmniChannels  Verhoef, P. C., Noordhoff, C. S. and Sloot, L.
-• Service Supply Chains (2023) Reflections and predictions on effects of
-COVID-19 pandemic on retailing, Journal of
-• Servitization – Service Dominant Logic
-Service Management Vol.34, No.2, pp. 274-293
-• Reverse Logistics Systems
- Amazon Case Study
-Main issues:
-Some broad questions that address the main
- Current challenges for retailers
-issues:
-to deal with growing online sales
-Q What is the difference be between multi-
- Products as services and omni-channel retailing?
- Basics / terminology Q What is Servitization?
-of reverse logistics Q What is the difference between a manufacturing
-and a service supply chain?
-Final Wrap Up 21.03.2025 Slide 24
+Content and literature for this session focus on distribution systems and service supply chains. On the **content** side, topics include distribution channels, online versus brick‑and‑mortar selling, multi‑ and omni‑channel approaches, service supply chains, servitization and service‑dominant logic, and reverse logistics systems, illustrated, for example, by an Amazon case study. The **literature** base consists of Rigby, D. (2011), “The Future of Shopping” (*Harvard Business Review*, Vol. 89, No. 12, pp. 64–75), and Verhoef, P. C., Noordhoff, C. S. and Sloot, L. (2023), “Reflections and predictions on effects of COVID‑19 pandemic on retailing” (*Journal of Service Management*, Vol. 34, No. 2, pp. 274–293), which together highlight how retail and distribution are evolving. The **main issues** include current challenges for retailers in dealing with growing online sales, the idea of products as services, and the basics and terminology of reverse logistics. These points lead to several broad questions that address the core concerns of the session: **What is the difference between multi‑ and omni‑channel retailing? What is servitization? What is the difference between a manufacturing and a service supply chain?** All of these aspects are synthesised in Final Wrap Up 21.03.2025 Slide 24.

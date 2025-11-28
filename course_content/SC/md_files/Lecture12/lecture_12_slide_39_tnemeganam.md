@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Potential approaches for solutions
+# Potential approaches for solutions
 The jazz metaphor: „Muddling through“
 That might become a cacophony
 without sound structures and underlying

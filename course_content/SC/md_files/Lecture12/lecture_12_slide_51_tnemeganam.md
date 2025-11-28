@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Semi-active electronic Tags with Sensing Functions
+# Semi-active electronic Tags with Sensing Functions
  First products on the market quite a few years (classical
 form of a smart card)
  Used for monitoring temperature in logistical processes

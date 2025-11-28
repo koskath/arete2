@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Assignment from the covid times - Use the
+# Assignment from the covid times - Use the
 internet or similar and investigate:
 WHAT DO YOU FIND ABOUT TYPICAL CONSUMER
 GOOD SUPPLY CHAINS SUCH AS FOR FISH,

@@ -1,0 +1,1 @@
+A solid white background with two thin, vertical lines. The lines are light blue and positioned on the far left and far right edges, running parallel to each other from the top to the bottom of the image. There are no other visible elements, markings, or annotations within this image.

@@ -1,11 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-... more specifically: identifying „flows“ in the
+# ... more specifically: identifying „flows“ in the
 world of business
 Name
 Titel

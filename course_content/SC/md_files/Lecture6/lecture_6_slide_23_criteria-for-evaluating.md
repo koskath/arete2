@@ -1,17 +1,4 @@
 # Criteria for Evaluating
 
 and Selecting Outsourcees
-Common order qualifiers in outsourcee selection are
- Reliability of delivery on time
- Quality certifications
- Conformance to agreed specifications
- Delivery lead time
- Financial capability
- Performance track record
- Price or cost reduction
- Senior management attitude
- Responsiveness to demand uncertainty
- Record of corporate social responsibility
-Some of them can be order-winning criteria in a cost-benefit analysis as
-price should not be the only criterion to be taken into consideration!
-23
+Common order qualifiers in outsourcee selection include reliability of delivery on time, the presence of quality certifications and conformance to agreed specifications. They also cover delivery lead time and the financial capability of the supplier, as well as its performance track record, the level of price or potential cost reduction and the attitude of senior management. In addition, responsiveness to demand uncertainty and a strong record of corporate social responsibility are important criteria. Some of these factors can become order-winning criteria in a cost-benefit analysis, since price should not be the only criterion to be taken into consideration. 23

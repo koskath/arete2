@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points – Session 5
+# Key learning points – Session 5
 Inventory Management, Planning and Control
 Content:
 Literature:

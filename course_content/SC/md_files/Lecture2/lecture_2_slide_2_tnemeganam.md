@@ -1,19 +1,4 @@
-# tnemeganaM
+# The grand purpose of SCM
+In (y)our own words, the grand purpose of SCM can be described as follows. It is about awareness for a total unit – seeing a whole flow, a network or a system as the object for improvement and management. It means seeing the whole thing as an integrated entity and then designing, coordinating and adapting accordingly. It involves aligning the whole system to the needs of, ideally, the ultimate customer. Ultimately, SCM aims to provide value for the customer and for the actors in the chain.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-The grand purpose of SCM
-In (y)our own words
- “Awareness for a total unit – Seeing a whole flow, a
-network, a system as object for improvement and
-management“
- “Seeing the whole thing as an integrated thing – and
-design, coordinate, adapt accordingly”
- “Aligning the whole thing to the needs of – in ideal –
-the ultimate customer”
- “To provide value for the customer and the actors in
-the chain”
 2

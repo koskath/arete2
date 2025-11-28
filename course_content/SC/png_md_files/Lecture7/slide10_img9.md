@@ -1,0 +1,1 @@
+The image contains the text "Subposition TARIC" written in a bold, black font. The lettering appears crisp and clear against a white background, with each character evenly spaced. There are no additional marks, annotations, or images within the frame. The word "Subposition" is followed by "TARIC," with both words capitalized. The font size appears consistent throughout.

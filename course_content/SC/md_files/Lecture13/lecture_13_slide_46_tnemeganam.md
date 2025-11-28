@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Choosing Between Push/Pull Strategies
+# Choosing Between Push/Pull Strategies
 Pull Where do the following
 High
 industries fit in this

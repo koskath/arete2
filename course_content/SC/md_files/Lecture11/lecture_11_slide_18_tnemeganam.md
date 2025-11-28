@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-ABC-Analysis reflects the 80/20 idea
+# ABC-Analysis reflects the 80/20 idea
 % of total consumption value
 110000
 9900

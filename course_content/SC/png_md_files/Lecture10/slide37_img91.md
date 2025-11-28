@@ -1,0 +1,5 @@
+The image contains a series of vertical lines on a white background. There are several black lines, each with varying widths. Among them are thinner black lines and one prominent wide black line towards the left. Adjacent to these is a pattern of numerous fine gray lines situated next to the wide black line, creating a dense appearance.
+
+On the far right, there are two thick blue lines positioned parallel to each other, with the space between them occupied by very thin gray lines similar to those near the wide black line. The lines all appear to gradually increase in thickness from top to bottom.
+
+In the bottom right corner, partially visible typed text is present, stating "...nt SELECT li...". The letters are in uppercase and the color of the text is black. The lines are sharp and clear, positioned vertically across the white background, creating a striped pattern with varying contrasts from black, gray, and blue.

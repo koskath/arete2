@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Levels for Tracking – Interesting for whom
+# Levels for Tracking – Interesting for whom
 Vessel level
 e.g. via AIS
 VIN

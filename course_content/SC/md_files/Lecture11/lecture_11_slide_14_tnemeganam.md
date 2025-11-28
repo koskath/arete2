@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Exam content
+# Exam content
 What can be asked
 Material Nr. Consumption Price (in Euro)
 Example Q2, prestructured

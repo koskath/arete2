@@ -1,21 +1,3 @@
 # Suggestions for Jessica
 
-• Upfront planning – every year, CNY happens and you can prepare
-yourself whenever you augment it ;-)
-• Pile up containers for CNY => Problem of detention fees, as you are
-only allowed to keep a container provided from a carrier for a few days
-for free (and this only if your make merchant haulage). In the case of
-carrier haulage, you have only 1-2 hrs to load the container (and not
-more) as the trucker is stand by.
-• Buying containers / container ownership: quite rarely the case, most of
-non-carrier container are specialized equipement like tanks, reefers.
-Moreover, permanent maintenance of a small container fleet is costly.
-• Leasing containers -> yes, it is an option if you get one around CNY
-• Better relationship with the ocean carrier => can work, but this need
-long term bulk contracting with them.
-• Greybox => starting to pool / share container fleet was attempted
-already attempted several times bur failed because of moral hazard
-issues and the unique design of alle the shipping lines (have a look on
-the next slide). However, to some extent it happens within the strategic
-container alliances....
-53
+Several suggestions can help Jessica deal with recurring disruptions such as those around Chinese New Year (CNY). First, upfront planning is essential—CNY happens every year, so you can prepare yourself in advance whenever you anticipate higher volumes. Piling up containers for CNY may appear attractive, but it creates the problem of detention fees, since containers provided by a carrier can only be kept for a few days free of charge (and this only if you use merchant haulage). In the case of carrier haulage, there are usually only one to two hours available to load the container while the trucker is standing by. Buying containers and building up container ownership is quite rare; most non‑carrier containers are specialised equipment such as tanks and reefers, and the permanent maintenance of a small container fleet is costly. Leasing containers is an option, provided you can secure them around CNY. Developing a better relationship with the ocean carrier can also work, but this typically requires long‑term bulk contracting. The “greybox” idea—starting to pool or share container fleets—has been attempted several times but has often failed because of moral hazard issues and the unique design of each shipping line (as illustrated on the next slide). However, to some extent such sharing happens within strategic container alliances. 53

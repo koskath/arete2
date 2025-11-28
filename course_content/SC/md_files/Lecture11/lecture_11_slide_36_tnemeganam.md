@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Some more questions to work with book
+# Some more questions to work with book
 chapters, slides and reading material?
 What the course was about
 What was each teaching session about

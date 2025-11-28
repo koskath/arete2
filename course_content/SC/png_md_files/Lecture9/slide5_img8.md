@@ -1,0 +1,1 @@
+The image contains the word "Exporter" written in bold black font against a plain white background. The text is horizontally centered and appears to have a clean, sans-serif typeface. Each letter is uniformly black, with consistent thickness throughout the word. There are no additional elements, annotations, or structures present in the image.

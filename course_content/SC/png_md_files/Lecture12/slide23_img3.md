@@ -1,0 +1,1 @@
+The image is a gradient transition from a dark olive green color on the left side to a light gold color on the right side. The transition is smooth and seamless, with no visible lines or marks separating the colors. There are no other elements, annotations, or shapes within the image. The gradient covers the entire area uniformly.

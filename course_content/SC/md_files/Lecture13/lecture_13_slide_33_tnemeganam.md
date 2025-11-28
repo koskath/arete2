@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-e.g. Christopher: Environmental dynamics
+# e.g. Christopher: Environmental dynamics
 Agility vs. Lean Supply Chains
 „Lean“ works best in high Agility“ is needed in less predictable
 volume, low variety and high environments I.e. demand is volatile

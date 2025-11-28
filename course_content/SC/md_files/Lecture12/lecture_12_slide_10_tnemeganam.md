@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-De-coupling Hardware and the Plan (“Software”)
+# De-coupling Hardware and the Plan (“Software”)
 The “programme” as a hierarchy of plans
 Sequencing
 Order release Order Release

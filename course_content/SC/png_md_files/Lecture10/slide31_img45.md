@@ -1,0 +1,1 @@
+The image contains the text "Commercial Intermediaries" written in a bold, black serif font. The text is centered on a white background. The letters are prominent and evenly spaced, with consistent thickness throughout. There are no additional elements or decorations around the text.

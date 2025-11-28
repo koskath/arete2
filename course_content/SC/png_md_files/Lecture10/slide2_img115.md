@@ -1,0 +1,1 @@
+A vertical cluster of thin, wavy lines occupying the right side of the image. The lines vary slightly in color, featuring shades of blue, brown, gray, and black. The background is white, and there is very little else present, devoid of any other visible details or annotations.

@@ -1,19 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Physically fixed – e.g. Assembly line:
+# Physically fixed – e.g. Assembly line:
 contains the plan in a fixed structure
- Control by tight coupling by tight chaining :
-“Programming the hardware”
- Control is substituted by detailed beforehand planning
- Control information is embedded in the
-structure/”hardware”
- Hardly any scope left in the processes
- But also complete fixedness- Quantities, timing!
- Do we still have this?
-12 Digitization and Digitalization 14.03.2025 Slide 9
+In a physically fixed system such as an assembly line, the plan is contained in a fixed structure. Control is achieved by tight coupling and tight chaining, in other words by “programming the hardware”. As a result, control is largely substituted by detailed beforehand planning: control information is embedded in the structure or “hardware”, leaving hardly any scope for variation in the processes. This leads to complete fixedness in terms of quantities and timing, raising the question of whether such rigid structures are still appropriate today. 12 Digitization and Digitalization 14.03.2025 Slide 9

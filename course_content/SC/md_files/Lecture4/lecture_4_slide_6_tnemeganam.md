@@ -1,25 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Frank B. Gilbreth, Lillian M Gilbreth - Motion and
+# Frank B. Gilbreth, Lillian M Gilbreth - Motion and
 Time Study in 1907 together with and after Taylor
- Breaking tasks, activities in single steps and try to
-make every step more efficient
- Motion Study
- Improving working methods by better working procedures
--> Gilbreth’s“Bricklayer-Contest”
- E.g. used cameras to look at body motions
- Distances, necessarymoves for the activity, numberof activities
-withintime intervallsetc.
- Time studies
- Creating standards
- Average time of an average worker
- E.g. Germany
- VereinDeutscherIngenieure (VDI) later (REFA)
- Similarinstitutions all over the world
-Session 4 -Production and Global Production Networks Slide 6
+Frank B. Gilbreth and Lillian M. Gilbreth further developed motion and time study around 1907, working together with and after Taylor to refine the analysis of work. They focused on breaking tasks and activities into single steps and then trying to make every step more efficient. This led to motion study, which aimed at improving working methods by designing better working procedures, famously illustrated by Gilbreth’s “Bricklayer-Contest”. For example, they used cameras to look at body motions and to analyse distances, necessary moves for the activity and the number of activities within a given time interval. In addition to motion study, they conducted time studies in order to create standards, such as the average time of an average worker for a given task. Similar approaches spread internationally, for example in Germany through the Verein Deutscher Ingenieure (VDI) and later REFA, and through similar institutions all over the world. Session 4 - Production and Global Production Networks Slide 6.

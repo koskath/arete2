@@ -1,9 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Alang Or Chittagong
+# Alang Or Chittagong
 Slide 54

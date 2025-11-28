@@ -1,27 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Scientific Management
- Workers experience/decision on their workload (Rules of
-thumb) as “basic evil”: wrong incentive, wrong rules, shirking
- Developing of a “science” instead – some assumptions:
- Homo oeconomicus: Workers behavior as result of
-material incentive
- According to related payment, human work can be
-measured and calculated like machine work
- Task allocation: breaking task into smaller and smaller
-tasks allows the determination of the optimum solution to
-the task.
- For each task then the best routine can be found
- E.g. work analysis to select best shovel
- It is the job of the management not of the workers to find the
-best way!
- Consequently, separate thinking and doing
- Thinking is job of the management
- Organization is job of the management
-Session 4 -Production and Global Production Networks Slide 5
+# Scientific Management
+In the logic of scientific management, workers’ own experience and their decisions on their workload (their “rules of thumb”) are seen as a basic evil, because they create the wrong incentives, the wrong rules and, from this perspective, encourage shirking. Therefore, a “science” of work is to be developed instead, based on several key assumptions. First, the concept of the homo oeconomicus assumes that workers’ behaviour is primarily the result of material incentives. Consequently, and according to related payment schemes, human work can be measured and calculated like machine work. In addition, task allocation is based on breaking work into smaller and smaller tasks, which then allows the determination of the optimum solution to each task. For each task the best routine can be found, for example by using work analysis to select the best shovel. It is therefore considered the job of management, not of the workers, to find the best way of doing the work. Consequently, scientific management insists on a separation of thinking and doing: thinking is the job of the management, and organization, too, is the job of the management. Session 4 - Production and Global Production Networks Slide 5.

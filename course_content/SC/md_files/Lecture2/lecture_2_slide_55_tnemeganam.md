@@ -1,13 +1,5 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-FOB – Free On Board
+# FOB – Free On Board
 Seller Buyer
-Place ofdelivery: Alongside ship
-Transfer ofrisk
-Transfer ofcost
+Under FOB (Free On Board), the place of delivery is when the goods are loaded on board the vessel. At this point, the risk and cost are transferred from the seller to the buyer.
+
 Slide 55

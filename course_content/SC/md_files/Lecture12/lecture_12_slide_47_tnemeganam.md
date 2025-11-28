@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Difference between Barcode & Smart Object
+# Difference between Barcode & Smart Object
 Technologies - RfID
  ID-number is written into an electronic tag
  Reader uses magnetic field or electromagnetic

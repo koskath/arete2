@@ -1,24 +1,5 @@
-# tnemeganaM
+# Slide from exam workshop
+Exam structure and session 11 (see there for details) will guide you in understanding what will be asked. The exam will contain a set of three to four main questions with sub-questions. These will include an open essay question with guiding sub-questions that require understanding and argumentation, a pre-structured question requiring active knowledge to answer it, and/or a pre-structured question requiring a decision to be made along with a for/against justification, as well as multiple-choice questions that cover the scope of (passive) knowledge. All questions will need to be answered, and all questions will be of equal importance.
 
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-Slide from exam workshop
-Exam structure
-session 11 – see there for details
-What will be asked?
- Will contain a set of three to four main questions with
-sub-questions :
- Open essay question with guiding sub-questions that
-require understanding and argumentation
- Pre-structured question requiring active knowledge to
-answer it and/or
- Pre-structured question requiring a decision to be made,
-and a for/against justification
- Multiple-choice questions – Scope of (Passive) Knowledge
- All questions would need to be answered
- All questions would be of equal importance
 7
 05.02.2025

@@ -1,0 +1,1 @@
+The image contains a single large, bold black numeral "6" on a white background. The numeral is centered in the image, with a smooth curve forming the top part and a circular loop at the bottom. The overall shape is rounded, and the lines of the numeral are thick and even. There are no other elements, annotations, or details present in the image.

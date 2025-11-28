@@ -1,0 +1,1 @@
+The image contains the text "Indirect Export" written in a bold, black font. The text is centered on a plain white background, with no additional elements or annotations. The font is sans-serif and the letters are evenly spaced. There are no graphical or decorative designs present, just the plain text.

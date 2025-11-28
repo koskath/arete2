@@ -1,21 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-lkcorP
-retnüG
-For example: Integrating with different length of the chains
-Slide 5
-Customers/End
-Users
-Order Flow
-Suppliers/Vendors
-Purchasing Forecasting
-Sourcing Procurement/Production Fulfillment flow
-Payment Flow
-1. „short“ deliveredfromstock ‐S
-2. „medium“ madetoorder ‐S
-3. „long“ engineeredtoorder‐S
-... howtodetermine„optimal complexity“
-andtheoptimal „customerpenetrationpoint“?
+# For example: Integrating with different length of the chains
+Slide 5 shows how to integrate with different lengths of supply chains. Customers or end users again initiate the order flow, which involves suppliers or vendors, purchasing and forecasting, sourcing, procurement and production, the fulfilment flow and the payment flow. There can be different chain lengths: (1) “short”, delivered from stock – S, (2) “medium”, made to order – S and (3) “long”, engineered to order – S. The challenge is how to determine the “optimal complexity” and the optimal “customer penetration point”.

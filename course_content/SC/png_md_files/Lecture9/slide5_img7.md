@@ -1,0 +1,1 @@
+The image contains the text "Home Firm" in a bold, sans-serif font. The letters are black and evenly spaced. The text is centered, with "Home" and "Firm" aligned on the same line. The background is plain white, providing a stark contrast to the black text. There are no additional elements, annotations, or graphics present in the image.

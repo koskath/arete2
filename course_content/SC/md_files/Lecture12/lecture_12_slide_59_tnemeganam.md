@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-During the transformation process the „tractor“
+# During the transformation process the „tractor“
 becomes a smart and networked product ...
 .... and an example from the farming industry
 Source: Porter und Heppelmann (2014), How Smart

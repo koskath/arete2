@@ -1,12 +1,3 @@
 # Offshoring
 
- Offshoring is the transfer of specific processes to lower cost locations
-in other countries / regions
- Not the same as outsourcing
- Outsourcing involves handing process ownership over
-to a third party
- In offshoring, the company may still own and control
-the process itself in the lower cost location
- Sometimes nearshoring and backshoring happens…
-Table 12.1
-27
+Offshoring is the transfer of specific processes to lower-cost locations in other countries or regions. It is not the same as outsourcing: while outsourcing involves handing process ownership over to a third party, offshoring can mean that the company still owns and controls the process itself in the lower-cost location. In practice, companies may also engage in nearshoring, where processes are moved to nearby countries, and backshoring, where previously offshored activities are brought back to the home country. Further details can be found in Table 12.1. 27

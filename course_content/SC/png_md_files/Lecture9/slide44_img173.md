@@ -1,0 +1,1 @@
+A thin, vertical, slightly curved stripe is visible in the image. The stripe transitions from a dark blue hue on the left side, blending to a beige color on the right. The background is entirely filled with white space. There are no other visible elements, shapes, annotations, or structures within the image.

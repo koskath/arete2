@@ -1,0 +1,1 @@
+A white background with a thin, vertical blue line on the left edge. The blue line runs from the top to the bottom of the image, slightly curving to the left. No other details, structures, shapes, annotations, or spatial relationships are visible.

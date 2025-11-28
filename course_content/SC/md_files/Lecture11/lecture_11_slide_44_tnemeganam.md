@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Key learning points: Session 7 Management
+# Key learning points: Session 7 Management
 of International Sales and Goods Flows
 Content: Literature:
  Grainger, A. (2011): Trade Facilitation:

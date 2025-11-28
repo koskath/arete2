@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Eg. Chain of Events in Transportation
+# Eg. Chain of Events in Transportation
 Long Sending Short Pickup
 Distance Depot haul
 What information is

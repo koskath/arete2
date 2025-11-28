@@ -1,0 +1,1 @@
+The image contains a white background with a series of parallel lines on the left side. There are five vertical lines in shades of blue and purple. Each line is evenly spaced, running from the top to the bottom of the image. The lines vary subtly in thickness, creating a layered effect. There are no other visible elements, annotations, or structures in the image.

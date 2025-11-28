@@ -1,26 +1,3 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-How to rate alternative suppliers
+# How to rate alternative suppliers
 Examples of selection criteria
-Short-term ability to supply Longer-term ability to supply
-More static More dynamic
-• Range of products or services • Potential for innovation
-provided
-• Quality of products or services • Ease of doing business
-• Responsiveness • Willingness to share risk
-• Dependability of supply • Long-term commitment to
-supply
-• Delivery and volume flexibility • Ability to transfer knowledge as
-well as products and services
-• Total cost of being supplied • Technical capability
-• Ability to supply in the required • Operations capability
-quantity
-• Financial capability
-• Managerial capability
-12.03.2025 Slide 25
+Alternative suppliers can be rated using a range of selection criteria that reflect both their short‑term and longer‑term ability to supply. Short‑term, more static aspects include the range of products or services provided, the quality of those products or services, responsiveness, dependability of supply, delivery and volume flexibility, the total cost of being supplied, the ability to supply in the required quantity, and the supplier’s financial and managerial capability. Longer‑term, more dynamic aspects include the potential for innovation, the ease of doing business, the willingness to share risk, a long‑term commitment to supply, the ability to transfer knowledge as well as products and services, and the supplier’s technical and operations capabilities. 12.03.2025 Slide 25

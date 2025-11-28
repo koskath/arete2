@@ -1,23 +1,2 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Today’s Topics
-initial thoughts
- Some concerning
-planning/control and IT support
- The Hierarchy of planning and control -
-MRP ERP APS, CPFR
-, , and beyond
- Visibility
-and Transparency – Challenges of
-SC execution – illustrated on a
-transportation chain
-IoT, Big Data digital
- “new disruptors” and
-transformation
-12 Digitization and Digitalization 14.03.2025 Slide 3
+# Today’s Topics
+Initial thoughts for today’s topics include several themes. First, we will consider some ideas concerning planning and control and their IT support. We will then look at the hierarchy of planning and control, including MRP, ERP, APS, CPFR and developments beyond these systems. Another focus will be on visibility and transparency and the challenges of supply chain execution, illustrated on a transportation chain. Finally, we will discuss “new disruptors” such as the Internet of Things and big data and their role in digital transformation. 12 Digitization and Digitalization 14.03.2025 Slide 3

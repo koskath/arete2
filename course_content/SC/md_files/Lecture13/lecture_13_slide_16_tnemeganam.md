@@ -1,12 +1,4 @@
-# tnemeganaM
-
-niahC
-ylppuS
-labolG–
-MCSG–
-lkcorP
-retnüG
-Competitive Strategy and Supply Chain
+# Competitive Strategy and Supply Chain
 Competitive
 strategy
 Supply chain
