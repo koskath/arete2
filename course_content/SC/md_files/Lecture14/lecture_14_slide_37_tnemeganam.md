@@ -1,0 +1,10 @@
+# tnemeganaM
+
+niahC
+ylppuS
+labolG–
+lkcorP
+retnüG
+CONTEMPORARY ISSUES
+WITHIN AND BEYOND THE
+COURSE CONTENT

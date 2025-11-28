@@ -1,0 +1,20 @@
+# tnemeganaM
+
+niahC
+ylppuS
+labolG–
+lkcorP
+retnüG
+Looking at flows and less on the “silos” (boxes)
+e.g.: The Order-to-Payment Flow
+Slide 33
+Customers/End
+Users
+Order Flow
+Suppliers/Vendors
+Purchasing Forecasting
+Sourcing Procurement/Production Fulfillment flow
+Payment Flow
+... how to integrate activities
+in the Supply‐Chain „S“?
+05.02.2025

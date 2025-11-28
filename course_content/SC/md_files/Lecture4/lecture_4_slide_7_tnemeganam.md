@@ -1,0 +1,22 @@
+# tnemeganaM
+
+niahC
+ylppuS
+labolG–
+MCSG–
+lkcorP
+retnüG
+Henry Fords Assembly Line
+perfectioning Scientific Management
+By 1918, half of all cars in America were Model Ts. To meet the growing demand
+for the Model T, the company opened a large factory at Highland Park, Michigan, in
+1910. Here, Henry Ford combined precision manufacturing, standardized and
+interchangeable parts, a division of labor, and, in 1913, a continuous moving
+assembly line. Workers remained in place, adding one component to each
+automobile as it moved past them on the line. Delivery of parts by conveyor belt to
+the workers was carefully timed to keep the assembly line moving smoothly and
+efficiently. The introduction of the moving assembly line revolutionized automobile
+production by significantly reducing assembly time per vehicle, thus lowering costs.
+Ford's production of Model Ts made his company the largest automobile
+manufacturer in the world.
+Session 4 -Production and Global Production Networks Slide 7

@@ -1,0 +1,21 @@
+# tnemeganaM
+
+niahC
+ylppuS
+labolG–
+MCSG–
+lkcorP
+retnüG
+Fill in the following slides according to the
+following sub-questions
+Question  Actors (or call them stakeholders)
+ Actors and their function
+Set 2
+ How are the actors linked
+ What are their objectives, goals
+ What is their behavior, and what are their
+means to meet ends
+ What are supposed results of that behavior
+ who is affected
+ what is the effect
+Session 3 -Integration and Collaboration Slide 15
