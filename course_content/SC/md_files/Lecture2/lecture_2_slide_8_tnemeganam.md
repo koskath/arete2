@@ -3,4 +3,4 @@ Basic, extended and ultimate supply chains pose different challenges in terms of
 
 Source: Mentzer et al. (2001), p. 7
 
-31.01.2024 Slide 8
+

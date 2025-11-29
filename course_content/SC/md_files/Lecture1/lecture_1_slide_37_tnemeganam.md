@@ -5,4 +5,3 @@ At the supply chain level (a global view), the supply chain is any combination o
 
 (Monczka/Trent/Handfield, 2002)
 
-05.02.2025 Slide 37

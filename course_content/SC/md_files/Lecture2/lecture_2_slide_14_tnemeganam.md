@@ -1,7 +1,4 @@
 # A piece of “mainstream“ literature:
 A piece of “mainstream” literature comes from Thomas L. Friedman, a three-time winner of the Pulitzer Prize for journalism as a foreign affairs columnist for the New York Times. Christopher Columbus travelled to America in 1492 and proved that the world is round. Friedman travelled to India in 2003 and found radiologists reading X-rays from Midwest hospitals, accountants doing US tax returns (with the number of such returns rising from 25,000 in 2003 to 400,000 in 2006), call centres doing a variety of services, leading US companies (e.g. Microsoft, IBM, Accenture, etc.) present there and successful global Indian high-tech companies (e.g. Infosys, TATA). His conclusion was that the world is flat – and getting flatter, at least until 2020.
 
-February 2022
-October 2023
-14
-February 2025
+

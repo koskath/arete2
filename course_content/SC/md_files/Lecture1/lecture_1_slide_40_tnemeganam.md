@@ -2,4 +2,4 @@
 SCM
 This slide refers to the CSCMP definition of both the supply chain and supply chain management (SCM), which provides a widely used, formal description of these concepts.
 
-05.02.2025 Slide 40
+

@@ -1,4 +1,1 @@
-# Example: Importation List
-
-from former German AWV
-11
+# Example: Importation List from former German AWV

@@ -4,4 +4,4 @@ Continuing the theme of “footloose” industries and the “goose flight”, t
 
 Quelle: Kwan, Chi; NRI Spring97, S. 58 ff.
 
-Slide 20
+

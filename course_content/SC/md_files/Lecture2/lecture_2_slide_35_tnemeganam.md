@@ -3,4 +3,4 @@ The Supply Chain Operations Reference (SCOR) model, shown here only for illustra
 
 The SCC’s objective was to develop a standard supply-chain process reference model enabling effective communication among supply chain partners, by using standard terminology to better communicate and learn about supply chain issues and by using standard metrics to compare and measure performance.
 
-35
+

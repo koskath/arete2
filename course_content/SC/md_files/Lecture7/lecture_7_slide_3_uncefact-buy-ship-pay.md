@@ -3,17 +3,7 @@
 Reference Model
 Identifies the key commercial, logistical, regulatory and payment procedures
 involved in an international supply chain and provides an overview of the
-information exchanged between the parties throughout its various steps.
-The model was
-formally developed
-according to the
-UN/CEFACT Model-
-ling Methodology
-(UMM) and is also
-known as the
-International
-Supply Chain
-Reference Model.
+information exchanged between the parties throughout its various steps. The model was formally developed according to the UN/CEFACT Modelling Methodology (UMM) and is also known as the International Supply Chain Reference Model.
 More about? See: https://tfig.unece.org/suggested-itineraries/identifying-
 bottlenecks-and-opportunities-itinerary/the-buy-ship-pay-reference-models/
 3

@@ -3,4 +3,4 @@ Upstream from the export order management process, there are important forecasti
 
 There are also packaging considerations, including choices of packaging materials, carton types and sizes, pallet types and sizes and container types and sizes.
 
-Slide 45
+

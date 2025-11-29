@@ -1,20 +1,3 @@
-# Improving the flow
-not the single activity …
- e.g. „Principles of flow systems“ …
-a flow is the better, the …
- …less „media disruptions“ along
-the flow occur (Unification of
-objects“),
- … more even, smooth, and
-quick the flow is running
-(„Leveling“, „Impulse reduction“,
-„Economics of Speed“),
- … earlier and more robust errors
-are addressed
- … stronger the alarm signals are
-when errors or overload occurs
- … more succeeding processes
-overlap
- … clearer the “baton passing” is
-at the interface
-Session 4 -Production and Global Production Networks Slide 25
+# Improving the flow not the single activity …
+e.g. „Principles of flow systems“, a flow is the better, the less „media disruptions“ along the flow occur (Unification of objects“), more even, smooth, and quick the flow is running („Leveling“, „Impulse reduction“, „Economics of Speed“), earlier and more robust errors are addressed, stronger the alarm signals are, when errors or overload occurs, more succeeding processes
+overlap, clearer the “baton passing” is at the interface

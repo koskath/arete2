@@ -11,4 +11,3 @@ Regional Districenter
 national Distribution centers National Distribution centers Euro‐Districenter
 LocalMarkets LocalMarkets LocalMarkets
 (wholesalers, pharmacies, hospitals) (wholesalers, pharmacies, hospitals) (wholesalers, pharmacies, hospitals)
-Session 4 -Production and Global Production Networks Slide 40

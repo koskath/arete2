@@ -4,4 +4,4 @@ This slide introduces the idea of “footloose” industries and the “goose fl
 
 Quelle: Kwan, Chi; NRI Spring97, S. 58 ff.
 
-Slide 19
+

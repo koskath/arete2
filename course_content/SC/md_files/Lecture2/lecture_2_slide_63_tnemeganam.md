@@ -3,4 +3,4 @@ In pricing terms, shipping terms and sales terms, Incoterms define the rights an
 
 As you move from group “E” to “D”, the seller's risk and cost on the cargo increase, while the buyer’s risk and cost on the cargo decrease.
 
-Slide 63
+

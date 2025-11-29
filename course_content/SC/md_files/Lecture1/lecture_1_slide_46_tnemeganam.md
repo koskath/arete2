@@ -7,4 +7,4 @@ Module 7 looks at the specific management of sales and functions. Module 8 focus
 
 Module 10 discusses logistics planning and general transport services (HJS). Module 11 is “Get prepared for the exam” and serves as a recap of the course. Module 12 focuses on planning and design, including digitization and digitalization in the supply chain (GP). Module 13 addresses supply chain strategies and configurations for globalization. Module 14 covers contemporary issues in logistics and SCM.
 
-05.02.2025 Slide 46
+

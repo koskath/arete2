@@ -3,4 +3,3 @@ The “full” supply chain can be seen as a sequence of “S”s involving prim
 
 Starting from raw materials and components, moving through primary production, parts and OEM products, then through distribution and finally to consumption and final use, the key question becomes: how can entire economy-wide supply chains be configured for competitiveness?
 
-05.02.2025

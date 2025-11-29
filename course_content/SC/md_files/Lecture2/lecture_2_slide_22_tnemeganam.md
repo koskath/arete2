@@ -4,4 +4,4 @@ This development is intensified by new technologies, especially ICT, and by new 
 
 Examples illustrate the extent of technological change: a birthday card playing “Happy Birthday” contains more computer power than was available in 1950 all over the world, and the average new car contains more computer and electronic circuits than steel. This also underpins the shift from a traditional textile industry to a fashion industry.
 
-22
+

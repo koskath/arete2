@@ -4,4 +4,4 @@ Logistics is a driver of the development that is “shrinking the world”. Hist
 
 Source: Rodrigue, Geography of Transport Systems
 
-Slide 21
+
