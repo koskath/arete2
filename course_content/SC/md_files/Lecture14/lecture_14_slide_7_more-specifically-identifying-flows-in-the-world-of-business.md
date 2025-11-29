@@ -1,5 +1,4 @@
-# ... more specifically: identifying „flows“ in the
-world of business
+# ... more specifically: identifying „flows“ in the world of business
 Name
 Titel
 Name Name Name

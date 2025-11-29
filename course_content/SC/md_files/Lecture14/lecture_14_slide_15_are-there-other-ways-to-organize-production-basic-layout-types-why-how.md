@@ -1,5 +1,4 @@
-# Are there other ways to organize production –
-Basic Layout-types Why, how?
+# Are there other ways to organize production – Basic Layout-types Why, how?
 Criteria for the Basic Type - Characteristics Key Advantage
 Organization Key Disadvantage
 The production Product layout „line“, „flowshop layout“ is a layout that uses standardized process and processing

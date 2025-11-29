@@ -1,5 +1,4 @@
-# Key learning points: Session 12: Digitization and
-Digitalization in the Supply Chain
+# Key learning points: Session 12: Digitization and Digitalization in the Supply Chain
 Content: Literature:
  Some initial thoughts concerning
  Sanders, N.; Swink, M. (2019): Digital Supply Chain
