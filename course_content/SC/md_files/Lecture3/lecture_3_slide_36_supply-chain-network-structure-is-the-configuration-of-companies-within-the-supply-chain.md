@@ -1,0 +1,1 @@
+# Supply Chain Network Structure “...is the configuration of companies within the supply chain.”
