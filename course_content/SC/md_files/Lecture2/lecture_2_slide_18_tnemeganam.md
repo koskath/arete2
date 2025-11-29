@@ -3,4 +3,4 @@ Management – what is the role of logistics and SCM in that picture? According 
 
 As a consequence, companies concentrate on core competencies and outsource non-core competencies, often with a strong emphasis on “headcount”.
 
-18
+

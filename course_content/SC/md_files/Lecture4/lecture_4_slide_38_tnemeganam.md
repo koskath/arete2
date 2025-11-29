@@ -2,11 +2,4 @@
 Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Prod/Ass Distrib.
-• Shopping around the world, downstream
-operations at the local theatre
-• Global commodity markets or global concentration
-of part suppliers
-• E.g.: papermills, sugar, transplants, high–end
-fashion, EMS (Electronic Manufacturing Service)
-• Supply Chain: Complex inbound
-Session 4 -Production and Global Production Networks Slide 38
+These “Shoppers” are characterised by shopping around the world, with downstream operations at the local theatre, and by participation in global commodity markets or global concentration of part suppliers. E.g.: papermills, sugar, transplants, high–end fashion and EMS (Electronic Manufacturing Service) are involved, and the Supply Chain: Complex inbound flows is a defining feature.

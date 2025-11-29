@@ -4,4 +4,4 @@ This relationship map – probably similar to your own – shows different suppl
 
 © 2008 Pearson Prentice Hall --- Introduction to Operations and Supply Chain Management, 2/e --- Bozarth and Handfield, ISBN: 0131791036
 
-Slide 31
+

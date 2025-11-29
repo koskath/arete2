@@ -3,4 +3,4 @@ There was a discovery of, up to that time, almost forgotten functions, summed up
 
 Logistics Management then emerged as a systematic approach under the label AFP, focusing on the professionalization, rationalization and technization of the elementary transfer operations: transportation, warehousing and transshipment, for example by means of transportation planning, warehouse optimization and better transshipment technology. As such, Logistics Management became, at that time, a new success factor for management.
 
-05.02.2025 Slide 12
+

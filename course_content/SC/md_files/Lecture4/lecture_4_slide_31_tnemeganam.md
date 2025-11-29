@@ -1,3 +1,1 @@
-# Where in the world is Porsche and BMW
-competing?
-Session 4 -Production and Global Production Networks Slide 31
+# Where in the world is Porsche and BMW competing?

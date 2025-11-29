@@ -2,9 +2,5 @@
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
-• Replications of multi-country operations
-• Localized supply chains, products
-• Critical issue: knowledge transfer and best practice
-implementation from one country to another
+These “Cloners” involve replications of multi-country operations and have localized supply chains and products. A critical issue is knowledge transfer and best practice implementation from one country to another.
 Source: Spina
-Session 4 -Production and Global Production Networks Slide 37

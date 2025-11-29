@@ -1,12 +1,3 @@
 # 1 - “The Porsches”
-Sourcing Prod/Ass Distrib.
-• Strong global brands from strong local roots
-• Competitive advantage of local sourcing and manufacturing
-(districts, valleys)
-• Industries:
-– luxury goods (watch industry);
-– OEM and capital equipment
-– EU Automotive (top brand: Ferrari; Porsche; BMW till mid 90’s)
-• Difficult to maintain as delivery and cost pressures increase
+Sourcing Prod/Ass Distrib. in this group is characterised by strong global brands from strong local roots and by a competitive advantage of local sourcing and manufacturing (districts, valleys). The relevant industries include luxury goods (watch industry), OEM and capital equipment and EU Automotive (top brand: Ferrari; Porsche; BMW till mid 90’s), yet this configuration is difficult to maintain as delivery and cost pressures increase.
 Source: Spina
-Session 4 -Production and Global Production Networks Slide 36

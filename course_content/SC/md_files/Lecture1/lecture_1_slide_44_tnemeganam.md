@@ -3,4 +3,4 @@ In general, the principles focus on student learning and action rather than teac
 
 Attendance should therefore be more about thinking than just listening. Cases, examples and textbooks based on CBS’ own research will be used to optimise learning through useful debates and discussion. The most recent research results will be included in the courses; researchers will take part in the courses, and external teachers will be more involved in research environments. The aim is to learn “how to” and also to ask “why to” and how to communicate it.
 
-44
+

@@ -3,4 +3,4 @@ Industry illustrates “real” Just-in-Time through the integration of collabor
 
 Examples of process steps include: (1) montage safety-bodyframe, (2) assembly gear-drive module, (3) glazing and seat system, (4) interior decor elements, (5) customized design system, (6) test run and functionality test, (7) quality audit and (8) a permanent forum for system partners.
 
-05.02.2025 Slide 24
+

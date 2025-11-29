@@ -1,16 +1,2 @@
 # Elements of Lean Management:
-Lean Philosophy techniques and tools
- Lean Philosophy
- Eliminate waste
- Involve everyone
- Improve continuously
-two „pillars“
- Basically
- Flow (Just-in-Time)
- „Autonomation“
-(human/machine-systems aiding
-the humans)
- Lean techniques (JiT-Techniques)
- JiT as a Planning and Control-
-Method (Pull, Kanban)
-Session 4 -Production and Global Production Networks Slide 28
+Lean Philosophy techniques and tools encompass Lean Philosophy, eliminate waste, involve everyone and improve continuously. These ideas rest on two „pillars“: basically flow (Just-in-Time) and „Autonomation“ (human/machine-systems aiding the humans). In addition, Lean techniques (JiT-Techniques) and JiT as a Planning and Control-Method (Pull, Kanban) are central components.
