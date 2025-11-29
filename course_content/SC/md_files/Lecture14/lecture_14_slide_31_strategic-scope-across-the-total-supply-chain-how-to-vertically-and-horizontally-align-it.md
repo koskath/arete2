@@ -1,5 +1,4 @@
-# Strategic Scope across the total supply chain
-how to vertically and horizontally align it???
+# Strategic Scope across the total supply chain how to vertically and horizontally align it???
 Suppliers Manufacturer Distributor Retailer Customer
 Competitive
 Strategy

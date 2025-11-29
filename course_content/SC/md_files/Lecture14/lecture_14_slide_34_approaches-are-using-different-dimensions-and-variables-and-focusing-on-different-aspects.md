@@ -1,5 +1,4 @@
-# Approaches are using different dimensions and
-variables and focusing on different aspects
+# Approaches are using different dimensions and variables and focusing on different aspects
 Authors Dimensions Configurations can be summarized as follows. Fisher, 1997, uses uncertainty of demand and
 product as key dimensions and distinguishes between a Physically efficient process and a Market responsive process,
 so that uncertainty of demand and the nature of the product guide whether a physically efficient process or a market

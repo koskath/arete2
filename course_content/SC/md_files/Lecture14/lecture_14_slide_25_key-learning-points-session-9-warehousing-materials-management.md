@@ -1,5 +1,4 @@
-# Key learning points: Session 9
-Warehousing & Materials Management
+# Key learning points: Session 9 Warehousing & Materials Management
 Content: Literature:
  Baker, P. (2007): An exploratory framework of the
  Distribution structures and warehousing

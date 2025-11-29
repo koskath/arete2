@@ -1,5 +1,4 @@
-# Key learning points: Session 13 Supply chain
-strategies and configurations
+# Key learning points: Session 13 Supply chain strategies and configurations
 Content: Literature:
 This session draws on several key pieces of literature. Mason-Jones, R, Naylor, B, & Towill, D (2000), 'Lean, agile or
 leagile? SCM and the strategy hierarchy Matching your supply chain to the marketplace', International Journal of
