@@ -1,27 +1,4 @@
 # Digitization vs. Digitalization
-Digitization
-Digitalization
-Converting analogue into digital
-Applications of digital technologies by
-data for further processing by
-organizations, industries or societies
-electronic means.
-like
-– Cargo control systems
-– Big Data
-– Paperless trade
-– Internet of Things
-environments
-– Blockchains
-– eCustoms systems
-– Uberization
-– ePayment systems
-– Digital transformation
-– eB/L, eAWB, eCMR, …
-Automation of operations or
-administrative processes, connecting
-The underlying condition different service, development of new
-for digitalization business models - Up to the disruptive
-transformation of supply chains
+Digitization refers to converting analogue data into digital data for further processing by electronic means and is the underlying condition for digitalization. Digitalization, by contrast, refers to the application of digital technologies by organizations, industries or societies in environments such as cargo control systems, big data, paperless trade, the Internet of Things, blockchains, eCustoms systems, “Uberization”, ePayment systems, digital transformation and electronic documents such as eB/L, eAWB and eCMR. It involves the automation of operations or administrative processes, the connection of different services and the development of new business models, up to the disruptive transformation of supply chains.
 46
 12 Digitization and Digitalization 14.03.2025

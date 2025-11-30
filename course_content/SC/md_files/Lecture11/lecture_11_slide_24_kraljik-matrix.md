@@ -1,18 +1,4 @@
 # Kraljik matrix
-High
-Leverage suppliers Strategic suppliers
- many competitors  market leaders
- commodity products  specific know-how
-Supplier Buyer dominated segment Balance of power may differ
-impact on among buyer-supplier
-financial
-Routine suppliers Bottleneck suppliers
-results
- large supply  technology leaders
- many suppliers with dependent  few, if any, alternative suppliers
-position
-Reduce number of suppliers
-Supplier Dominated segment
-Low
-Low Supply risk High
-12.03.2025 Slide 24
+The Kraljik matrix distinguishes different types of suppliers according to their impact on financial results and the level of supply risk. At a high impact on financial results, leverage suppliers are characterised by many competitors and commodity products, while strategic suppliers are market leaders with specific know‑how, and in this area the balance of power may differ among buyer and supplier. At a lower impact or with a focus on more routine and bottleneck situations, routine suppliers are associated with large supply and many suppliers with a dependent position, whereas bottleneck suppliers are technology leaders with few, if any, alternative suppliers, which may lead to a supplier‑dominated segment where it is advisable to reduce the number of suppliers. Overall, the Kraljik matrix spans low to high supply risk and low to high supplier impact on financial results to position leverage, strategic, routine and bottleneck suppliers.
+
+

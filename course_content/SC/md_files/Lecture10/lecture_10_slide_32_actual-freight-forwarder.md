@@ -1,4 +1,2 @@
-# Actual Freight Forwarder
-
-Definition by FIATA and CLECAT
+# Actual Freight Forwarder Definition by FIATA and CLECAT
 According to the definition by FIATA and CLECAT, “freight forwarding and logistic services” means services of any kind relating to the carriage (performed by single‑mode or multimodal transport means), consolidation, storage, handling, packing or distribution of the goods, as well as ancillary and advisory services in connection therewith. These ancillary services include, but are not limited to, customs and fiscal matters, declaring the goods for official purposes, procuring insurance of the goods and collecting or procuring payment or documents relating to the goods. Freight forwarding services also include logistical services that make use of modern information and communication technology in connection with the carriage, handling or storage of the goods and, in effect, de facto total supply chain management. These services can be tailored to allow a flexible application of the services provided. Source: FIATA SECRETARIAT Doc. CL04/06, 2004‑10‑29. 32

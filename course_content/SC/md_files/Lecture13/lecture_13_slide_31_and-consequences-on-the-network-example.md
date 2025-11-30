@@ -1,5 +1,4 @@
-# … and consequences on the Network – example –
-Computer Industry Structure 1985 - 1995
+# … and consequences on the Network – example – Computer Industry Structure 1985 - 1995
 Modularization instead vertically integrated supply chains
 Microprocessor Intel Motorola AMD Etc.
 Operating System Microsoft MAC UNIX

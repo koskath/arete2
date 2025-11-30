@@ -1,5 +1,4 @@
-# Strategic Scope of the single actor in the
-Supply Chain – ONLY some thoughts!
+# Strategic Scope of the single actor in the Supply Chain – ONLY some thoughts!
 Objectives With different Scope Concepts,
 Strategic Chain/Function?? Instruments??
 Themes??

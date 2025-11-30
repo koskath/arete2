@@ -1,6 +1,4 @@
-# Case Study:
-
-Missing Boxes in Central Europe
+# Case Study: Missing Boxes in Central Europe
 1) What is the object of analysis and the key challenges there?
 2) What are the main actors involved?
 3) Going now into more detail, please map

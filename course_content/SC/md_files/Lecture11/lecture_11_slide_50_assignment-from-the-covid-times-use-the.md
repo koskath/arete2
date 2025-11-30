@@ -1,14 +1,4 @@
 # Assignment from the covid times - Use the
 internet or similar and investigate:
-WHAT DO YOU FIND ABOUT TYPICAL CONSUMER
-GOOD SUPPLY CHAINS SUCH AS FOR FISH,
-TEXTILES, ELECTRONICS OR SIMILAR;
-DESCRIBE THEM AS WE DID IN THE CASE
-(ACTORS, LOCATIONS, CLUSTERS RISKS ETC)
-HOW ARE THEY OR WILL THEY BE AFFECTED BY
-COVID-19, UKRAINE CRISIS
-HOW WILL THEY LOOK LIKE IN THE FUTURE?
-YES, THIS HAS SOME “CRYSTAL BALL”
-CHARACTER, SO TRY TO GIVE ARGUMENTS,
+This assignment from the COVID times asks you to use the internet or similar sources and investigate typical consumer good supply chains such as for fish, textiles, electronics or similar products. You should describe them as we did in the case by focusing on actors, locations, clusters, risks, etc., and you should ask how they are or will be affected by COVID‑19 and the Ukraine crisis and how they will look like in the future. Yes, this has some “crystal ball” character, so try to give arguments and expert views instead of pure opinion.
 12.03.2025
-EXPERT VIEWS INSTEAD OF PURE OPINION

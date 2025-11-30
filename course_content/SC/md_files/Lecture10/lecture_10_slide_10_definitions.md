@@ -1,4 +1,2 @@
 # Definitions
-
-Definitions according to UN/ECE (2001)
 Definitions according to UN/ECE (2001) distinguish between multimodal, intermodal and combined transport. Multimodal transport is defined as the carriage of goods by two or more modes of transport. Intermodal transport is the movement of goods in one and the same loading unit or road vehicle, which uses successively two or more modes of transport without handling the goods themselves when changing modes. By extension, the term intermodality is used to describe a system of transport whereby two or more modes of transport are used to transport the same loading unit or truck in an integrated manner, without loading and unloading, in a door‑to‑door transport chain. Combined transport is a specific form of intermodal transport in which the major part of the European journey is by rail, inland waterways or sea and in which the initial and/or final road legs are as short as possible. 10

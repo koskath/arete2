@@ -1,14 +1,4 @@
 # Yourself -
 Questions
- Where do we produce different
-Prepare for the
-products – go to the internet and
-exam
-check “footprints” of well known
-companies
- Where are clusters and hotspots,
-e.g. for automotive, for apparel
- How are these connected, what
-markets do they serve, local vs.
-global
+To prepare for the exam, you should ask yourself a set of questions and use the internet to support your answers. You should consider where we produce different products and go to the internet to check “footprints” of well‑known companies. You should also look at where clusters and hotspots are, for example for automotive or for apparel, and finally ask how these are connected and what markets they serve, including the balance between local and global markets.
 12.03.2025 Slide 52

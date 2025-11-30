@@ -1,20 +1,3 @@
-# How to handle the necessary information
-technically?
-How is the information Hand or machine Machine readable One or two
-coded? written label with object id dimensional barcode
-label of object ID
-How is informationread By human eyes Optical reading Optical reading by
-at I-Point? devices; charac-ter mobile or stationary
-recognition (OCR) barcode scanner
-Where is the status Maybe on label; Data record on Data record on
-information stored? More likely in central central server central server
-database
-Where/how is the Centralized matching Centralized matching
-required controlactivity of „asis“ and „to be“; of „asis“ and „to be“;
-triggered? triggering triggering
-Basic advantages No additional costs No or limited costs Low costs for labels;
-for the labels automatization
-Basic disadvantages Reading errors, Reading errors more Sinlge reading of
-/dangers typos, lack of likely, dirty, hidden barcode; dirty,
-motiviations labels hidden labels
+# How to handle the necessary information technically?
+Several questions arise when handling the necessary information technically. First, how is the information coded? It may appear as a hand- or machine-written label with object ID or as a machine-readable one- or two-dimensional barcode label of object ID. Second, how is information read at the I-point? It can be read by human eyes, by optical reading devices with character recognition (OCR), or by optical reading via mobile or stationary barcode scanners. Third, where is the status information stored? It may be on the label, but more likely it is kept as a data record in a central database or central server. Fourth, where and how is the required control activity triggered? Typically, there is centralized matching of “as is” and “to be” states, with triggering based on this comparison. The basic advantages include no additional costs for hand-written labels, no or limited costs for barcode labels and automation, and low costs for labels in automated systems. The basic disadvantages or dangers include reading errors, typos and lack of motivation for manual labels, as well as more likely reading errors with dirty or hidden labels and single-reading limitations of barcodes when labels are dirty or hidden.
 12 Digitization and Digitalization 14.03.2025 Slide 42

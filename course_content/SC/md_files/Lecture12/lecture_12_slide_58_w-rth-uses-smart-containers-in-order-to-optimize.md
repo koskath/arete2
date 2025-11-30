@@ -1,17 +1,4 @@
-# Würth uses smart containers in order to optimize
-C-Parts management processes in industry
-Examples for CPS in the real world
- Embedded microelectronics for monitoring of filling level of
-containers
- Functions of the „iBin“:
- Imaging the interior using a miniaturized camera
- Calculation of filling level based on image processing
-algorithms
- Generation of a business event in case of a
-level below the limit
- Wireless networking and communication with the
-environment
- Fully automated and highly efficient c-parts management as
+# Würth uses smart containers in order to optimize C-Parts management processes in industry Examples for CPS in the real world
+Würth uses smart containers in order to optimize C-parts management processes in industry, providing further examples of CPS in the real world. Embedded microelectronics are used for monitoring the filling level of containers, and the functions of the „iBin“ include imaging the interior using a miniaturized camera, calculating the filling level based on image processing algorithms and generating a business event in case of a level below the limit. In addition, wireless networking and communication with the environment enable fully automated and highly efficient C-parts management as a service.
 Source: Würth
-a service
 12 Digitization and Digitalization 14.03.2025 Slide 58

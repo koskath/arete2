@@ -1,12 +1,4 @@
 # Three questions for you
 Questions
-Read the
- Read until including chapter 3 and
-article from
-Christodoulou et al identify drivers for GPN
- What are dilemmas when designing
-GPN
- In the current context of Covid-19,
-how do you assess the balance of
-global vs. local pressures
+There are three questions for you that are closely linked to the reading. First, you should read until and including chapter 3 and the article from Christodoulou et al., and from this material identify drivers for GPN. Second, you should ask what the dilemmas are when designing GPN. Third, in the current context of Covid‑19, you should consider how you assess the balance of global versus local pressures.
 12.03.2025 Slide 51

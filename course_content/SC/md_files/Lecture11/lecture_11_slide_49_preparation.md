@@ -1,8 +1,3 @@
 # Preparation
-Course material
-1. The lecture plan
-2. The course book
-3. The reading list
-4. Course lectures
-5. There’s only limited time in the class
+Course material for preparation also includes some very practical tools. You should use the lecture plan, the course book, the reading list and the course lectures themselves, while keeping in mind that there is only limited time in the class, so this material needs to be used efficiently.
 12.03.2025 Slide 49

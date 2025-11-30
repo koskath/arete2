@@ -1,20 +1,3 @@
 # Overcoming the time funnel by a changed planning logic
-– Better „muddling through“ in a sequence of “not
-perfect” plans than a perfect but quickly obsolete plan
-Old New
-Planning logic Planning logic
-P P P P
-P
-Planning
-level
-„Pointed“ changeofPlan
-New
-Upd. Upd. Upd. Upd.
-Plan
-Plan Plan Plan Plan
-Execution Ic Ic Ic Ic Ic
-level
-1 time unit
-P = Planning cycle
-IC = Intervention cycle
+Better „muddling through“ in a sequence of “not perfect” plans than relying on one perfect but quickly obsolete plan is the core idea of overcoming the time funnel by a changed planning logic. The slide contrasts an old planning logic with a new planning logic at the planning level, where the old logic is represented by repeated planning cycles (P P P P and P) over one time unit, while the new logic shows a “pointed” change of plan with a new plan and successive updates (Upd. Plan, Plan Plan Plan Plan). At the execution level, intervention cycles are illustrated as Ic Ic Ic Ic Ic within the same 1 time unit, indicating more frequent interventions and adjustments. Here, P = planning cycle and IC = intervention cycle.
 12 Digitization and Digitalization 14.03.2025 Slide 27

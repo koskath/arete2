@@ -1,15 +1,3 @@
-# There exist a number of different RfID Tags –
-e.g. Electronic Tags for Automation Purposes
- Used since the 80s for production and material flow
-applications within industrial facilities
- Short reading and writing ranges (<< 1m)
- Relatively high costs per tag (between a few and
-100 Euros depending on application area)
- Functions:
- Identification of objects in order to control material
-flows inside the production line
- Storage of some larger amounts of data (up to 32
-kByte and more) as compared to tags
- No bulk reading due to short reading and writing
-ranges
+# There exist a number of different RfID Tags – e.g. Electronic Tags for Automation Purposes
+Electronic RFID tags for automation purposes have been used since the 1980s for production and material flow applications within industrial facilities. They typically have short reading and writing ranges (much less than 1 m) and relatively high costs per tag (between a few and 100 Euros depending on the application area). Their functions include the identification of objects in order to control material flows inside the production line, the storage of larger amounts of data (up to 32 kByte and more) compared to simpler tags and, due to the short reading and writing ranges, the lack of bulk reading capability.
 12 Digitization and Digitalization 14.03.2025 Slide 48

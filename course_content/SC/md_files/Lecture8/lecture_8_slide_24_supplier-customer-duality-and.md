@@ -1,4 +1,1 @@
-# Supplier-customer Duality and
-
-Bi-directional Service Supply Chains
-24
+# Supplier-customer Duality and Bi-directional Service Supply Chains
