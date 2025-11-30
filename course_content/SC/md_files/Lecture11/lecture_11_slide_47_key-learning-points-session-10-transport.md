@@ -2,27 +2,8 @@
 and Logistics Services in Supply Chains
 Content:
 Literature:
- Transport Services
- Paridaens, H.; Notteboom, T. (2022):
- Characteristics of transport modes
-Logistics integration strategies in container
- Efficiency of Transport Services shipping: A multiple case-study on Maersk
- Multimodal, Intermodal and Combined Transport Line, MSC and CMA CGM, in: Research in
- Transport Mode Selection, taking Belt-Road- Transportation Business & Management,
-Initiative (BRI) as an example 45(2022).
- Recent Developments in Times of COVID19  Case: Prockl, G.; Weibrecht, K.: Missing Boxes in
-Central Europe
- Logistics Service Providers :Freight Forwarder,
-.
-3PL, 4PL
-Some broad questions that address
-Main issues: the main issues:
- Understanding of cost structures
-Q What are criteria to select a mode
-and operating characteristics of the different
-transport modes of transportation?
- Modal choice and carrier selection
-Q What are elements and actors of a
- Organization of hinterland transports of
-container. transportation system?
+Key learning points from Session 10, Transport and Logistics Services in Supply Chains, combine content and literature on transport services and logistics integration. The content covers transport services, characteristics of transport modes, efficiency of transport services, multimodal, intermodal and combined transport, transport mode selection taking the Belt‑Road‑Initiative (BRI) as an example, recent developments in times of COVID‑19, and logistics service providers such as freight forwarders, 3PL and 4PL. The literature includes Paridaens, H. and Notteboom, T. (2022): “Logistics integration strategies in container shipping: A multiple case‑study on Maersk Line, MSC and CMA CGM”, Research in Transportation Business & Management, Vol. 45, 2022, and Prockl, G. and Weibrecht, K.: “Missing Boxes in Central Europe”.
+Main issues:
+Some broad questions that address the main issues include “What are criteria to select a mode of transportation?” and “What are elements and actors of a transportation system?”. These questions relate directly to main issues such as understanding the cost structures and operating characteristics of the different transport modes, modal choice and carrier selection, and the organization of hinterland transports of containers.
 12.03.2025 Slide 47
+

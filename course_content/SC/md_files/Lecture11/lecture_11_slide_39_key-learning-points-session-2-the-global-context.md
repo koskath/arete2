@@ -2,26 +2,6 @@
 of logistics and supply chain management
 Content:
 Literature:
-• Globalisation, containerization, • Rodrigue, J-P et al. (2020) : The Geography of
-Transport Systems, Hofstra University, Department of
-• international trade and logistics Global Studies & Geography, Chapter 5 and 7.
-• De Koster, R. and Shinohara, M. (2006): Supply chain
-• The logistics/SCM of cross-
-culture clashes in Europe. Pitfalls in Japanese service
-border product movement operations. Supply Chain Forum: International Journal,
-Vol. 7, No. 1, pp. 60-68.
-• The global environment of
-logistics and SCM Some broad questions that address the main
-• Global logistics and SCM issues:
-applications Q What are complications and relevant
-considerations in a global context of supply chain
-management
-Main issues: Complexity
-Q What are elements of the global environment
-• Steps, actors and institutions involved in the
-global supply chain process Q Why do we need standards?
-• Mapping – First examples
-Case - Flowers B.V. illustrates complexity
-• Purpose and Scope of Standards
-arising from globalization of a SC
+Key learning points from Session 2, The global context of logistics and supply chain management, relate to both content and literature. The content addresses globalisation and containerization, international trade and logistics, and the logistics and SCM of cross‑border product movement. It also considers the global environment of logistics and SCM, global logistics and SCM applications, the steps, actors and institutions involved in the global supply chain process, mapping as first examples, and the purpose and scope of standards. The literature includes Rodrigue, J‑P et al. (2020): “The Geography of Transport Systems”, Hofstra University, Department of Global Studies & Geography, Chapter 5 and 7, as well as De Koster, R. and Shinohara, M. (2006): “Supply chain culture clashes in Europe. Pitfalls in Japanese service operations”, Supply Chain Forum: International Journal, Vol. 7, No. 1, pp. 60‑68. The case Flowers B.V. illustrates complexity arising from globalization of a supply chain.
+Some broad questions that address the main issues of complexity are posed in this context. They include “What are complications and relevant considerations in a global context of supply chain management?”, “What are elements of the global environment?” and “Why do we need standards?”, and they relate directly to the steps, actors and institutions involved in the global supply chain process and to the purpose and scope of standards.
 12.03.2025 Slide 39

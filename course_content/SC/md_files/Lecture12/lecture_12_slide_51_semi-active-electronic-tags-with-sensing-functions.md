@@ -1,16 +1,3 @@
 # Semi-active electronic Tags with Sensing Functions
- First products on the market quite a few years (classical
-form of a smart card)
- Used for monitoring temperature in logistical processes
-(pharmaceutical products, flowers, food)
- Very short reading ranges (some 10 centimeters) and
-larger data storage areas (8 kBit and more)
- Costs per tag a few Euros (estimated)
- Functions:
-−
-Identification
-−
-Data storage
-−
-Sensing of different environmental parameters
+Semi-active electronic tags with sensing functions, in the classical form of a smart card, have been on the market for quite a few years. They are used for monitoring temperature in logistical processes, for example for pharmaceutical products, flowers and food. These tags typically have very short reading ranges (some tens of centimetres) but larger data storage areas (8 kBit and more), and costs per tag are estimated to be a few euros. Their functions include identification, data storage and the sensing of different environmental parameters.
 12 Digitization and Digitalization 14.03.2025 Slide 51

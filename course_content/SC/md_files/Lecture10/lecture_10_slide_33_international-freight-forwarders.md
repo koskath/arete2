@@ -1,5 +1,3 @@
-# International Freight Forwarder’s
-
-Functions
+# International Freight Forwarder’s Functions
 An international freight forwarder performs a wide range of functions in support of international trade. It gives advice to customers on the quickest and most economical means of transportation (consultancy function) and on packing problems (packaging function). It also cares for customs clearance (clearance function) and secures compliance with foreign trade regulations and letter of credit instructions (documentary function). Furthermore, the forwarder chooses the most suitable carrier and concludes the contract of carriage (affreightment function), and it provides groupage services as a particular contribution to economy (consolidation function). In addition, it arranges insurance coverage during transportation (insurance function) and advises customers on warehousing and distribution (logistics function). The freight forwarder provides both carriers’ and forwarders’ documents (fiduciary function) and supervises the movement of goods (supervision function). It may also credit freights, fees and duties payable at once and bill them later, or collect and submit money on behalf of the consignor (quasi‑banking function). Finally, it can act as a carrier on its own account (transport function). Source: FIATA (1975) and Schramm (2012). 33
 

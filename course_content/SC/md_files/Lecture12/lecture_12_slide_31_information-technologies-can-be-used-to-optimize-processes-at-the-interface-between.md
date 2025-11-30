@@ -1,20 +1,4 @@
-# Information Technologies can be used to optimize Processes at the Interface between
-PhCoamspaeni e4s : Process Integration at Interfaces between
-Companies
-Supplier Customer  Goal: Automated information
-processes at the interface
-Finance Finance
-between supplier and customer
-Sales Sales
- Benefits: Higher efficiency
-and quality at the interface
-Production Production
- Results: EDI connections; 1:1
-…. ….
-and 1:n relationships
- BUT: No wide spread use of EDI
-due to costly and complex
-implementation processes
-Source: Fleisch, E., Österle, H.; 2000; A Process-oriented Approach to Business
-Networking; Electronic Journal of organizational Virtualness2(2), 1-21
+# Information Technologies can be used to optimize Processes at the Interface between Companies
+Process integration at interfaces between companies focuses on the interface between supplier and customer. Finance–finance, sales–sales and production–production on both sides are linked through automated information processes at the interface between supplier and customer. The goal is automated information processes at the interface; the benefits are higher efficiency and quality at the interface. The results include EDI connections and 1:1 and 1:n relationships, but there is still no wide-spread use of EDI due to costly and complex implementation processes.
+Source: Fleisch, E., Österle, H.; 2000; A Process-oriented Approach to Business Networking; Electronic Journal of Organizational Virtualness 2(2), 1–21
 12 Digitization and Digitalization 14.03.2025 Slide 31
