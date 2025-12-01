@@ -1,0 +1,5 @@
+The image is a black and white photograph of a man from the chest up. He is wearing a dark, rounded bowler hat that sits low on his head. His facial expression is serious, and he is gazing directly at the camera. He has dark hair that is visible under the hat and a mustache. He is dressed in a dark suit with a white shirt underneath. The shirt's collar is visible above the suit with a slight V-neck opening in the suit. The background is a textured gradient, lighter to the left, suggesting lighting from that direction.
+
+Below the photograph, there is a caption that reads: "Henry Knolle, May 9, 1871–February 25, 1925. The man known as 'Schmidt' in Taylor’s Pig Iron Story, 1899." 
+
+The man's shoulders and the upper portion of his chest are visible, and there are no additional details or objects in the photograph, aside from the man's attire and facial features.

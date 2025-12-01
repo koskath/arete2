@@ -1,0 +1,3 @@
+# Phase 5: m:n coordination of companies
+ aims at building up highly efficient information networks between suppliers and customers. Finance–finance, sales–sales and production–production relationships are coordinated so that the goal of cost reduction for networking between firms can be achieved. The benefits are optimized information processes within the borderless enterprise, and the results include a web service-based information infrastructure and m:n networking of business units supported by standards, trust, billing, transport and other elements. However, there is still a missing link between material and information flow.
+

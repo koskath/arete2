@@ -1,0 +1,2 @@
+# Example of LEGO
+

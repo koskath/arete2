@@ -1,0 +1,1 @@
+The image contains a single word in bold, black font. The word is "Containerised." The text is centrally aligned, and the font appears thick and strong, likely a serif typeface with even, dark strokes. The letters are all lowercase, and the word spans horizontally across the image with no additional elements or background details visible.

@@ -1,0 +1,2 @@
+# Hockey stick effect 
+ Volume tends to pick up towards the end of a reporting period . . . why?  Look for ways to lessen the effect  contributes to demand volatility, inefficiency, poor service Jan Feb Session 3 -Integration and Collaboration Slide 26

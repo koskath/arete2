@@ -1,0 +1,54 @@
+Vehicle Capacity and Truck Equivalency chart split into three columns:
+
+- **Left Column: Vehicles**
+  - "Barge" with a silhouette above the name.
+  - "Hopper car" and "Doublestack rail car," each with a silhouette above their names.
+  - "100 car train unit" and "100 car intermodal train," sharing silhouettes above the names.
+  - "Semi-trailer truck" with a silhouette above the name.
+  - "Panamax containership" with a silhouette above the name.
+  - "VLCC" with a silhouette above the name.
+  - "747-400F" with a silhouette above the name.
+
+- **Middle Column: Capacity**
+  - Barge: 
+    - "1500 Tons / 50-100 TEU"
+    - "52,500 Bushels"
+    - "453,600 Gallons"
+  - Hopper car and Doublestack rail car:
+    - "100 Tons / 4 to 5.3 TEU"
+    - "3,500 Bushels"
+    - "30,240 Gallons"
+  - 100 car train unit and 100 car intermodal train:
+    - "10,000 Tons / 400 to 530 TEU"
+    - "350,000 Bushels"
+    - "3,024,000 Gallons"
+  - Semi-trailer truck:
+    - "26 Tons / 2.65 TEU"
+    - "910 Bushels"
+    - "7,865 Gallons"
+    - "9,000 for a tanker truck"
+  - Panamax containership:
+    - "5,000 TEU"
+  - VLCC:
+    - "300,000 tons"
+    - "2 million barrels of oil"
+  - 747-400F:
+    - "100-125 tons"
+    - "(Depending on freight density and range)"
+
+- **Right Column: Truck Equivalency**
+  - Barge: 
+    - "57.7 (865 for 15 barges in tow)"
+    - "18 to 40 (intermodal)"
+  - Hopper car and Doublestack rail car:
+    - "2.0 (intermodal) to 3.8"
+  - 100 car train unit and 100 car intermodal train:
+    - "385"
+  - Semi-trailer truck:
+    - "1"
+  - Panamax containership:
+    - "2,116"
+  - VLCC:
+    - "9,330"
+  - 747-400F:
+    - "5"

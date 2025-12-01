@@ -1,0 +1,3 @@
+# Fourth Party Logistics (4PLs ®)
+
+Fourth‑party logistics (4PL®) providers offer total outsourced supply chain solutions. The term was originally trademarked by Accenture in 1996. A 4PL is a supply chain integrator that assembles and manages the resources, capabilities and technology of its own organisation, together with those of complementary logistics service providers, in order to deliver a comprehensive supply chain solution. It is typically an asset‑free, independent logistics intermediary. However, the line between 3PL and 4PL® has now become blurred, as many 3PLs also offer 4PL®‑type solutions. For example, Kühne & Nagel claims to act as a Lead Logistics Provider (LLP), positioned between traditional 3PL and full 4PL roles. 36

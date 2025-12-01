@@ -1,0 +1,5 @@
+The image features a large brown bear standing upright on its hind legs in a snow-covered landscape. The bear is wearing a gray ushanka (a traditional Russian fur cap with ear flaps) and black winter boots. Draped over its back is a flag colored in white, blue, and red, resembling the flag of Russia. The bear is holding an assault rifle with both paws, pointing it towards the right side of the image.
+
+In the background, two jet aircraft are depicted flying in the sky, leaving contrails behind them. The sky is a clear blue with scattered clouds.
+
+Below the bear, the ground is covered in snow with footprints visible. In the far background, there is a silhouette of a cityscape featuring distinctive Russian architecture, including onion domes and spires, suggesting a skyline reminiscent of Moscow. A flock of birds is flying across the sky on the right side of the image, in front of the cityscape.

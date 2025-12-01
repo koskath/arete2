@@ -1,0 +1,5 @@
+The image shows a large white delivery truck parked on a road. The truck has a rectangular cargo area behind the driver's cabin. The cabin is mainly white with a black front bumper and grille. Above the grille is a circular logo, and to the right, there is a yellow and black license plate. 
+
+The side of the cargo area has a logo on it, consisting of stylized letters "FF" in blue and red, with a red and blue arrow pointing to the right, followed by the text "Flying Flowers B.V." in dark letters. Below this, smaller text reads "Nederlandse Bloemen Handel" on the left and "Groothandel Tel:026 xxx xx xx" on the right.
+
+The top of the truck has a refrigeration unit with vents, located on the roof over the cabin. The truck has four wheels visible, with the front wheels turned slightly to the right. The windows in the cabin are dark-tinted. The truck is positioned such that the front is facing slightly towards the right, with a road visible alongside the truck on the left. The background includes some greenery and a glimpse of a cloudy sky.

@@ -1,0 +1,7 @@
+The image features a large ship in the process of being dismantled. The ship displays a red and white superstructure with multiple decks and openings toward the top right, including various portholes and external piping. Two tall yellow cranes are positioned vertically on the deck, slightly left of center, with pulley systems visible near the top.
+
+The foreground shows a large plume of dust, debris, and structural fragments in mid-air, caused by the ship breaking apart. Panels and large pieces of steel are seen falling away from the ship's hull, exposing interior compartments. The ship's hull is predominantly dark blue, with a rusted, weathered appearance, especially along the waterline.
+
+In the lower left foreground, two individuals are walking across a muddy expanse, facing away from the viewer. They are dressed in light-colored clothing and appear small relative to the ship, emphasizing its massive scale.
+
+The top left corner has a "NATIONAL GEOGRAPHIC" logo in white and yellow. The image includes dust and sediment particles, creating a hazy atmosphere around the action area. Numerous details of ship components like railings, vents, and ladders are visible amid the disintegrating sections.

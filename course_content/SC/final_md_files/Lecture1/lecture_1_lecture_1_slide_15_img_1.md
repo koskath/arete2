@@ -1,0 +1,7 @@
+The image displays white text on a dark background. At the top left, the title reads "Logistics Adds Time and Place Utility" in a bold font. 
+
+Below the title, the main text in regular font reads: 
+
+"Manufactured products possess some value or utility because an assembled item is worth more than its unassembled components or raw materials. A completed automobile, for example, is much more valuable to a consumer than its unassembled parts. The value, or utility, of making materials available in a completed state is called form utility. To the consumer, however, the product not only must have form utility, it must be in the right place, at the right time, and be available to purchase. The value added to products beyond that added by manufacturing (form utility), is called place, time, and possession utility. The logistics activity provides place and time utility, while marketing provides possession utility."
+
+The text is neatly aligned to the left. The word "utility" appears several times throughout the text, emphasizing its importance. The words "form utility," "place," "time," and "possession utility" are italicized to highlight specific terms. A small superscript number '12' follows the word "utility" near the end of the paragraph, which suggests a reference or footnote.

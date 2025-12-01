@@ -1,0 +1,7 @@
+The image depicts a diagram titled "VALUE CHAIN DISAGGREGATION." It includes a central horizontal arrow pointing from left to right, with the labels "Input" on the left side of the arrow and "Market" on the right side, indicating a directional flow. Above this arrow, other elements partially visible and slightly overlapping with the arrow are not relevant for this description.
+
+Below the main arrow, there is a sequence of five smaller gray arrows pointing upwards. These arrows are evenly spaced and labeled consecutively underneath as "Location 1," "Location 2," "Location 3," "Location 4," "Location 5," and again "Location 1," spanning horizontally from left to right.
+
+The main arrow and the labels "VALUE CHAIN DISAGGREGATION," "Input," and "Market" are depicted in a bold black font, while the labels "Location 1" through "Location 5" are in a standard black font. The small upward arrows are colored gray. There are thin horizontal lines extending from the first "Location 1" to the last "Location 1" underneath the labels.
+
+The diagram suggests a flow or process starting from "Input" on the left and ending at "Market" on the right, with various "Locations" playing roles in this value chain.
