@@ -1,0 +1,7 @@
+The image shows a coastline with multiple large ships beached along what appears to be a shipbreaking yard. In the foreground, a rusted, heavily weathered ship is positioned diagonally on the shore, with its bow facing towards the bottom right of the image. The ship's hull is mostly submerged, and its superstructure includes several decks with visible signs of decay and missing sections.
+
+Behind the main ship, two additional large vessels are visible. The closest ship has exposed internal structures and is missing some exterior panels, revealing rusted, skeletal remains. Further back, additional ships are visible, each in various stages of dismantlement, with large portions removed and rust visible on the metal surfaces.
+
+The shoreline is littered with small pieces of debris, including metallic and industrial materials. The water appears muddy, with varying shades of brown, indicating a shallow depth close to the shore. In the background, a sprawling site is visible with more broken ships, industrial equipment, cranes, and structures related to the shipbreaking process.
+
+Further beyond, blurred outlines of land and additional ship sections are visible, covered in patches of greenery and earth tones. The sky above appears clear with a light blue color, suggesting a sunny day.

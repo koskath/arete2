@@ -1,0 +1,5 @@
+The image depicts a large, yellow waste container being emptied at a landfill site. The container is tilted at an angle, with its back end elevated above the ground. There are large, stenciled black letters "M159" and "W319" on the side of the container. The container is attached to the back of a truck, with its rear wheels visible on the ground.
+
+Below the container, there is a substantial pile of assorted waste materials, including various colored plastic items, cardboard, and what appears to be textiles. The debris is spread across the ground with no discernible pattern.
+
+Over the entire scene, there is a large red "X" that spans diagonally from corner to corner across the image. The sky in the background is partly cloudy, providing a contrast against the yellow container. There are no people visible in the scene.

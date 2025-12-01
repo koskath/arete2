@@ -1,0 +1,3 @@
+The image features a vertical layout with a circular emblem at the top. The emblem consists of a globe with longitudinal and latitudinal lines, encircled by two symmetrical olive branches or laurel wreaths. 
+
+Below the emblem, a vertical text is positioned centrally: "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS". The text is in uppercase black letters, spanning from top to bottom. The background is white, providing a stark contrast to the dark elements. The overall layout is clean and minimalistic, with the emblem at the top and the vertically arranged text occupying the rest of the image underneath.

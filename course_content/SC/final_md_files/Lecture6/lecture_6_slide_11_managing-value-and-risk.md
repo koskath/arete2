@@ -1,0 +1,4 @@
+# Managing Value and Risk
+
+– the Kraljik Matrix
+Managing value and risk in procurement can be supported by the Kraljic Matrix, which classifies purchased items along two dimensions: profit impact and supply risk. The matrix distinguishes non-critical items and leverage items on the one hand, and bottleneck items and strategic items on the other hand. Non-critical items typically have a low profit impact and low supply risk, while leverage items have a high profit impact but relatively low supply risk. Bottleneck items show low profit impact but high supply risk, and strategic items are characterised by both high profit impact and high supply risk. This categorisation helps organisations to tailor their sourcing and supplier management strategies to the specific risk and value profile of each item. Source: Kraljic (1983). 11

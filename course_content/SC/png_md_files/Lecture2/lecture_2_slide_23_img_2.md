@@ -1,0 +1,5 @@
+The image shows the frontal view of a large cargo ship on the ocean. The ship's hull is predominantly light blue with a red section at the top, just below the deck. A symbol resembling an emblem with wings is visible centered on the hull below the deck area. The name of the ship appears on both sides of the hull in small letters, though it's difficult to discern from this angle.
+
+Stacked on the deck are multiple rows of rectangular cargo containers in various colors, including shades of grey, blue, and some red. The superstructure of the ship, situated above the containers, includes the bridge which is cream-colored. Two yellow structures that resemble cranes or derricks extend upwards from the front of the superstructure, converging at the base and forming an inverted "V" shape.
+
+The ship is resting on a water surface with slight waves visible. The sky is overcast, giving the background a grey hue.

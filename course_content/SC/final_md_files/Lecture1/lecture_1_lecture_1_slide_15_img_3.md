@@ -1,0 +1,1 @@
+"See L. D. H. Weld, *The Marketing of Farm Products* (New York: Macmillan, 1916)."

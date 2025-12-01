@@ -1,0 +1,7 @@
+The image shows a storefront titled "MARKS & SPENCERS LTD" with a large header at the top center reading "ORIGINAL PENNY BAZAAR." Another set of text on either side states, "ONE PENNY ANY ARTICLE." The store is divided into individual sections or booths, each separated by vertical posts. Within these sections, various products are displayed.
+
+On the left section, there are rows of boxed items and an assortment of small goods. Bunches of flags and floral arrangements are visible. The middle section contains textiles folded or draped, possibly linens or clothing items. Bundles of fabric hang from the top. There are stacks of various products organized in an orderly manner with signs dangling above, possibly indicating prices or descriptions.
+
+The right section continues the display of merchandise stacked in rows, with more fabric and goods visible towards the back. All displayed items are behind a glass counter, which extends the length of the bazaar. Inside the counter, smaller objects are laid out in an organized fashion. The setting reflects an old-fashioned market stall style with an emphasis on low-cost items.
+
+The primary color scheme is monochromatic, suggesting a historical time frame. The overall appearance is tidy, compact, and product-oriented, with multiple signs advertising the products and the offer of “Any Article One Penny.”

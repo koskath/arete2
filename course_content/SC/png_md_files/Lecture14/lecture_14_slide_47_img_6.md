@@ -1,0 +1,5 @@
+The image shows a large, visibly damaged oil tanker amidst turbulent ocean waves. The vessel is broken into two distinct sections, with the front section elevated above the waterline and tilting towards the right. 
+
+The stern section of the ship, on the left side of the image, is partially submerged with the deck angled downwards. The superstructure is visible, displaying an upright funnel painted with a blue and white stripe pattern. Several smaller structures and equipment are visible on the deck, as well as portholes along the ship's side. 
+
+The forward section, on the right side, displays the ship's bow with its outer shell visibly rusted and eroded. The ship's name, "PRESTIGE," is clearly marked in white letters near the front upper side. The waterline is visibly lower on this side, indicating that it is more elevated than the stern. The waves are rough, and the sky appears overcast, suggesting inclement weather conditions. The entire scene conveys a sense of instability and distress.

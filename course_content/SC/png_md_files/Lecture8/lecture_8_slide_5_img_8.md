@@ -1,0 +1,5 @@
+The image shows a catalog with a slightly tilted perspective, displaying the cover prominently. The catalog has a glossy finish. The center of the cover features two people. The person on the left is standing slightly behind and wears a white outfit. The person on the right is in the foreground, wearing a metallic brown jacket with a shimmer effect and light-colored pants. The background behind them is a gradient of gold and brown tones.
+
+On the left side of the cover, aligned vertically, is a bold white text reading "neckermann.ch." At the bottom right corner are two distinct blocks. The first block is orange and contains a seal-like design with the letters "S" in white, framed inside. Adjacent to it is a red block with a white arrow pointing to the left, indicating some sort of interactive or navigational symbol.
+
+The spine of the catalog, visible due to the angle, also has the same "neckermann.ch" text repeated vertically. The pages of the catalog show a faint mix of colors indicating printed content inside. The catalog lies on a white surface, creating a slight shadow around its edges.

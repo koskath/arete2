@@ -1,0 +1,5 @@
+The image contains a graphic centered around a globe. The globe is depicted in a blue and white color scheme, representing the Earth with visible outlines of continents, primarily Europe and parts of Africa and Asia. Superimposed over the center of the globe is a bold, rectangular banner with a white background, containing the text "NCTS-TIR" in large, black, uppercase letters.
+
+Encircling the lower left portion of the globe is a semi-circular arrangement of yellow stars. These stars, twelve in total, are evenly spaced and form a curved line that starts from the lower left and ends towards the lower center area of the globe, reminiscent of the arrangement found in the European Union flag.
+
+There is a large, blue arrow that starts from the lower middle-left of the globe, moves upwards and curves around to the upper right, with the arrowhead pointing to the upper right corner of the image. The arrow encircles much of the visible portion of the globe but does not overlap the yellow stars or the text banner. The overall arrangement gives a sense of movement and encapsulation around the globe.
