@@ -1,1 +1,0 @@
-The image is mostly blank with two vertical blue lines at both edges against a white background. The lines are thin and evenly spaced from the sides of the image. There are no other visible structures, shapes, annotations, or elements within this image.

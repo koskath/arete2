@@ -1,1 +1,0 @@
-The image contains only the text "Subposition CN". The font is sans-serif and appears in solid black. The text is centered within the image. There are no other visible elements, diagrams, shapes, annotations, or spatial details present.

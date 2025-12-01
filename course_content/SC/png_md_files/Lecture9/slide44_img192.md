@@ -1,1 +1,0 @@
-The image is entirely white with no visible details, structures, shapes, annotations, or any distinguishable elements.

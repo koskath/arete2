@@ -1,9 +1,9 @@
-The black-and-white image features a hand-drawn illustration of two primary structures labeled "MTV-Anbieter" and "Absender." 
+The image depicts a simple flow diagram that illustrates key components of a supply chain process relevant to just-in-time (JIT) manufacturing. 
 
-On the left side, the "MTV-Anbieter" part contains two connected rectangular buildings. The building on the left has two floors, each with a row of three windows featuring angled shading lines. The second building is taller, with three floors and matching window styles. In front of this building group, there are four cuboid shapes, resembling stacked product boxes or containers, aligned in a row.
+On the left, there is a building labeled "MTV-Anbieter," which can be interpreted as a supplier or vendor in the supply chain. This represents the starting point where materials or components are procured. In front of this building, there are several stacked pallets or containers which likely signify the materials ready for transport.
 
-Moving to the right, the "Absender" section includes a building drawn in a perspective view. It consists of part of a tall structure at the back and a longer, rectangular building extending forward. This structure displays rows of windows with diagonal shading lines on three visible floors. In front of this, multiple stacks of products or containers are visible, drawn with grid-like patterns indicating their contents.
+Arrows move from the supplier to another building labeled "Absender," which can be translated to "sender" or "shipper." This suggests the transit process of materials from the supplier to the next phase in the supply chain. The buildings and arrows illustrate the movement of goods and information flow, a critical aspect in JIT systems.
 
-Between these two regions, a large arrow is positioned horizontally, pointing from "MTV-Anbieter" to "Absender," signifying a directional flow or process. At both ends of the image, there are smaller white triangular shapes facing inward.
+Just-in-Time is focused on reducing inventory waste and ensuring materials are delivered exactly when needed. In the context of supply chain analytics, this image can be tied to tracking and optimizing shipment timings, inventory levels, and supplier performance. The flow of information and materials must be carefully monitored and synchronized to ensure the efficiency and effectiveness of the JIT strategy, requiring robust analytics tools.
 
-The background is black, enhancing the contrast between the white illustrations and text.
+In supply chain analytics, data gathered from each section of this flow—supplier performance, transit times, and inventory levels—would feed into decision-making processes to enhance supply chain responsiveness, minimize holding costs, and reduce lead times.

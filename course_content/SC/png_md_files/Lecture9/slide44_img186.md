@@ -1,1 +1,0 @@
-The image shows a plain white area without any visible elements, structures, shapes, annotations, or spatial relationships.

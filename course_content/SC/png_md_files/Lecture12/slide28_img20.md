@@ -1,1 +1,0 @@
-The image is a gradient background that transitions from a lighter shade of purple at the top to a darker shade of purple at the bottom. There are no other visible elements, structures, shapes, annotations, or spatial relationships present in the image.

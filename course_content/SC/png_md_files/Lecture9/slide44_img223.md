@@ -1,1 +1,0 @@
-The image is completely blank, containing no visible details, structures, shapes, annotations, or spatial elements. The entire image consists of a uniform white background without any distinguishable marks or features.

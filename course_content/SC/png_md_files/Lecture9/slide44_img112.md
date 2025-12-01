@@ -1,1 +1,0 @@
-A completely blank, white image with no visible details, structures, shapes, annotations, or spatial relationships.

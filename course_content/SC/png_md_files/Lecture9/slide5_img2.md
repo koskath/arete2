@@ -1,1 +1,0 @@
-The image contains the text "Indirect Export" written in large, bold black letters on a white background. The text is centered horizontally within the image. There are no other elements, annotations, or structures present in the image.

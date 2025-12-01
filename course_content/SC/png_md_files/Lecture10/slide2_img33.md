@@ -1,1 +1,0 @@
-The image is entirely white, containing no visible elements, structures, shapes, annotations, diagrams, plots, or any other graphical details. It is a plain white background throughout, with no distinguishable features or content.

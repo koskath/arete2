@@ -1,1 +1,0 @@
-The image contains a plain white background with two vertical blue lines. The blue lines are thin and positioned at the extreme left and right edges of the image. They extend continuously from the top to the bottom, parallel to each other and equidistant from the center. There are no other visible elements, shapes, annotations, or structures in the image.

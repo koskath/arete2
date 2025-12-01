@@ -1,1 +1,0 @@
-The image shows a blue folder icon with a rectangular shape. The top edge of the folder has a small tab-like extension on the right side, resembling a typical folder tab used for labeling. The icon is set against a plain white background, and there are no additional details, shapes, annotations, or text visible within the image.
