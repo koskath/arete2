@@ -1,4 +1,14 @@
 # The book, the slides the readings
-The book and slides are supported by several useful elements: the overall structure (table of contents), a glossary, an index and, in some cases, questions to guide your studying.
+Main Book:
+Title: Global Logistics and Supply Chain Management
+Authors: John Mangan, Chandra Lalwani, Agustina Calatayud
+Edition: Fourth Edition
+Publisher: Wiley
+
+Companion Book:
+Title: Global Logistics and Supply Chain Management
+Publisher: Wiley
+
+
 
 

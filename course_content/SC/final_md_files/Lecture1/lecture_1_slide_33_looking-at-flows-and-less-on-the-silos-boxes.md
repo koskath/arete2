@@ -1,4 +1,13 @@
-# Looking at flows and less on the “silos” (boxes)
-e.g., consider the order-to-payment flow. Customers or end users trigger the order flow, which then involves suppliers or vendors, purchasing and forecasting, sourcing, procurement and production, and the fulfilment flow, followed by the payment flow. The key question is how to integrate these activities in the supply chain “S”.
+# Looking at flows and less on the “silos” (boxes) e.g.: The Order-to-Payment Flow
 
-05.02.2025
+# The graph in slide 33 of Lecture 1 presents the Order-to-Payment (O2P) Flow - a process-oriented view that follows the complete cycle from when a customer places an order until payment is received.
+The three main flows are:
+
+Order Flow (top, red arrow going right) - The demand signal flowing from customer to supplier: Customer places order, Triggers purchasing, forecasting, sourcing, and procurement/production activities
+Fulfillment Flow (middle, blue arrow going right) - The physical delivery: Products/services move from supplier to customer, The actual execution of the order
+Payment Flow (bottom, red arrow going left) - The financial settlement: Money flows back from customer to supplier, Closes the transaction cycle
+
+The gray boxes in the background represent the organizational "silos" (departments) that these flows pass through - the same boxes from the previous slide.
+The key question at the bottom: "...how to integrate activities in the Supply-Chain 'S'?"
+This is the central challenge: How do you coordinate all these interconnected flows across different departments, functions, and even different companies (suppliers and customers)?
+The diagram emphasizes that supply chain management is about managing end-to-end processes (the red and blue flows) rather than optimizing individual departments (the silos). True integration requires breaking down departmental barriers and thinking about the complete cycle from order to payment.

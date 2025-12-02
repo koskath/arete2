@@ -1,4 +1,10 @@
 # The challenge of the Scope?
-Basic, extended and ultimate supply chains pose different challenges in terms of scope. At the most basic level, a seller–buyer partnership can be represented as a supplier, the focal firm and the customer, forming a basic supply chain. An extended supply chain adds the supplier’s supplier and the customer’s customer, as well as third-party logistics suppliers. An ultimate supply chain, in turn, further includes entities such as financial market providers and research firms around the focal firm, supplier and customer.
 
-Source: Mentzer et al. (2001), p. 7
+# The image in slide 36 of lecture 1 contains the following: 
+1. Partnership (top level): Simple two-party relationship: Seller ↔ Buyer
+2. Basic Supply Chain (second level): Three entities: Supplier ↔ Focal Firm ↔ Customer, The "Focal Firm" is the company whose perspective we're viewing from
+3. Extended Supply Chain (third level): Five entities: Supplier's Supplier ... ↔ Supplier ↔ Focal Firm ↔ Customer ↔ ... Customer's Customer, Extends one tier upstream (to suppliers of suppliers), Extends one tier downstream (to customers of customers)
+4. Ultimate Supply Chain (bottom level): Includes all entities from the extended chain: Initial Supplier ... ↔ Supplier ↔ Focal Firm ↔ Customer ↔ ... Ultimate Customer
+Plus additional supporting entities: Third Party Logistics Supplier, Financial Provider, Market Research Firm
+These supporting entities connect to various points in the chain with arrows
+The arrows (↔) indicate bidirectional relationships between entities throughout all levels.
