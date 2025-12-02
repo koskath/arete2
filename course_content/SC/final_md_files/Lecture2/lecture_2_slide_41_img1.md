@@ -1,4 +1,4 @@
-Process Element: Schedule Product Deliveries
+# The image in slide 41 of lecture 3 has the title Process Element: Schedule Product Deliveries
 
 - **Header Details:**
   - Blue-text heading on white background: "Process Element: Schedule Product Deliveries"

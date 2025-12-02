@@ -1,4 +1,6 @@
 # Slide 6
-The full supply chain can be seen as a sequence of “S”s that includes primary suppliers, component customers, manufacturers (OEM), retail customers and final users. Along this supply chain, there are flows of information, product or service and money.
 
-Starting from raw materials and components, moving through primary production, parts and OEM products, then through distribution and finally to consumption and final use, the key question is how to configure entire economy-wide supply chains for competitiveness.
+The Stages (Left to Right): Primary Production/Raw Materials - extracting/growing basic materials, Parts/Components - manufacturing components from raw materials, OEM Products - Original Equipment Manufacturers creating finished products, Distribution - getting products to market, Final Use/Consumption - the end customer
+
+The Three Flows (The "S's"): Black S-curves (Product/Service) - Moving LEFT to RIGHT, Physical products flowing downstream through the supply chain, From raw materials → components → finished goods → customer
+Red arrows (Information) - Moving BOTH DIRECTIONS, Orders, forecasts, specifications flowing backward. Shipment notifications, tracking info flowing forward, This bidirectional flow is crucial for coordination, Blue arrows (Money) - Moving RIGHT to LEFT, Payment flowing backward through the chain, From customer → distributor → manufacturer → suppliers

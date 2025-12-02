@@ -1,4 +1,6 @@
-The image features a symmetrical arrangement of transportation and infrastructure elements depicting a supply chain.
+# EXW - Ex Works
+
+# The image in slide 52 of lecture 2 features a symmetrical arrangement of transportation and infrastructure elements depicting a supply chain:
 
 Starting from the left:
 
