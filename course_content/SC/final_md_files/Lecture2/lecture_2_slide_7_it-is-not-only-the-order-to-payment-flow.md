@@ -1,6 +1,6 @@
 # It is not only the order-to-payment flow
-It is not only the order-to-payment flow that matters. Supply chain awareness is needed in developing new business and supply chain ideas and in developing products. Supply chain structure is also crucial: you must configure your physical network and optimise resource allocation and facility locations.
-
-Integrated processes are required in order to integrate organisations, information systems and human resources into effective and efficient flows. In addition, adaptation and development are necessary to keep your supply chain “state-of-the-art” and to adopt emerging technologies and ideas.
-
-
+# The diagram in slide 7 of Lecture 2 expands beyond the order-to-payment flow to show a comprehensive view of multiple interconnected business processes in supply chain management:
+At the top, the Idea to Market process shows the flow from research and development through strategic marketing. Below this, the Business Readiness section displays processes including market and salesforce deployment, key account management, and sales processes, with customer relationship management processes connecting various stages.
+The central portion features the familiar Order to Payment flow, highlighted with colored arrows showing order entry, order fulfillment, and payment flow moving between vendors and customers. Surrounding this are supporting processes including forecasting, production and distribution, and warehousing activities.
+On the left side, Production Readiness activities are shown, while at the bottom, Adaptation and Evolution processes include controlling and planning/budgeting functions. These various processes are interconnected with arrows showing how information and activities flow between different functional areas.
+On the right side, a green box outlines four key supply chain management concepts: Supply Chain Awareness for developing new business ideas and products, Supply Chain Structure for configuring physical networks and facility locations, Integrated Processes for connecting organizations and systems into efficient flows, and Adaptation and Development for keeping the supply chain current with emerging technologies and ideas.

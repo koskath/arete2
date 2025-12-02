@@ -1,4 +1,6 @@
-The image is a schematic representation of a supply chain featuring various modes and facilities. 
+# E. G. Transport Mode Selection
+
+# The image in slide 46 of lecture 2 is a schematic representation of a supply chain featuring various modes and facilities:
 
 Starting from the left, there is an icon of a factory with a smokestack and two rectangular windows. In front of the factory, there are several containers and a truck with three sets of wheels, carrying two stacked containers. Moving right, the scene transitions into a train carrying open-topped containers. Next is a gas station icon with a flat roof and a supportive column, accompanied by more containers.
 

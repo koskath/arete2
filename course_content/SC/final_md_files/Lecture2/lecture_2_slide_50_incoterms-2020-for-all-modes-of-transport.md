@@ -1,4 +1,6 @@
-The image is a diagram showing various trade terms associated with the seller and buyer responsibilities for risks and costs along a supply chain. The diagram features sections that include icons and horizontal bars delineating these responsibilities.
+# Incoterms 2020 for all modes of transport
+# The image in slide 50 of lecture 2 is a diagram showing various trade terms associated with the seller and buyer responsibilities for risks and costs along a supply chain:
+The diagram features sections that include icons and horizontal bars delineating these responsibilities.
 
 At the top, a header contains icons representing different stages of the supply chain from left to right: a factory indicating "Seller," a truck, a warehouse labeled "Cargo terminal," a customs building labeled "Customs," a series of loading cranes over ships labeled "Cargo terminal," and a cityscape labeled "Buyer." Vertical lines separate these sections.
 

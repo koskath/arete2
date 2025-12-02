@@ -1,4 +1,5 @@
-The image contains a circular diagram with three concentric circles. 
+# The global logistics environment
+# The image in slide 65 of lecture 2 contains a circular diagram with three concentric circles:
 
 1. **Innermost Circle**:
    - At the center, there's a small circle labeled "Logistics executive."
