@@ -1,10 +1,15 @@
 # Syllabus – Book – and so on
-The syllabus and book again present the context of the modules. Module 1 introduces logistics and supply chain management (GP) and the concept of “flows”. Module 2 examines the global context of logistics and supply chain management (GP). Module 3 focuses on integration, collaboration and SCM (GP).
-
-Module 4 deals with business functions (GP). Module 5 addresses global production in the supply chain (HJS). Module 6 covers inventory management, planning and control, outsourcing, offshoring and procurement (HJS).
-
-Module 7 looks at the specific management of sales and functions. Module 8 focuses on international distribution systems and good flows (HJS). Module 9 examines logistics after-sales in the supply chain and the design of warehousing and material management (HJS).
-
-Module 10 discusses logistics planning and general transport services (HJS). Module 11 is “Get prepared for the exam” and serves as a recap of the course. Module 12 focuses on planning and design, including digitization and digitalization in the supply chain (GP). Module 13 addresses supply chain strategies and configurations for globalization. Module 14 covers contemporary issues in logistics and SCM.
-
-
+Module 1: Introduction to Logistics and Supply Chain Management (GP)
+Module 2: The global context of logistics and supply chain management (GP)
+Module 3: Integration, collaboration and SCM (GP)
+Module 4: Global Production in the Supply Chain (GP)
+Module 5: Inventory Management Planning and Control (HJS)
+Module 6: Outsourcing Offshoring and Procurement (HJS)
+Module 7: Management of International Sales and Good flows (HJS)
+Module 8: Distribution systems and after sales in the supply chain (HJS)
+Module 9: Logistics Planning and design: Warehousing & Material M. (HJS)
+Module 10: Logistics Planning and design: Transport and Logistics Services (HJS)
+Module 11: "Get prepared for the exam"
+Module 12: Digitization and Digitalization in the Supply Chain (GP)
+Module 13: SC strategies and configurations for globalization - Summarizing (GP)
+Module 14: Contemporary Issues in Logistics and SCM, Recap of the course
