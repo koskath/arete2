@@ -1,4 +1,4 @@
-# Here is what the image 3 in slide 30 of lecture 9 contains:
+# Here is what the image 2 in slide 30 of lecture 9 contains:
 
 The image contains a diagram illustrating a neural network feedback process. 
 

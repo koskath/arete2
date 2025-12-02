@@ -1,5 +1,3 @@
-# Slide 4 of Lecture 7 contains information about the https://xkcd.com/539/.
-
 # Here is what the image 1 in slide 4 of lecture 7 contains:
 
 The cartoon humorously illustrates concepts related to anomaly or outlier detection in data, which is a crucial aspect of machine learning and deep learning. In anomaly detection, the goal is to identify data points that deviate significantly from the rest of the dataset, just as a person stands out in a dataset of relationships based on unique behavioral patterns.

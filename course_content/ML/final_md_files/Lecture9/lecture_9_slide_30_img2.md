@@ -1,4 +1,4 @@
-# Here is what the image 2 in slide 30 of lecture 9 contains:
+# Here is what the image 1 in slide 30 of lecture 9 contains:
 
 The image contains a diagram with a circular node in the center labeled "df" in red. The circle is outlined in red. From the right side of the circle, there is a red arrow pointing towards the circle, labeled "dL/dz" to the right of the arrow.
 

@@ -1,4 +1,4 @@
-# Here is what the image 2 in slide 36 of lecture 9 contains:
+# Here is what the image 2 in slide 36 (Bonus Slide) of lecture 9 contains:
 
 The image contains a graph illustrating the sigmoid function. At the top left corner, there is text in bold that reads "Consider the sigmoid function:". Below the text, the graph consists of two main elements:
 

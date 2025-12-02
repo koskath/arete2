@@ -1,4 +1,4 @@
-# Here is what the image 1 in slide 37 of lecture 9 contains:
+# Here is what the image 1 in slide 37 (Bonus Slide) of lecture 9 contains:
 
 The image shows a plot of the sigmoid function, represented as a blue curve. The graph has two axes: the horizontal axis labeled "t" ranging from -10 to 10 with markings at -10, -7.5, -5, -2.5, 0, 2.5, 5, 7.5, and 10; and the vertical axis ranging from 0 to 1 with markings at 0.00, 0.25, 0.50, 0.75, and 1.00. 
 
