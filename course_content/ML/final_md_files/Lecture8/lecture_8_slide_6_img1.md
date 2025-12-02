@@ -1,7 +1,19 @@
 # Here is what the image 1 in slide 6 of lecture 8 contains:
 
-The image shows a silhouette of a person hiking on a hill or mountain. The person is oriented towards the right side of the image, walking with the aid of two trekking poles. The figure is wearing a backpack and appears to be moving upward along the rocky terrain of the hill. 
+This image is a clever visual metaphor for the **Gradient Descent** optimization algorithm, which is fundamental to machine learning.
 
-To the right of the hiker, there is an object resembling a stack of rocks, forming a cairn, which slightly juts up into the sky. The sky in the background is overcast with a spread of clouds, suggesting a cloudy day. The scene is set in monochrome, with dark silhouettes against a lighter gray sky, so no colors are visible.
+In gradient descent, we're trying to find the minimum of a loss function (the lowest point in a valley). The hiker descending the mountain represents the algorithm iteratively moving toward this minimum. Just as the hiker takes steps downhill by following the steepest slope, gradient descent updates model parameters by moving in the direction of the negative gradient (the steepest descent in the loss landscape).
 
-In the bottom left corner, part of a tree is visible, with the rest of the landscape forming a dark slope downwards. The text "Gradient Descent (GD)" is displayed at the top center of the image in black font, set against a white background.
+The key parallels are:
+
+**The mountain terrain** represents the loss function surface - a multi-dimensional landscape where elevation corresponds to the loss/error value.
+
+**The hiker's position** represents the current parameter values of your model.
+
+**Walking downhill** represents iterating through the optimization process, with each step being one update to the parameters.
+
+**The steepness of the slope** represents the magnitude of the gradient - steeper slopes lead to larger parameter updates.
+
+**The destination (valley bottom)** represents the optimal parameters that minimize the loss function.
+
+This metaphor also hints at common challenges: the hiker might get stuck in a local valley (local minimum) rather than reaching the lowest point in the entire mountain range (global minimum), or might take inefficient zigzagging paths if the learning rate (step size) isn't chosen properly. The journey down the mountain beautifully captures the iterative, gradient-guided nature of how neural networks and other ML models learn.
