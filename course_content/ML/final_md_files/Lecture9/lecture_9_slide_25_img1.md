@@ -1,6 +1,6 @@
-# Here is what the image 1 in slide 25 of lecture 9 contains:
+# Here is what the mathematical expressions in slide 25 of lecture 9 contain:
 
-The image contains two mathematical expressions side by side.
+The two mathematical expressions are side by side.
 
 On the left, the first expression is:
 1. The word "heaviside" in lowercase, followed by a space and the letter "z" in parentheses, resulting in "heaviside (z)".

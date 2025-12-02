@@ -1,4 +1,4 @@
-# Here is what the image 1 in slide 38 of lecture 9 contains:
+# Here is what the image 1 in slide 38 (Bonus Slide) of lecture 9 contains:
 
 The image depicts a graph with two axes that intersect at the origin, forming a standard Cartesian coordinate system. The horizontal axis is labeled "zic," while there is no label on the vertical axis. Two distinct curves are plotted on this graph:
 

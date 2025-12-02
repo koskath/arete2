@@ -1,4 +1,4 @@
-# Here is what the image 1 in slide 36 of lecture 9 contains:
+# Here is what the image 1 in slide 36 (Bonus Slide) of lecture 9 contains:
 
 The image displays a simple graph with two main components: a horizontal black line and a blue curve.
 

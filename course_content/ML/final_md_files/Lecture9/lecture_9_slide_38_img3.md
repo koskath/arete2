@@ -1,4 +1,4 @@
-# Here is what the image 3 in slide 38 of lecture 9 contains:
+# Here is what the image 3 in slide 38 (Bonus Slide) of lecture 9 contains:
 
 The image shows a graph with a black vertical line and a black horizontal line intersecting at the origin, forming a coordinate axis. The vertical line extends slightly above and below the horizontal line. The horizontal line extends to the left and right from the vertical line. 
 

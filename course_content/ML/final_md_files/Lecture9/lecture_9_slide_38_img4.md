@@ -1,4 +1,4 @@
-# Here is what the image 4 in slide 38 of lecture 9 contains:
+# Here is what the image 4 in slide 38 (Bonus Slide) of lecture 9 contains:
 
 The image is a rectangular diagram with a grid of small images that depict representations of digits using various segments. At the top, centered and in bold, is the title "Motivation: Pixels vs. Parts." Below this, on the left, there is a bullet point stating, "We could represent other digits as different combinations of 'parts':" where "combinations" is in green text.
 
