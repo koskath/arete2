@@ -1,14 +1,2 @@
-The image is divided into two main sections with a blue background. At the top, there is a dark blue banner with white and orange text that reads, "TEN INVENTORY METRICS YOU NEED TO KNOW RIGHT NOW." 
 
-On the left side, there are four circular icons with text:
-
-1. The first circle contains a graphic of a stack of money with a dollar sign, and next to it, in white text, "INVENTORY TURNOVER."
-2. Directly below, another circle has an illustration of a calculator, glasses, and a pencil, next to white text stating, "GROSS MARGIN PERCENT."
-3. Below that, another circle with a graphic not fully visible, next to partially visible text reading, "CUSTOMER..."
-
-On the right side, two visible circular icons with text:
-
-1. The first circle features a graphic of banknotes with red and yellow arrows, next to white text, "RETURN ON INVESTMENT."
-2. Below it, another circle shows a red box above a brown package, next to white text, "ITEM FILL RATE."
-
-In the center of the image is a stylized illustration of a shelving unit holding various objects such as boxes and binders. To the left of the shelves is an illustration of a person wearing a yellow hard hat, visible only from the shoulders up. The shelves have multiple levels, filled with items such as books or files in different colors, mostly brown, blue, orange, and black.
+The image, titled "Pitfalls in Managing Supply Chain Inventory (2/3)," continues the outline of common inventory management problems by focusing on issues related to forecasting, lot sizing, and product design. The four additional pitfalls identified are: Inaccurate demand forecasts, which are a major source of the Bullwhip Effect and result from issues like inappropriate forecasting models, poor data from the market, lack of consensus between departments, and uncontrolled manual overrides of statistical forecasts. Product proliferation is another pitfall, driven by having too many products, too many small volume customers, and a high percentage of new products lacking historical demand data, which significantly increases inventory complexity and cost. The third pitfall involves Large minimum batch sizes/lot sizes, an operational inefficiency caused by a poor tradeoff between holding and ordering cost (ignoring EOQ principles) and excessive minimum purchase quantities from suppliers, leading to unnecessarily high inventory levels and holding costs. Finally, the ultimate symptom, Excessive inventories of raw materials, work-in-process (WIP), and finished goods, is listed as a pitfall caused by management complacency, inaccurate demand forecasts (leading to high safety stock), and incentives based on volume rather than operational efficiency. Collectively, this list highlights that effective inventory management requires rigorous forecasting discipline, strategic control of product variety, appropriate lot sizing, and overcoming internal misaligned incentives.

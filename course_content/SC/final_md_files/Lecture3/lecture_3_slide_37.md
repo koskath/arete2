@@ -1,24 +1,5 @@
-The image displays a structured diagram consisting of a table and an arrow representing relational dynamics in supply chains. 
+The image titled "Different types of relationships when doing what?" presents a matrix that classifies supply chain relationships based on the strategic importance of the purchase and the resulting level of collaboration . Relationships are categorized along a spectrum from Lower value-added to Higher value-added. The spectrum is broadly divided into Arm’s-length relationships and Collaborative relationships, correlating directly with the strategic importance of the purchase being Low or High, respectively.
 
-The table is divided into two main columns:
+On the Arm’s-length side, the relationships are less intense, including simple Vendors, Traditional suppliers, and slightly more formalized Certified suppliers. These are suitable for purchases with low strategic importance, often involving basic transactional exchanges.
 
-1. **Arm’s-length relationships**:
-   - Comprises two subdivisions:
-     - **Vendors**
-     - **Traditional suppliers**
-
-2. **Collaborative relationships**:
-   - Comprises three subdivisions:
-     - **Certified suppliers**
-     - **Partnership-type relationship**
-     - **Strategic alliances**
-
-Below the table, an arrow spans horizontally from left to right. The arrow is labeled with a gradient fill from light gray on the left to dark gray on the right, indicating the progression of value and importance.
-
-- The left side of the arrow is labeled as "Low," with the annotation "Lower value-added relationships."
-- The right side of the arrow is labeled as "High," with the annotation "Higher value-added relationships."
-- The text "Strategic importance of the purchase" is centered on the arrow.
-
-The source information is provided at the bottom:
-
-"SOURCE: Dobler and Burt (1993). Copyright McGraw-Hill Companies, Inc. Used with permission."
+In contrast, the Collaborative relationships are reserved for purchases of high strategic importance and involve deep partnership. This category includes Partnership-type relationships and the most integrated form, Strategic alliances. This model illustrates that the level of integration and investment in a relationship should be directly proportional to the criticality of the goods or services being purchased.

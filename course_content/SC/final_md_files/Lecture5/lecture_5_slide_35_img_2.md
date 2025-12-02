@@ -1,15 +1,2 @@
-The image contains a rectangular area with rounded corners at both the top left and top right. The background color is a light grey. 
 
-In the upper part of the rectangle, there are three large capital letters distributed horizontally:
-
-1. On the left side is the letter "X."
-2. In the center is the letter "Y."
-3. On the right side is the letter "Z."
-
-Below each letter, there are corresponding labels in smaller font:
-
-1. Below the letter "X" is the phrase "Easy to."
-2. Below the letter "Y" is the word "Predictability."
-3. Below the letter "Z" is the phrase "Difficult to."
-
-The text is aligned centrally below each respective letter. The font of the letters and labels is bold and in black color. There are no other elements, structures, annotations, or images present.
+The image, titled "Combined ABC-XYZ Analysis," presents a nine-cell matrix that combines the two fundamental inventory classification methods, ABC Analysis and XYZ Analysis, to create a comprehensive framework for setting inventory control strategies. The ABC dimension, displayed on the rows, classifies items based on their value share (A=High, B=Medium, C=Low), focusing on the financial impact of each item, as previously determined by multiplying consumption by price. The XYZ dimension, displayed on the columns, classifies items based on the predictability of their demand (X=Easy, Y=Average, Z=Difficult), which directly relates to demand variability and the need for Safety Stock. By merging these two factors, the matrix provides nine distinct categories, allowing for tailored inventory policies: for example, AX items (High Value, Stable Demand) are colored green, signifying that they require the most precise control and forecasting but can be managed with minimal safety stock; conversely, CZ items (Low Value, Irregular Demand) are colored dark red, indicating they are difficult to predict and typically managed using simple control methods (like stocking up to a large quantity) despite their low individual value, as the cost of accurate forecasting outweighs the benefit. This combined analysis allows a company to prioritize its resources effectively to mitigate the risk of stockouts and high holding costs across its entire inventory portfolio.

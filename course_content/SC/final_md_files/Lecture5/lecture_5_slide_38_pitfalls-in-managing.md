@@ -1,3 +1,0 @@
-# Pitfalls in Managing
-
-
