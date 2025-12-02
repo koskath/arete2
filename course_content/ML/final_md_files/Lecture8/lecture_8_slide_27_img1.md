@@ -1,16 +1,3 @@
 # Here is what the image 1 in slide 27 of lecture 8 contains:
 
-The image contains a mathematical formula representing the quadratic formula. The formula is presented as follows:
-
-- The equation starts with "x =" on the left side.
-- Following the equals sign is a large horizontal fraction bar.
-- Above the fraction bar (in the numerator), there is: 
-  - "-b" written at the start.
-  - Next to "-b", there is the plus-minus symbol "±".
-  - After the "±" symbol, there is a square root symbol "√".
-  - Under the square root symbol is the expression "b² - 4ac".
-    - "b²" consists of "b" followed by a superscript "2".
-    - "- 4ac" follows "b²", with "4ac" being the product of "4", "a", and "c".
-- Below the fraction bar (in the denominator), there is "2a", which represents the multiplication of "2" and "a".
-
-The formula is neatly organized, with the fraction and square root presented clearly, ensuring each component is precisely aligned.
+The image displays the Quadratic Formula, which is used to find the solutions for a general quadratic equation $ax^2 + bx + c = 0$. In the context of L1/Lasso Regularization in a machine learning or optimization class, this formula is highly likely included to highlight the contrast between simple analytical methods and the complex numerical methods required for L1 optimization. The standard Ordinary Least Squares (OLS) solution for linear regression can be found directly using matrix algebra, which is a closed-form, analytical solution, much like the quadratic formula provides for a quadratic equation. However, the introduction of the L1 penalty term in Lasso Regression results in an objective function that is non-differentiable at zero due to the absolute value function. Consequently, the optimal solution cannot be found by simply setting the gradient to zero. Instead, the solution must be found using iterative numerical optimization methods (such as coordinate descent or proximal gradient descent). The display of the simple quadratic formula, which does provide a closed-form solution, serves to explain why iterative numerical methods, rather than simple analytical methods, are necessary for L1/Lasso regularization
