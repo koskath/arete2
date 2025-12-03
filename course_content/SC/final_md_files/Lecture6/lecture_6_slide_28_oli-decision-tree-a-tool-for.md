@@ -1,6 +1,27 @@
-# OLI Decision Tree, a Tool for
+# OLI Decision Tree, a Tool for Decision-making about Offshoring 
 
-Decision-making about Offshoring
-Offshoring
-Source: Adapted from Sudarsanam 2003, p. 201; Welch/Benito/Petersen 2007, p.31. In Morschett et al. (2010), p. 250
-28
+The image is a flowchart consisting of three main diamond-shaped decision nodes arranged horizontally, connected by arrows, and accompanied by rectangular decision outcomes. The layout is divided into three sections, each labeled at the top.
+
+1. **First Section (Left Side):**
+   - Label at top: "Internationalisation Decision."
+   - Diamond shape: Contains the text "Ownership Advantages?"
+   - To the right of the diamond, there's an arrow labeled "yes," pointing right to the next decision node.
+   - Below the diamond, an arrow labeled "no" points downward to a rectangle.
+   - Rectangle text: "No International Activities."
+
+2. **Second Section (Middle):**
+   - Label at top: "Location Decision."
+   - Diamond shape: Contains the text "Location Advantages in Host Country?"
+   - To the right of the diamond, there's an arrow labeled "yes," pointing right to the third decision node.
+   - Below the diamond, an arrow labeled "no" points downward to a rectangle.
+   - Rectangle text: "Produce at Home, then Export."
+
+3. **Third Section (Right Side):**
+   - Label at top: "Internalisation Decision."
+   - Diamond shape: Contains the text "Internalisation Advantages?"
+   - To the right of the diamond, there's an arrow labeled "yes," pointing right to a rectangle.
+   - Rectangle text: "FDI."
+   - Below the diamond, an arrow labeled "no" points downward to a rectangle.
+   - Rectangle text: "Contractual Arrangements, e.g. Licensing."
+
+The overall structure progresses from left to right, starting with the "Ownership Advantages?" decision node and following the path through each subsequent decision based on "yes" or "no" answers to reach a final decision.
