@@ -1,4 +1,6 @@
-The image consists of a circular diagram with a larger outer circle divided into six segments, surrounding a smaller central circle. Each segment displays a cartoon illustration with a label underneath. The details are as follows:
+# The image in slide 15 of lecture 4 consists of a circular diagram with a larger outer circle divided into six segments, surrounding a smaller central circle. 
+
+Each segment displays a cartoon illustration with a label underneath. The details are as follows:
 
 1. **Central Circle**:
    - Contains an illustration of a conveyor belt overloaded with boxes.

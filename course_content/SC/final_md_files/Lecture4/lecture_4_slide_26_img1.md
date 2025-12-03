@@ -1,4 +1,4 @@
-The image contains two diagrams labeled "Bad" and "Better," comparing two production line setups.
+# The image 1 in slide 26 of lecture 4 contains two diagrams labeled "Bad" and "Better," comparing two production line setups.
 
 At the top:
 

@@ -1,4 +1,4 @@
-The image contains four diagrams illustrating different arrangements of operators and material flow, with accompanying annotations:
+# The image 1 in slide 25 of lecture 4 contains four diagrams illustrating different arrangements of operators and material flow, with accompanying annotations:
 
 1. **Top Left Diagram:**
    - Layout: A linear, horizontally oriented layout with two rows of four workstations facing each other across a central path labeled "Material flow."

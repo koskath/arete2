@@ -1,4 +1,4 @@
-The image displays a structured diagram with several layers of information, presented in a visual format resembling a house. Each section contains text and is organized in a hierarchical manner:
+# The image 1 in slide 28 of lecture 4 displays a structured diagram with several layers of information, presented in a visual format resembling a house. Each section contains text and is organized in a hierarchical manner:
 
 1. **Top Header**:
    - A rectangular box containing the text: 
