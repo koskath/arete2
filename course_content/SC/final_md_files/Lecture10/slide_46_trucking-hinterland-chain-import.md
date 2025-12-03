@@ -1,31 +1,40 @@
-# Trucking Hinterland Chain (Import)
+# Trucking Hinterland Chain (Import) – Slide Description
+This slide visualizes the **import-side hinterland logistics chain**, showing how a container moves from the seaport to the inland destination, and how different actors interact through both **physical flows** and **contractual relationships**.
 
-# Here is what the image contains:
+At the center of the diagram are the key actors—each represented by a box—while arrows illustrate two different dimensions:
+- **Grey arrows** represent the **container flow** (the physical movement of goods).
+- **Black curved arrows** represent the **contractual relationships** (who contracts whom).
 
-- Forwarder (Agent) at the top connecting to:
-  - Container shipping line
-  - Container stevedore
-  - Trucking company
-  - Shipper or consignee
+## Physical Flow (Container Flow)
+The container begins its import journey at the seaport:
+1. **Container Shipping Line** → discharges the container.
+2. The container is handed to the **Container Stevedore** (the terminal operator performing unloading, handling, and storage).
+3. The container then moves from the stevedore to a **Trucking Company**, which is responsible for the hinterland transport.
+4. Finally, the truck delivers the container to the **Shipper or Consignee** in the hinterland.
 
-- Container shipping line connects to:
-  - Container stevedore
+Supporting authorities operate around the port area:
+- **Customs**
+- **Port Authority**
+- **Inspection Agencies**
+Although they do not move the container, they may impose checks or clearance procedures that affect the flow.
 
-- Container stevedore connects to:
-  - Trucking company
+## Contractual Relationships
 
-- Trucking company connects to:
-  - Shipper or consignee
+The diagram highlights how **contracts do not follow the same path as the physical flow**:
+- The **Forwarder (Agent)** holds the main contractual role.
+- The forwarder typically:
+  - contracts the **Trucking Company** for inland transportation,
+  - contracts the **Shipping Line** for ocean transport,
+  - and represents the interests of the **Shipper or Consignee**.
+- The **Shipper/Consignee** signs a contract primarily with the **Forwarder**, rather than directly with each transport provider.
+Thus, the forwarder acts as a **coordinator and commercial intermediary**, consolidating responsibilities on behalf of the importer.
 
-- Customs, Port authority, and Inspection are linked to the Container stevedore
+## Key Insight
+This slide reinforces a central logistics principle:  
+**The container moves physically in one direction, while contracts and responsibilities flow differently across actors.**
 
-- In the legend:
-  - Rectangle represents Actor
-  - Solid arrow represents Container flow
-  - Double-headed arrow represents Contract
+It highlights:
+- the complexity of import logistics,
+- the pivotal role of forwarders in aligning port and hinterland operations,
+- and the dependency on multiple parties (carriers, terminal operators, customs, truckers) to ensure seamless container delivery from port to inland destinations.
 
-- Two shaded areas labeled:
-  - Port
-  - Hinterland
-
-- Text on the right side: "Van de Horst and de Langen (2008)"

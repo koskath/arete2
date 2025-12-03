@@ -7,5 +7,3 @@
 - Idle or Empty Repositioning 56%
 
 The usual life-span of a container is about 10-15 years…
-
-Source: Rodrigue et al. (2017)
