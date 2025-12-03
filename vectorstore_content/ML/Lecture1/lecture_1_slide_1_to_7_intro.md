@@ -1,0 +1,1 @@
+# Slide 1, Slide 2, Slide 3, Slide 4, Slide 5, Slide 6, and Slide 7 of Lecture 1 are just introductory slides
