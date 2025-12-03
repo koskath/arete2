@@ -1,2 +1,5 @@
-# Archetypes of Supply Chain Configurations
-In discussing these • Archetypes of Supply Chain Configurations, we examine the push/pull boundary and related concepts; Postponement, while looking for dominant Themes, some Basic Patterns, and Some “Configurations“ that capture how different supply chains can be structured.
+# Supply Chain Configuration Themes
+
+This slide introduces key themes related to understanding and designing supply chain configurations. It highlights the idea of identifying **archetypes of supply chain configurations**, meaning the common structural patterns that appear across different industries. It also references the importance of determining the **push/pull boundary**, the point in the supply chain where activities shift from being forecast-driven (push) to demand-driven (pull). Additionally, the slide mentions **postponement**, a related concept in which final product differentiation is delayed until closer to the customer to increase flexibility and reduce risk.
+
+The larger text at the bottom emphasizes the purpose of the topic: looking for **dominant themes**, identifying **basic patterns**, and understanding distinct **configurations** that help explain how different supply chains operate and how they can be strategically aligned.

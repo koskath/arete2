@@ -5,4 +5,8 @@ which corresponds to (- 5 %) (No) (Yes), and Heroics: 0 - $0.36, which correspon
 (3 times). We also take into account Other Preferences: ? ?, including (e.g. Culture) (American) (Danish) and
 (e.g. Info. about supplier) (Yes) (Yes), so that all relevant policy and other factors for ABC Corp. and XYZ Corp.
 are reflected.
-Networks 29.10-31.10.2024 Slide 60
+
+This slide shows the combined effect of cost factors and performance factors in a single consolidated table. All previously calculated adjustments (freight, discounts, on-time delivery, quality, and lead time) are added to the quoted price.
+At this stage:ABC’s total cost grows substantially due to weak delivery, high defects, and slow lead time. XYZ’s total cost increases only slightly, mainly from freight and lead-time adjustments.
+
+This provides the first full view of which supplier is actually more expensive when realistic operational costs are included.
