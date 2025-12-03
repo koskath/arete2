@@ -1,0 +1,10 @@
+# Relationship between Rate per Kilo and Consignment Weight
+
+# Here is what the image contains:
+
+A graph with a downward sloping curve. 
+
+- The y-axis is labeled "Rate per kilo."
+- The x-axis is labeled "Consignment weight."
+
+The curve shows a decreasing relationship between the rate per kilo and consignment weight.

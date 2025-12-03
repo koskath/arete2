@@ -1,0 +1,15 @@
+# Definitions Revisited
+
+AIR
+
+MULTIMODAL
+
+INTERNODAL
+
+COMBINED
+
+ULD BUP
+
+FCL LCL
+
+SEA
