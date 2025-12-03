@@ -1,36 +1,4 @@
 # Choosing Between Push/Pull Strategies
-Pull Where do the following
-High
-industries fit in this
-model:
-• Automobile?
-• Aircraft?
-• Fashion?
-• Petroleum refining?
-• Pharmaceuticals?
-• Biotechnology?
-• Medical Devices?
-Push
-Low
-Low High
-Economies of Scale
-Pull Push
-Strategy & Configuration Slide 46
-ytniatrecnU
-dnameD
-Industries where: Industries where:
-•Customization is High •Demand is uncertain
-•Demand is uncertain •Scale economies are High
-•Scale economies are Low
-Computer
-Furniture
-equipment
-Industries where: Industries where:
-•Uncertainty is low • Standard processes are
-•Low economies of scale the norm
-•Push-pull supply chain • Demand is stable
-• Scale economies are High
-Books, CD’s
-Grocery,
-Beverages
-Source: Simchi-Levi
+This slide presents a strategic framework for determining whether a supply chain should operate on a "Push" or "Pull" basis. This decision is modeled on a 2x2 matrix defined by two key axes: "Demand Uncertainty" on the vertical axis and "Economies of Scale" on the horizontal axis. The framework suggests that "Pull" strategies are most appropriate in environments with high demand uncertainty and low economies of scale, whereas "Push" strategies are suited for environments with low demand uncertainty and high economies of scale.
+
+The matrix categorizes industries into four distinct quadrants based on these characteristics. The "Computer Equipment" sector, located in the top-left, is characterized by high customization, uncertain demand, and low economies of scale, sitting firmly in the "Pull" territory. In contrast, the "Grocery and Beverages" sector in the bottom-right represents the ideal "Push" environment, defined by stable demand, high economies of scale, and standard processes which are the norm. The "Furniture" industry in the top-right faces a mix of factors, with uncertain demand but high economies of scale, while the "Books and CDs" quadrant in the bottom-left is characterized by low uncertainty and low economies of scale, explicitly noted as a "Push-pull supply chain" scenario. Finally, on the right side, the slide includes a learning exercise asking students to apply this model to other specific industries, including Automobile, Aircraft, Fashion, Petroleum refining, Pharmaceuticals, Biotechnology, and Medical Devices, citing Simchi-Levi as the source.

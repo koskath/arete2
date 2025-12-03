@@ -1,3 +1,0 @@
-# Metal Shelfing Storage
-
-

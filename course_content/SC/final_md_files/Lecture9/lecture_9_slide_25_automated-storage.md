@@ -1,1 +1,0 @@
-# Automated Storage and Retrieval System (AS/RS)

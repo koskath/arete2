@@ -1,4 +1,4 @@
-The image presents a framework linking competitive factors valued by customers to corresponding performance objectives that operations need to excel in for effective supply chain management. 
+The slide presents a framework linking competitive factors valued by customers to corresponding performance objectives that operations need to excel in for effective supply chain management. 
 
 - **Low Price**: Tied to the performance objective of **Cost**, indicating that operations should focus on minimizing costs to offer competitive pricing.
   

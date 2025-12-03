@@ -1,24 +1,4 @@
 # Mason-Jones/Towills
-Definitions of Postponement-Strategies
-Full Speculation Strategy
-
-Production Plant Plant of Optional levels Final Retailer / central of distribution warehouse customer
-warehouse warehouse level
-Manufacturing Postponement Strategy
-
-Production Plant Plant of central Optional levels of Final Retailer /
-warehouse distribution warehouse level customer
-warehouse
-Logistics Postponement Strategy
-
-Production Plant Plant of Retailer /
-central customer
-warehouse
-Full Postponement Strategy
-
-Production Plant Retailer / customer
-Retailer / customer
-Material flows Inventory Manufacturing process
-order point
-Quelle: Mason-Jones/Towill(1999), S. 18
-Strategy & Configuration Slide 49
+The slide illustrates the strategic continuum between "anticipative speculation" (Push) and "reactive postponement" (Pull) by mapping the location of the customer order decoupling point across the value chain. The operational process is broken down into six sequential stages: Design, Purchasing, Fabrication, Assembly, Packaging, and Distribution, with a stepped dashed line weaving through these stages to visualize the boundary where the process shifts from being forecast-driven to order-driven.
+
+On the far left, the "Pure standardization" model represents a fully anticipatory strategy where all activities up to distribution are performed based on speculation "without order". As the strategy moves towards greater customization, this decoupling point shifts upstream; "Segmented standardization" and "Customized standardization" introduce reactivity at the later stages like packaging or assembly, corresponding to "Assembly to order" strategies. Further upstream, "Tailored customization" delays commitment until the fabrication or purchasing stage, while the "Pure customization" model on the far right represents the ultimate pull strategy, "Engineering to order," where the entire process starting from Design is triggered only by a specific customer request. The visual summarizes this evolution as a trade-off where moving from standardization to customization transitions the system from pushing inventory based on forecasts to pulling value based on real-time demand.
