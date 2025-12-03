@@ -1,4 +1,4 @@
-# Phase 1: IT Support for basic Functions
+# Slide 13 of Lecture 12 contains information about Phase 1: IT Support for basic Functions
 
 - **Goal:** Automation of information processes for basic functions like **“MRP”** or **“billing”** in finance  
 - **Benefits:** Higher efficiency for isolated processes  

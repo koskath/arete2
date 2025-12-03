@@ -1,3 +1,4 @@
+# The image 1 in slide 48 of lecture 13 contains:
 The image contains a network diagram titled "T Plant." It is divided into three main sections labeled as "End items" at the top, and "Inputs" at the bottom. The diagram is composed of connected nodes represented by pink circles and arrows indicating direction.
 
 At the top, the "End items" section has two rows of nodes. The topmost row contains six circles. Below them, in a staggered formation, are five circles positioned so that they each align between two circles from the top row. Arrows point from each top circle downward and toward the horizontally adjacent bottom row circles.

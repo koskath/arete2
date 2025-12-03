@@ -1,3 +1,4 @@
+# The image 1 in slide 35 of lecture 9 contains:
 The image presents a formula structure related to financial periods and cycles. It consists of textual and symbolic elements organized vertically and horizontally. The layout is as follows:
 
 1. The first line:

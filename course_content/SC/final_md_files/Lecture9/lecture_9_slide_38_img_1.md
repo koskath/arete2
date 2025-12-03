@@ -1,3 +1,4 @@
+# The image 1 in slide 38 of lecture 9 contains:
 The image contains two horizontal bar diagrams side by side comparing the cash-to-cash cycle of "2000 J C Penney" on the left and "2000 Dell Computer" on the right.
 
 **Left Diagram (2000 J C Penney):**

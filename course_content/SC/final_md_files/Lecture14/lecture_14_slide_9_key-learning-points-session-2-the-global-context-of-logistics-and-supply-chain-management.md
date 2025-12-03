@@ -1,4 +1,4 @@
-# Key learning points: Session 2: The global context of logistics and supply chain management
+# Slide 9 of Lecture 14 contains information about Key learning points: Session 2: The global context of logistics and supply chain management
 
 This slide outlines the focus of Session 2, which explores how logistics and supply chain management operate within a globalized environment. It highlights how processes such as international trade, containerization, and cross-border product movement shape the complexity of modern supply chains.
 The **content section** emphasizes several major themes: the impact of globalization on logistics, the role of international trade, the functioning of cross-border supply chains, and practical applications of global logistics and SCM. The **main issue** addressed in this session is complexity—specifically the steps, actors, and institutions that make global supply chains more intricate. The slide also references mapping activities and the importance of standards in reducing uncertainty.

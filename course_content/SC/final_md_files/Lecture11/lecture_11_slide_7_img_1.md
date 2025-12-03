@@ -1,3 +1,4 @@
+# The image 1 in slide 7 of lecture 11 contains:
 The image is a diagram consisting of a large circle labeled "CONTEXT" at the top. Inside the large circle, there is a smaller circle in the center labeled "YOU." This smaller circle divides the large circle into two halves.
 
 The left half of the large circle is labeled "Pure learning." It contains:

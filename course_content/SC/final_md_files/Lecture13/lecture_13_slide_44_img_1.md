@@ -1,3 +1,4 @@
+# The image 1 in slide 44 of lecture 13 contains:
 The image is a diagram illustrating a supply chain process with the following components:
 
 1. **Heading**: 

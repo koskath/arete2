@@ -1,4 +1,4 @@
-# Finally Detailling of the processes (done Company specific)
+# Slide 42 of Lecture 2 contains information about Finally Detailling of the processes (done Company specific)
 # The image in slide 42 of lecture 2 consists of several structured components arranged hierarchically to depict a process. Here's a detailed description:
 
 1. **Main Arrow Diagram (Top Section):**

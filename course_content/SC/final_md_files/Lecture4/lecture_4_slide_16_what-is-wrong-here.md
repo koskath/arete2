@@ -1,4 +1,4 @@
-# What is wrong here?
+# Slide 16 of Lecture 4 contains information about What is wrong here?
 
 # The diagram in slide 16 of lecture 4 illustrates a facility layout with multiple production departments and workstations interconnected by material flow paths represented as black lines. On the left side, illustrations depict workers handling materials and documents at the beginning of the process.
 

@@ -1,3 +1,4 @@
+# The image 1 in slide 19 of lecture 11 contains:
 The image is divided into three main sections, with two text boxes at the top and two zones below, containing a graph. Each section is bordered by a thin line. 
 
 1. **Top Left Section:**

@@ -1,3 +1,4 @@
+# The image 1 in slide 25 of lecture 9 contains:
 The image depicts a complex logistics and storage system arranged in an isometric view. It consists of several distinct areas and components, each labeled clearly.
 
 1. **Storage and Picking Areas**: 

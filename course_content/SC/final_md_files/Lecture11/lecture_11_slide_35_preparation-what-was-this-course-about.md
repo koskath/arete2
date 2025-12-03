@@ -1,4 +1,4 @@
-# Preparation - What was this course about
+# Slide 35 of Lecture 11 contains information about Preparation - What was this course about
 Key objective of the course is to introduce students into the business challenges and
 solutions of supply chain management and modern business logistics in a global
 environment. Students should learn to identify and understand specific basic and

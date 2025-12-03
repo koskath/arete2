@@ -1,4 +1,4 @@
-# And a view away from single location to specialiced network nodes
+# Slide 44 of Lecture 4 contains information about And a view away from single location to specialiced network nodes
 
 # The diagram in slide 44 of lecture 4 presents a geographic representation of a specialized production network distributed across Europe and North Africa. A legend on the left identifies four facility types: Assembly plant (represented by a blue L-shaped symbol), Components (shown as a small blue square), Integrated plants (depicted as a blue L-shaped symbol with a circular highlight), and Suppliers (indicated by a small open square).
 

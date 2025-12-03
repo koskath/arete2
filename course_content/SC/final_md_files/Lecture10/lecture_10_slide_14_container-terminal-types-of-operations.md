@@ -1,4 +1,4 @@
-# Container Terminal Types of Operations
+# Slide 14 of Lecture 10 contains information about Container Terminal Types of Operations
 
 ## Reach Stacker System
 (on-side transports by terminal tractors)

@@ -1,4 +1,4 @@
-# Lean - A Strategy Based on Lead Time Compression
+# Slide 21 of Lecture 4 contains information about Lean - A Strategy Based on Lead Time Compression
 
 # The diagram in slide 21 of lecture 4 presents a visual representation of value-added activities versus waste in a production process.
 The horizontal timeline is divided into alternating segments positioned above and below a central black baseline.

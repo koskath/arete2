@@ -1,4 +1,4 @@
-# The Procurement Process
+# Slide 8 of Lecture 6 contains information about The Procurement Process
 
 Table titled "Table 9.5 The procurement process" with three main columns: "Stage," "Description," and "Key issues."
 

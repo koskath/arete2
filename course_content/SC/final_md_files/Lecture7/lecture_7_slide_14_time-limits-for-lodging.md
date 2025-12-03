@@ -1,4 +1,4 @@
-# Time Limits for lodging Pre-Declarations (ENS, EXS)
+# Slide 14 of Lecture 7 contains information about Time Limits for lodging Pre-Declarations (ENS, EXS)
 
 # Description of the Image: Time Limits for Lodging Pre-Declarations (ENS, EXS)
 

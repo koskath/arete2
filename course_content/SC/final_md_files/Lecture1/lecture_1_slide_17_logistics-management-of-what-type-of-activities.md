@@ -1,4 +1,4 @@
-# Logistics = management of what type of activities?
+# Slide 17 of Lecture 1 contains information about Logistics = management of what type of activities?
 
 # The graph in slide 17 of Lecture 1 illustrates that logistics management encompasses two interconnected types of activities:
 

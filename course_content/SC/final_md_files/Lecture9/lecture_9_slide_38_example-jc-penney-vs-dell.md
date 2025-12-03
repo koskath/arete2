@@ -1,4 +1,4 @@
-# Example: JC Penney vs. Dell
+# Slide 38 of Lecture 9 contains information about Example: JC Penney vs. Dell
 
 The image contains two horizontal bar diagrams side by side comparing the cash-to-cash cycle of "2000 J C Penney" on the left and "2000 Dell Computer" on the right.
 

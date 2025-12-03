@@ -1,4 +1,4 @@
-# Economic Integration Levels 1/2
+# Slide 5 of Lecture 7 contains information about Economic Integration Levels 1/2
 The image is a world map illustrating various levels of economic integration across different regions through color coding. Here's a connection to supply chain analytics:
 
 1. **Multilateral Free Trade Agreement (Orange)**: Regions like NAFTA (North American Free Trade Agreement) and ASEAN (Association of Southeast Asian Nations) are highlighted. In supply chain analytics, these agreements reduce tariffs, allowing for smoother cross-border supply chains and reducing lead times. Analytics can optimize routes and inventory management by leveraging tariff reductions.

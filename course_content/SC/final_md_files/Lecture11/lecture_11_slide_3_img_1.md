@@ -1,3 +1,4 @@
+# The image 1 in slide 3 of lecture 11 contains:
 Global Supply Chain Management:
 
 - Exam ECTS: 7,5

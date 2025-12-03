@@ -1,4 +1,4 @@
-# Understanding the Supply Chain:
+# Slide 47 of Lecture 13 contains information about Understanding the Supply Chain:
 
 Based on the slide titled "Further key patterns Anticipating vs. Reacting – Push vs Pull," the diagram illustrates the strategic continuum between "anticipative speculation" (Push) and "reactive postponement" (Pull) by mapping the location of the customer order decoupling point across the value chain. The operational process is broken down into six sequential stages: Design, Purchasing, Fabrication, Assembly, Packaging, and Distribution. A stepped dashed line weaves through these stages to visualize the boundary where the process shifts from being forecast-driven to order-driven.
 

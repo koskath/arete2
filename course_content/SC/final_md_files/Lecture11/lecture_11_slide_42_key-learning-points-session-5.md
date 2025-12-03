@@ -1,4 +1,4 @@
-# Key learning points – Session 5
+# Slide 42 of Lecture 11 contains information about Key learning points – Session 5
 Inventory Management, Planning and Control
 Content:
 Literature:

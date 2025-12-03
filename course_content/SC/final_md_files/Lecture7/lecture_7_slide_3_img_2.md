@@ -1,3 +1,4 @@
+# The image 2 in slide 3 of lecture 7 contains:
 The image shows a flowchart with two rows of chevron-shaped blocks, organized into a hierarchical structure. 
 
 In the top row, there are three large chevrons pointing to the right. They are labeled, from left to right, as follows:

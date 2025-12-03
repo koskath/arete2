@@ -1,4 +1,4 @@
-# Case Study: Missing Boxes in Central Europe
+# Slide 37 of Lecture 10 contains information about Case Study: Missing Boxes in Central Europe
 
 1) What is the object of analysis and the key challenges there?
 

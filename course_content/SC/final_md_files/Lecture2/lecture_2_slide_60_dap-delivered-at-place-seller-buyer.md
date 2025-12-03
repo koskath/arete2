@@ -1,4 +1,4 @@
-# DAP – Delivered At Place Seller Buyer
+# Slide 60 of Lecture 2 contains information about DAP – Delivered At Place Seller Buyer
 # The image in slide 60 of lecture 2 consists of a series of stylized icons representing a logistics and supply chain network:
 From left to right, the elements are arranged in a sequential manner
 

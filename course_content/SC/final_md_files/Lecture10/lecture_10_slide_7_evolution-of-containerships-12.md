@@ -1,4 +1,4 @@
-# Evolution of Containerships 1/2
+# Slide 7 of Lecture 10 contains information about Evolution of Containerships 1/2
 
 1968 Encounter Bay 1,530 teu  
 1972 Hamburg Express 2,950 teu  

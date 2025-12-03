@@ -1,4 +1,4 @@
-# Current ERP seem to reflect such ideas better
+# Slide 29 of Lecture 12 contains information about Current ERP seem to reflect such ideas better
 
 # The image in slide 29 of lecture 12 is a diagram depicting the SAP HANA Cloud architecture. It is structured with several layers and components, each labeled with text and connected by various arrows and lines. Here's a detailed description of each element:
 

@@ -1,4 +1,4 @@
-# Strategic Scope across the total supply chain how to vertically and horizontally align it???
+# Slide 31 of Lecture 14 contains information about Strategic Scope across the total supply chain how to vertically and horizontally align it???
 
 The image presents a matrix that illustrates how different strategic layers must be aligned both **vertically** (within a single company) and **horizontally** (across the entire supply chain). The horizontal axis lists the major supply chain actors—Suppliers, Manufacturer, Distributor, Retailer, and Customer—while the vertical axis lists four key strategy dimensions: Competitive Strategy, Product Development Strategy, Supply Chain Strategy, and Marketing Strategy.
 

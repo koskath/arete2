@@ -1,4 +1,4 @@
-# Transport Cost Comparison between Road, Rail and Maritime
+# Slide 18 of Lecture 10 contains information about Transport Cost Comparison between Road, Rail and Maritime
 
 # Here is what the graph in slide 18 of lecture 9 contains:
 

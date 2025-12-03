@@ -1,4 +1,4 @@
-# Forms of Customs Transit Procedures
+# Slide 24 of Lecture 7 contains information about Forms of Customs Transit Procedures
 
 This chart provides an overview of the different types of **customs transit procedures** used to move goods across borders without immediately paying duties or taxes. The diagram is organized hierarchically, beginning with the umbrella category "Customs Transit Procedures" and branching into specific systems used in the EU and internationally.
 

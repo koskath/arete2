@@ -1,3 +1,4 @@
+# The image 1 in slide 31 of lecture 11 contains:
 The image contains a two-column list of directives, each followed by an explanation. Each directive is bolded, and the text is left-aligned.
 
 Left Column:

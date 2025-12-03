@@ -1,4 +1,4 @@
-# Multimodal, Intermodal and Combined Transport
+# Slide 9 of Lecture 10 contains information about Multimodal, Intermodal and Combined Transport
 
 # The diagram in slide 9 of lecture 10 presents four different transport concepts used in supply chain and logistics.  
 Each row shows: **Pre-Carriage → Main Haul → Onward Carriage**, along with the equipment or transport mode involved.

@@ -1,4 +1,4 @@
-# Logistics vs. SCM Larson and Halldorssons four positions
+# Slide 10 of Lecture 2 contains information about Logistics vs. SCM Larson and Halldorssons four positions
 The image contains a grid of four quadrants, each quadrant featuring a labeled diagram:
 
 1. **Top Left Quadrant: "Traditionalist"**

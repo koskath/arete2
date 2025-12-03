@@ -1,3 +1,4 @@
+# The image 1 in slide 5 of lecture 9 contains:
 The diagram illustrates different international sales distribution and sales channel structures involving a "Home Firm" and its connection to the "End Consumer" through various intermediaries such as "Importer" and "Exporter".
 
 1. **Direct Export and Direct Sales**: The first line shows the simplest structure where the "Home Firm" directly exports products to the "End Consumer", bypassing intermediaries.

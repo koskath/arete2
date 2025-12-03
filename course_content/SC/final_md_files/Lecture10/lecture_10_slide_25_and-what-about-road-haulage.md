@@ -1,4 +1,4 @@
-# And what about Road Haulage?
+# Slide 25 of Lecture 10 contains information about And what about Road Haulage?
 
 This slide presents a case study from the International Road Transport Union about the TIR system implementation for China-to-Europe trade corridors. The press release is dated November 27, 2018 from Beijing and announces the successful completion of the first China to Europe TIR truck journey in record time.
 The photograph shows a TIR-certified truck branded with "alblas" passing through what appears to be an automated customs or border checkpoint facility. The scene includes scanning gates, security infrastructure, and personnel in high-visibility safety vests conducting inspections under winter conditions with snow visible on the ground.

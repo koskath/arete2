@@ -1,4 +1,4 @@
-# Industry: „real“ Just-in-Time
+# Slide 24 of Lecture 1 contains information about Industry: „real“ Just-in-Time
 # The image in slide 24 of Lecture 1 contains a schematic diagram and a photograph:
 
 1. **Schematic Diagram (Left Side):**

@@ -1,4 +1,4 @@
-# 2 – “Cloners”
+# Slide 37 of Lecture 4 contains information about 2 – “Cloners”
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.

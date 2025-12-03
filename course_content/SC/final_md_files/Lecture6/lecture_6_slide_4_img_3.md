@@ -1,3 +1,4 @@
+# The image 3 in slide 4 of lecture 6 contains:
 The image contains a diagram with the following elements:
 
 - On the left side, there is a circle outlined with a dashed border. To the left of the circle is the text "Item 13976" written in two lines, with "Item" on top and "13976" below it.

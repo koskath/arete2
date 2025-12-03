@@ -1,3 +1,4 @@
+# The image 1 in slide 27 of lecture 14 contains:
 The image is a flowchart-like diagram with various colored sections and labels, illustrating aspects of Manufacturing Resources Planning (MRP I) and Management Resources Planning (MRP II). The layout is primarily organized within three distinct areas: yellow, blue, and tan.
 
 1. **Yellow Border**: 

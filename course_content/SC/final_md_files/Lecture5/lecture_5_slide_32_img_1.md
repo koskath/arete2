@@ -1,3 +1,4 @@
+# The image 1 in slide 32 of lecture 5 contains:
 The image contains a horizontal and vertical axis intersecting at the center. Three vertical bars labeled "A," "B," and "C" are arranged from left to right. Each bar is divided into two segments with different colors and percentage labels.
 
 1. **Bar A**:

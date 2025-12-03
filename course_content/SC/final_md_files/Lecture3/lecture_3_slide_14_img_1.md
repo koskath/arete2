@@ -1,3 +1,4 @@
+# The image 1 in slide 14 of lecture 3 contains:
 The image is a cartoon-like illustration depicting a supply chain with various elements and characters interacting in a sequence.
 
 1. **Top Left Corner:**

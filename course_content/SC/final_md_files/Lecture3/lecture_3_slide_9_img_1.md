@@ -1,3 +1,4 @@
+# The image 1 in slide 9 of lecture 3 contains:
 The image depicts an aisle in a store setting. In the foreground, there is a person with long dark hair wearing a gray suit and white shirt, holding a blue package labeled "ClickZip" with an image of a clipper or similar object on it. Their gaze is directed upwards. 
 
 The shelving unit they are standing next to is mostly empty, displaying numerous small horizontal white lines indicative of shelf brackets but no visible products. Above this shelf on the wall is a placard with "ClickZip PLUS" written on it.

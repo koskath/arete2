@@ -1,3 +1,4 @@
+# The image 3 in slide 20 of lecture 4 contains:
 The image shows a collection of stacked metal wheel rims and overgrown vines. The rims are piled haphazardly, forming informal stacks against a concrete wall in the background. The rims vary in color, ranging from silver to rusted brown, indicating wear and exposure to the elements. The rims are cylindrical in shape and are positioned vertically on top of each other. 
 
 Green ivy or similar vine plants have extensively overgrown the area, cascading down over the rims. The vines have glossy, heart-shaped leaves and extend from the top of the rim stacks to the base, intertwining among the rims. 

@@ -1,4 +1,4 @@
-# Temporary Admission and Processing under Customs Control
+# Slide 22 of Lecture 7 contains information about Temporary Admission and Processing under Customs Control
 The slide explains two different **special customs procedures** within the EU:  
 **(1) Temporary Admission** and **(2) Processing under Customs Control**.  
 Both involve postponing or avoiding import duties under specific conditions. The slide contains two diagrams that visually illustrate the flow of goods through each procedure.

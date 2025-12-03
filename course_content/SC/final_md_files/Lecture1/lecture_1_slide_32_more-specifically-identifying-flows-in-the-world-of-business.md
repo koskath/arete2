@@ -1,4 +1,4 @@
-# ... more specifically: identifying „flows“ in the world of business
+# Slide 32 of Lecture 1 contains information about ... more specifically: identifying „flows“ in the world of business
 # The diagram in slide 32 of Lecture 1 illustrates a critical concept: the difference between organizational structure and actual business flows.
 The boxes represent a traditional hierarchical organizational chart - the formal structure of a company with departments, divisions, and reporting lines arranged in a neat tree structure from top management down.
 The blue arrows represent the actual flows - how work, information, materials, orders, and processes really move through the organization.

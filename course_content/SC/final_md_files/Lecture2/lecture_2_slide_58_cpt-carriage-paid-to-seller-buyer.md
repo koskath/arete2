@@ -1,4 +1,4 @@
-# CPT – Carriage paid to Seller Buyer
+# Slide 58 of Lecture 2 contains information about CPT – Carriage paid to Seller Buyer
 # The image in slide 58 of lecture 2 shows a schematic representation of a supply chain:
 The top portion features silhouettes of transportation modes. Three airplanes are evenly spaced across the top of the image. Below each plane, there is a cargo ship with containers. The ships have anchors drawn on their hulls, and containers are stacked on deck.
 

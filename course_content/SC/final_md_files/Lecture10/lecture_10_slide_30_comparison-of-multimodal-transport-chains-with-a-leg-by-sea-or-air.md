@@ -1,4 +1,4 @@
-# Comparison of Multimodal Transport Chains with a Leg by Sea or Air
+# Slide 30 of Lecture 10 contains information about Comparison of Multimodal Transport Chains with a Leg by Sea or Air
 
 This slide provides a systematic comparison of multimodal transport chains that include either a sea leg or an air leg as the main haul segment, drawing from a stylized model framework developed by Schramm in 2012 with updates. The comparison examines eleven different dimensions of these transport modes to highlight their operational, organizational, and legal differences.
 The transport mode distinction establishes the fundamental difference, with sea freight utilizing main haul by sea while air freight employs main haul by air. This primary modal choice cascades into numerous other operational differences throughout the transport chain. The carrier on the main haul for sea freight is a shipping company operating vessels, while for air freight it is an airline operating aircraft. This difference in carrier type reflects fundamentally different business models, asset structures, and operational constraints between maritime and aviation industries.

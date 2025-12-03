@@ -1,4 +1,4 @@
-# Procurement Techniques and Tools
+# Slide 9 of Lecture 6 contains information about Procurement Techniques and Tools
 
 Table 9.4 titled "Procurement techniques and tools" is structured in three columns labeled "Method," "Description," and "Benefits." Each column contains text entries aligned horizontally, organized under four different procurement methods. The table has no visible grid lines, showing an open structure.
 

@@ -1,4 +1,4 @@
-# 5 – “Full players”
+# Slide 41 of Lecture 4 contains information about 5 – “Full players”
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.

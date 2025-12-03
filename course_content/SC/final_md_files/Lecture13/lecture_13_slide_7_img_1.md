@@ -1,3 +1,4 @@
+# The image 1 in slide 7 of lecture 13 contains:
 The image presents a strategic hierarchy framework divided into three levels: Corporate strategy, Business strategy, and Functional strategy.
 
 1. **Corporate Strategy:**

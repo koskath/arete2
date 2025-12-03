@@ -1,3 +1,4 @@
+# The image 1 in slide 50 of lecture 13 contains:
 Directly inside the image, two main sections are outlined, one labeled "Direct distribution" and the other "Warehousing," both within a blue background, separated by a thick, gray, vertical divider line on the right.
 
 ### Top Section: Direct Distribution

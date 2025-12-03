@@ -1,4 +1,4 @@
-# Exam content
+# Slide 13 of Lecture 11 contains information about Exam content
 What could be asked
 Example Q1, open essay
 Q3. This question pertains to supply chain management in general, and

@@ -1,4 +1,4 @@
-# Slide 6
+# Slide 6 of Lecture 2 contains information about Slide 6
 
 The Stages (Left to Right): Primary Production/Raw Materials - extracting/growing basic materials, Parts/Components - manufacturing components from raw materials, OEM Products - Original Equipment Manufacturers creating finished products, Distribution - getting products to market, Final Use/Consumption - the end customer
 

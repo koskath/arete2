@@ -1,4 +1,4 @@
-# Preparation -
+# Slide 37 of Lecture 11 contains information about Preparation -
 What was this course about
 MOD AIMS & SCOPE SESSION NUMBERS, TITLES CENTRAL THEME
 I. Logistics & 1. Introduction to Logistics and Supply Chain Management What means managing of

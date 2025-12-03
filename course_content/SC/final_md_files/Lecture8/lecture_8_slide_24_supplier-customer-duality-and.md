@@ -1,4 +1,4 @@
-# Supplier-customer Duality and Bi-directional Service Supply Chains
+# Slide 24 of Lecture 8 contains information about Supplier-customer Duality and Bi-directional Service Supply Chains
 # Here is what the diagrams in slide 24 of lecture 8 contain:
 **Diagram (a): Single-level bi-directional service supply chain**
 

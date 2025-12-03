@@ -1,3 +1,4 @@
+# The image 3 in slide 3 of lecture 7 contains:
 The image contains four vertically arranged rectangular sections, each describing different procedures with bullet points and associated icons at the bottom.
 
 1. **Leftmost Section (Commercial Procedures)**:

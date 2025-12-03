@@ -1,4 +1,4 @@
-# Fourth Party Logistics (4PLs ®)
+# Slide 36 of Lecture 10 contains information about Fourth Party Logistics (4PLs ®)
 
 Offering total outsource supply chain solutions  
 Originally trademarked by Accenture in 1996  

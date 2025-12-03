@@ -1,3 +1,4 @@
+# The image 1 in slide 26 of lecture 3 contains:
 The image features an ice hockey stick set against a plain white background. The stick is oriented diagonally, with the blade on the bottom right corner and the handle towards the top left corner of the image.
 
 The hockey stick comprises two main parts: the blade and the shaft. 

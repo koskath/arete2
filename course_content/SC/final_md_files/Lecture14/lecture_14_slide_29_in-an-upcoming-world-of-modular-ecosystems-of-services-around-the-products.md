@@ -1,4 +1,4 @@
-# In an upcoming world of modular ecosystems of services around the products
+# Slide 29 of Lecture 14 contains information about In an upcoming world of modular ecosystems of services around the products
 
 The image illustrates how traditional products evolve into interconnected digital ecosystems, showing the transition from a **product system** to a broader **system of systems** in the context of smart, connected agricultural equipment.
 

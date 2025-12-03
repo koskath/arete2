@@ -1,3 +1,4 @@
+# The image 1 in slide 19 of lecture 9 contains:
 The image depicts an isometric view of a stacked load on a pallet with distinct packaging components. 
 
 1. **Stacked Load and Pallet**:

@@ -1,4 +1,4 @@
-# Broad production location strategies Dicken
+# Slide 33 of Lecture 4 contains information about Broad production location strategies Dicken
 
 # The image in slide 33 of lecture 4 is divided into four quadrants, each representing a different configuration strategy: "Centralized Production," "Regional Production," "Regional Specialization," and "Vertical Integration." Each quadrant contains four colored squares labeled with different countries: "Country A," "Country B," "Country C," and "Country D." The relationships and interactions among these countries are depicted through arrows of varying directions and thickness.
 

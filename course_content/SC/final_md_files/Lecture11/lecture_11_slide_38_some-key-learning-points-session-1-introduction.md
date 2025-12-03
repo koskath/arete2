@@ -1,4 +1,4 @@
-# SOME Key learning points: Session 1: Introduction
+# Slide 38 of Lecture 11 contains information about SOME Key learning points: Session 1: Introduction
 to logistics and supply chain management
 Literature:
 Content:

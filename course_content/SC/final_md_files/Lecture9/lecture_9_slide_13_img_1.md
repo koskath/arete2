@@ -1,3 +1,4 @@
+# The image 1 in slide 13 of lecture 9 contains:
 The image shows a flowchart with a structure resembling a warehouse or a building, depicted by a simple outline of a roof above three squares and one rectangle, each representing different stages in a process.
 
 1. **Warehouse Structure**:

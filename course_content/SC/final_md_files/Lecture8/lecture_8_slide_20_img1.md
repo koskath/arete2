@@ -1,4 +1,4 @@
-# The image in slide 20 of lecture 8 is a rectangular diagram divided into two triangular sections by a diagonal line. The rectangle is wider horizontally and shorter vertically. 
+# Slide 20 of Lecture 8 contains information about The image in slide 20 of lecture 8 is a rectangular diagram divided into two triangular sections by a diagonal line. The rectangle is wider horizontally and shorter vertically.
 
 - The bottom left section is a white triangle labeled "Goods" in black bold lettering. This section occupies the lower half of the rectangle and narrows towards the top right corner.
   

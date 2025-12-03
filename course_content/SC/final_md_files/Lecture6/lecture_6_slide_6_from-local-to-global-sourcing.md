@@ -1,4 +1,4 @@
-# From Local to Global Sourcing
+# Slide 6 of Lecture 6 contains information about From Local to Global Sourcing
 
 The image is a structured diagram consisting of five horizontally aligned vertical columns, each labeled with a level from I to V. 
 

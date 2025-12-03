@@ -1,3 +1,4 @@
+# The image 1 in slide 37 of lecture 3 contains:
 The image titled "Different types of relationships when doing what?" presents a matrix that classifies supply chain relationships based on the strategic importance of the purchase and the resulting level of collaboration . Relationships are categorized along a spectrum from Lower value-added to Higher value-added. The spectrum is broadly divided into Arm’s-length relationships and Collaborative relationships, correlating directly with the strategic importance of the purchase being Low or High, respectively.
 
 On the Arm’s-length side, the relationships are less intense, including simple Vendors, Traditional suppliers, and slightly more formalized Certified suppliers. These are suitable for purchases with low strategic importance, often involving basic transactional exchanges.

@@ -1,3 +1,4 @@
+# The image 1 in slide 21 of lecture 9 contains:
 The image contains four illustrations of different types of trucks used for material handling, each with associated labels. 
 
 1. **Top-left Illustration: Counterbalance Truck**

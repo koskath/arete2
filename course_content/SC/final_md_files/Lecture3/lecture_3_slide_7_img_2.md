@@ -1,3 +1,4 @@
+# The image 2 in slide 7 of lecture 3 contains:
 The image features three animated hyenas positioned closely together. 
 
 - The hyena on the left has a wide grin showing its teeth, with its right eye visibly wider than the left. Both eyes have yellow irises with small black pupils. The ears are dark brown and upright. The fur is mostly grey with dark spots visible on its head.

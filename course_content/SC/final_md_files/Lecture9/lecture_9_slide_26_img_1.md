@@ -1,3 +1,4 @@
+# The image 1 in slide 26 of lecture 9 contains:
 The image contains four large rectangular structures arranged in a diagonal line that recedes into the background. Each structure is composed of a grid pattern with visible individual segments, suggesting a tile-like or block construction. 
 
 The structures are three-dimensional, with visible top and two side faces. The top faces are uniformly longer than they are wide, and each side face is slightly narrower than the front face, indicating depth and orientation in perspective. All the grid segments on visible faces are rectangular and of uniform size within each structure. 

@@ -1,4 +1,4 @@
-# Final Results – Supplier Selection Based on Total Unit Cost
+# Slide 61 of Lecture 14 contains information about Final Results – Supplier Selection Based on Total Unit Cost
 
 The final slide brings together all relevant factors: cost, performance, and policy/CSR considerations. Beyond logistics and operations, this includes:
 - **Recycling and CSR alignment:** ABC does not recycle, whereas XYZ complies with recycling and CSR expectations.  

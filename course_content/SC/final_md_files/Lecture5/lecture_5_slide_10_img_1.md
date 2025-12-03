@@ -1,3 +1,4 @@
+# The image 1 in slide 10 of lecture 5 contains:
 The image is a line graph with labeled annotations related to inventory management. The x-axis is labeled "Time," and the y-axis is labeled "Inventory level." 
 
 - The inventory level line comprises several consecutive, downward-sloping, sawtooth-like segments.

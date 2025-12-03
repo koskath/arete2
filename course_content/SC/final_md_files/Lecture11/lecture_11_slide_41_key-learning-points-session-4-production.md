@@ -1,4 +1,4 @@
-# Key learning points: Session 4 Production
+# Slide 41 of Lecture 11 contains information about Key learning points: Session 4 Production
 planning and design
 Literature:
 Content:

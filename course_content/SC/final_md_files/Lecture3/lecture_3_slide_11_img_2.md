@@ -1,3 +1,4 @@
+# The image 2 in slide 11 of lecture 3 contains:
 The image contains two lines of text. 
 
 The first line reads "FRIDAY, 10:42 AM" in black uppercase letters. 

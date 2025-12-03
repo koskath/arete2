@@ -1,4 +1,4 @@
-# The image in slide 47 of lecture 12 shows a handheld scanning device connected by arrows to four packages, each with a symbol resembling an RFID tag or barcode.
+# The image 1 in slide 47 of lecture 12 contains:
 This visual emphasizes the interaction between traditional barcode systems and advanced smart object technologies, such as RFID.
 
 In supply chain analytics, barcodes and RFID tags serve as essential tools for inventory management and tracking. Barcodes require line-of-sight for scanning, making them ideal for straightforward, manual processes where each item is scanned individually. RFID, representing smart object technology, allows for wireless, bulk reading of tags without direct line-of-sight, enabling faster data collection and real-time tracking.

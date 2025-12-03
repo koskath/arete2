@@ -1,3 +1,4 @@
+# The image 1 in slide 21 of lecture 7 contains:
 The image depicts a flowchart for customs processing, structured in a rectangular layout with a light blue background. At the far left, there is an image of the U.S. flag. To the right, an arrow points towards a rectangular box labeled "Customs Warehousing." Inside this box, there is a bold circle icon with "No" across it, symbolizing prohibition.
 
 Moving right, an arrow directs towards another box labeled "Public or private Warehouse." This box includes an icon resembling a warehouse with "ZOLL" and "DOUANE" written in white within a red circle, possibly indicating customs.

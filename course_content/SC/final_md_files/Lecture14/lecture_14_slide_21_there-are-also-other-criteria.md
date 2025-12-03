@@ -1,4 +1,4 @@
-# There are also other criteria? What are the criteria?
+# Slide 21 of Lecture 14 contains information about There are also other criteria? What are the criteria?
 
 This slide explains that, beyond simple cost-based decisions, companies use different analytical criteria to classify materials for inventory control. Two widely used methods are presented: **ABC analysis** and **XYZ analysis**, each focusing on a different dimension of inventory management—purchasing volume and demand continuity.
 On the left, the slide introduces **ABC Analysis**, which categorizes items into three groups (A, B, and C) based on their **purchasing volume or value contribution**. A small text box explains that this method ranks items according to their importance:  

@@ -1,4 +1,4 @@
-# Rules of Origin – Preference and Cumulation Rules
+# Slide 30 of Lecture 7 contains information about Rules of Origin – Preference and Cumulation Rules
 
 Contractual customs preferences for both ex- and imports e.g. EFTA, Turkey, CARIFORUM, ESA, Chile, Mexico, Peru, South Africa, South Korea, Moldova, Georgia, Ukraine, Canada, Japan, Singapore, Vietnam....
 Autonomous customs preferences only for importation of goods e.g. ACP, MAR, Syria, Kosovo,

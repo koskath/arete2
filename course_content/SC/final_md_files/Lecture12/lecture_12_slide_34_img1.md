@@ -1,3 +1,4 @@
+# Slide 34 of Lecture 12 contains information about img1
 The image features a large central blue circle surrounded by various icons and illustrations connected via double-headed blue arrows. 
 
 1. **Central Circle:**

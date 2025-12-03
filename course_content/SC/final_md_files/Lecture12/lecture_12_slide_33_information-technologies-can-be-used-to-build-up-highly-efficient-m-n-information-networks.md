@@ -1,4 +1,4 @@
-# Phase 5: m:n Coordination of Companies
+# Slide 33 of Lecture 12 contains information about Phase 5: m:n Coordination of Companies
 
 - **Goal:** Cost reduction for networking between firms  
 - **Benefits:** Optimized information processes within the borderless enterprise  

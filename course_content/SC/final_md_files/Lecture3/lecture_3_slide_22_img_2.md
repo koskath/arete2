@@ -1,3 +1,4 @@
+# The image 2 in slide 22 of lecture 3 contains:
 The image is a line graph titled "DEMAND OF IBM-PC." It depicts demand information on a set of axes. The x-axis is labeled "Time after market introduction" with a sub-label "Weeks," and it ranges from 0 to 25, with tick marks at intervals of 1 week. The y-axis is labeled "Demand" with a sub-label "Units," ranging from 0 to 350 with tick marks at intervals of 50 units.
 
 Two lines are plotted on the graph. 

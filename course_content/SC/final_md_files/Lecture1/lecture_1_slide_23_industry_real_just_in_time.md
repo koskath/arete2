@@ -1,4 +1,4 @@
-# Industry: "real" Just-in-Time
+# Slide 23 of Lecture 1 contains information about Industry: "real" Just-in-Time
 
 # The image in slide 23 of Lecture 1 illustrates Just-in-Time (JIT) manufacturing as it's actually implemented in industry. 
 The quotation marks around "real" are significant - they suggest this is showing the practical reality of JIT, not just the theoretical concept. The photo shows a Smart car on an assembly line being built, which demonstrates several key JIT principles:

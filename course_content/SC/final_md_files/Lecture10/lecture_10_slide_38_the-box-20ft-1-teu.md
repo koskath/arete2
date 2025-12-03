@@ -1,4 +1,4 @@
-# The Box (20ft / 1 TEU)
+# Slide 38 of Lecture 10 contains information about The Box (20ft / 1 TEU)
 
 # Here is what the image contains:
 

@@ -1,4 +1,4 @@
-# Phase 4: Process Integration at Interfaces between Companies
+# Slide 31 of Lecture 12 contains information about Phase 4: Process Integration at Interfaces between Companies
 
 - **Goal:** Automated information processes at the interface between supplier and customer  
 - **Benefits:** Higher efficiency and quality at the interface  

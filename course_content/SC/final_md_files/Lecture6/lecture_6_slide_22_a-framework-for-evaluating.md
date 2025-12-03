@@ -1,4 +1,4 @@
-# A Framework for Evaluating Potential Outsourcees
+# Slide 22 of Lecture 6 contains information about A Framework for Evaluating Potential Outsourcees
 
 The image is a flowchart titled "A framework for evaluating potential outsources." The flowchart consists of various elements organized in a top-down manner with text annotations.
 

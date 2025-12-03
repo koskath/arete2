@@ -1,4 +1,4 @@
-# High level market development
+# Slide 24 of Lecture 2 contains information about High level market development
 # Slide 24 of lecture 2 contains 5 graphs:
 
 Title: "ECONOMIC OUTLOOK GDP GROWTH BY REGION"

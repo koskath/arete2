@@ -1,4 +1,4 @@
-# Common and Union Transit Statistics
+# Slide 25 of Lecture 7 contains information about Common and Union Transit Statistics
 This slide presents a real-time overview of **Common Transit** and **Union Transit** movements within Europe. It combines statistical bar charts with a color-coded geographic map, reflecting how transit flows move through EU and Common Transit Convention (CTC) member states.
 
 ## Left Side: Transit Movements Statistics (Bar Chart)

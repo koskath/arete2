@@ -1,4 +1,4 @@
-# Longer Chains, e.g. including the last Miles or Circular Logistics including return flows
+# Slide 30 of Lecture 1 contains information about Longer Chains, e.g. including the last Miles or Circular Logistics including return flows
 # The image in slide 30 of Lecture 1 contains: 
 1. Longer Chains including the "Last Mile"
 

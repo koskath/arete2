@@ -1,4 +1,4 @@
-# Interrelation of Planning, Control, Scheduling –> „Philosophies“
+# Slide 21 of Lecture 12 contains information about Interrelation of Planning, Control, Scheduling –> „Philosophies“
 
 # The graph in slide 21 of lecture 12 displays a Horizontal Process Flow:
 Sequential flow across four main stages:

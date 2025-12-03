@@ -1,4 +1,4 @@
-# Another issue - agglomeration
+# Slide 43 of Lecture 4 contains information about Another issue - agglomeration
 
 The image is a map of the United States, highlighting various cities and regions with annotations on specialized industries and services. Each location is marked with a black dot and connected to text describing its specialization.
 

@@ -1,4 +1,4 @@
-# It is not only the order-to-payment flow
+# Slide 7 of Lecture 2 contains information about It is not only the order-to-payment flow
 # The diagram in slide 7 of Lecture 2 expands beyond the order-to-payment flow to show a comprehensive view of multiple interconnected business processes in supply chain management:
 At the top, the Idea to Market process shows the flow from research and development through strategic marketing. Below this, the Business Readiness section displays processes including market and salesforce deployment, key account management, and sales processes, with customer relationship management processes connecting various stages.
 The central portion features the familiar Order to Payment flow, highlighted with colored arrows showing order entry, order fulfillment, and payment flow moving between vendors and customers. Surrounding this are supporting processes including forecasting, production and distribution, and warehousing activities.

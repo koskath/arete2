@@ -1,4 +1,4 @@
-# The challenge of the Scope?
+# Slide 36 of Lecture 1 contains information about The challenge of the Scope?
 
 # The image in slide 36 of lecture 1 contains the following: 
 1. Partnership (top level): Simple two-party relationship: Seller ↔ Buyer

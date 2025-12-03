@@ -1,4 +1,4 @@
-# Taylors „Art and Science of Shoveling“
+# Slide 4 of Lecture 4 contains information about Taylors „Art and Science of Shoveling“
 
 # The image 1 in slide 4 of lecture 4 contains a detailed chart titled "The Art and Science of Shoveling." It features a central line graph, illustrations of shovels, and annotations.
 

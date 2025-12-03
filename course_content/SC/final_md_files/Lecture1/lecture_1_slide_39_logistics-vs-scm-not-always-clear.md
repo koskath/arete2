@@ -1,4 +1,4 @@
-# Logistics vs. SCM: not always clear – see Larson and Halvorson's four positions
+# Slide 39 of Lecture 1 contains information about Logistics vs. SCM: not always clear – see Larson and Halvorson's four positions
 # The image in slide 39 of Lecture 1 consists of a large rectangle divided into four sections, each labelled with a different schema, with each schema containing one or two ovals.
 
 1. **Top Left Section:**

@@ -1,3 +1,4 @@
+# The image 1 in slide 51 of lecture 13 contains:
 The image is divided into two main sections. On the left side, there is a diagram illustrating a supply chain flow and a definition of cross docking. On the right side, there is a list of optimization benefits.
 
 **Left Section: Diagram and Definition**

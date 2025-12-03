@@ -1,4 +1,4 @@
-# Key learning points: Session 9 Warehousing & Materials Management
+# Slide 25 of Lecture 14 contains information about Key learning points: Session 9 Warehousing & Materials Management
 
 **Content**: Distribution structures and warehousing, Value adding activities (including crossdocking and merge-in-transit), Warehouse management systems (WMS), Materials handling, storage nd order picking, Work organization and job design, Logistics performance: invertory turnover, cash-to-cash-cycle
 **Main issues**: Warehouse layouts, design and processes in warehousin, trade-off bee, inventory management techniques and metrics like invertory turnover cash-to-cash-cycle

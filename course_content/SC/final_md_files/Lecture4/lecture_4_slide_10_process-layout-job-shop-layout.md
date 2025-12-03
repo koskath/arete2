@@ -1,4 +1,4 @@
-# Process Layout – Job shop layout
+# Slide 10 of Lecture 4 contains information about Process Layout – Job shop layout
 
 # The diagram in slide 10 of lecture 4 illustrates a job shop process layout for manufacturing operations:
 The facility is organized into distinct functional departments positioned across the floor space. The Lathe Department occupies the left side, containing ten workstations arranged in a vertical configuration. Adjacent to this is the Milling Department in the upper center area, which houses four milling machines organized in two rows. The Drilling Department is positioned in the upper right section, featuring eight drilling stations arranged in two rows of four units each.

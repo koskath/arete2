@@ -1,4 +1,4 @@
-# Agenda
+# Slide 2 of Lecture 6 contains information about Agenda
 
 TOPICS OF TODAY:
  Sourcing vs. Procurement

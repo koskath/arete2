@@ -1,4 +1,4 @@
-# The image in slide 27 of lecture 2 is a map with annotated shipping volumes and growth rates across different global regions for the period 2023 – 2027. Details are as follows:
+# Slide 27 of Lecture 2 contains information about The image in slide 27 of lecture 2 is a map with annotated shipping volumes and growth rates across different global regions for the period 2023 – 2027. Details are as follows:
 
 - **Top Left Text:** "Market volume 2023 – 2027" in red.
   

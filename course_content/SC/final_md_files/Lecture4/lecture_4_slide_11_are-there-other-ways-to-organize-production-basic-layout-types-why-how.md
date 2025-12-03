@@ -1,4 +1,4 @@
-# Are there other ways to organize production – Basic Layout-types Why, how?
+# Slide 11 of Lecture 4 contains information about Are there other ways to organize production – Basic Layout-types Why, how?
 
 # The table in slide 11 of lecture 4 presents three columns: Criteria for the Organization, Basic Type - Characteristics, and Key Advantage/Key Disadvantage.
 

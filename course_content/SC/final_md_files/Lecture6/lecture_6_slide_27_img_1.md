@@ -1,3 +1,4 @@
+# The image 1 in slide 27 of lecture 6 contains:
 The image is a table with the title "Table 3.1 Some of the reasons why companies offshore." It is outlined with horizontal lines at the top and bottom. Inside the table, there are six bullet points listed vertically, each representing a reason why companies choose to offshore. The reasons are as follows:
 
 1. Lower costs in offshore regions

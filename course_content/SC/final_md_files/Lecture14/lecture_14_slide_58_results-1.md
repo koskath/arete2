@@ -1,4 +1,4 @@
-# Results 1
+# Slide 58 of Lecture 14 contains information about Results 1
 Calculating Cost Factors can be done by comparing a Cost Factor ABC Corp. XYZ Corp. set of numbers. In this
 cost factor comparison, the quoted price is $10.00 for ABC Corp. and $12.00 for XYZ Corp., while freight adds
 + $0.19 and + $0.33 respectively. On a per-quantity basis, this corresponds to ($ / qty.) (19 / 100) for ABC Corp.

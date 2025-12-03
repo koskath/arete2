@@ -1,4 +1,4 @@
-# SCOR Process Maps
+# Slide 39 of Lecture 2 contains information about SCOR Process Maps
 The second step in applying SCOR is to create the SCOR process maps. This involves placing planning process categories and using dashed lines to show links with execution processes, thereby visualising how planning and execution interact across the supply chain.
 
 # The image in slide 38 of lecture 2  is a detailed supply chain diagram structured into three main columns, each divided by vertical dashed lines:

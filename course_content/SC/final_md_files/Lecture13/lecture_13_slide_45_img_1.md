@@ -1,3 +1,4 @@
+# The image 1 in slide 45 of lecture 13 contains:
 The image is organized into several sections with annotations and arrows indicating process flows in a supply chain context. 
 
 - At the top left, there is a rectangular light purple box with two bullet points:

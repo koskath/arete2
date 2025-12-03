@@ -1,4 +1,4 @@
-# Overcoming the time funnel by a changed planning logic Better „muddling through“ in a sequence of “not perfect” plans than relying on one perfect but quickly obsolete plan 
+# Slide 27 of Lecture 12 contains information about Overcoming the time funnel by a changed planning logic Better „muddling through“ in a sequence of “not perfect” plans than relying on one perfect but quickly obsolete plan
 
 The slide illustrates a fundamental shift in supply chain planning philosophy by comparing two approaches through timeline diagrams. The core issue being addressed is the "time funnel" problem, where plans become obsolete before they can be fully executed.
 

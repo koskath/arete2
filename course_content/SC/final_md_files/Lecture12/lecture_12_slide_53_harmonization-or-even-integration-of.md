@@ -1,4 +1,4 @@
-# Harmonization or even integration of Information and Material Flow or iow “Cyber and Physical”world
+# Slide 53 of Lecture 12 contains information about Harmonization or even integration of Information and Material Flow or iow “Cyber and Physical”world
 
 # The image in slide 52 of lecture 12 is divided into two main sections, with a yellow upper half labeled "Virtuelle" oder Informationswelt and an orange lower half labeled "Objekt"- oder physische Welt.
 

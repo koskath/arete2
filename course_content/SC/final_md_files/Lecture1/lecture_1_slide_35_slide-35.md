@@ -1,4 +1,4 @@
-# The “Full” Supply Chain: A Sequence of S‘s
+# Slide 35 of Lecture 1 contains information about The “Full” Supply Chain: A Sequence of S‘s
 
 This slide presents "The Full Supply Chain: A Sequence of S's" - showing the complete supply chain as a series of interconnected entities from raw materials to final consumption.
 Each "S" curve represents: A company or entity in the supply chain, The internal flows and processes within that organization, Each entity simultaneously acts as both a supplier (to the next stage) and a customer (to the previous stage)

@@ -1,4 +1,4 @@
-# At the Core: The Order-to-Payment Flow
+# Slide 19 of Lecture 13 contains information about At the Core: The Order-to-Payment Flow
 
 The diagram visualizes the fundamental interconnectivity of supply chain activities using a concept referred to as the "Supply-Chain 'S'". This visual metaphor is represented by a thick red winding arrow that weaves through various operational stages, demonstrating how a customer order triggers a cascading series of upstream and downstream actions. The structure is bookended by "Suppliers/Vendors" on the far left and "Customers/End Users" on the far right, emphasizing the end-to-end nature of the process.
 

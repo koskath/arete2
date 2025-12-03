@@ -1,4 +1,4 @@
-# MRP 50-60ies - MRP I, 60ies- 80ies MRP II, from the 80ies
+# Slide 17 of Lecture 12 contains information about MRP 50-60ies - MRP I, 60ies- 80ies MRP II, from the 80ies
 # The image in slide 17 of lecture 12 is a flowchart diagram related to MRP (Material Requirement Planning) and MRP II (Manufacturing Resources Planning). It consists of several boxes, arrows, and text annotations.
 
 1. **Background and Overall Structure**:

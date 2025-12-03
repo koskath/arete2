@@ -1,4 +1,4 @@
-# 3 – “Shoppers”
+# Slide 38 of Lecture 4 contains information about 3 – “Shoppers”
 Prod/Ass Distrib.
 Sourcing Prod/Ass Distrib.
 Prod/Ass Distrib.

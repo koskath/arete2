@@ -1,4 +1,4 @@
-# Key learning points: Session 12: Digitization and Digitalization in the Supply Chain
+# Slide 30 of Lecture 14 contains information about Key learning points: Session 12: Digitization and Digitalization in the Supply Chain
 **Content**:
  Some initial thoughts concerning planning/control and IT support
  The Hierarchy of planning and control - MRP, ERP, APS, CPFR and beyond 

@@ -1,4 +1,4 @@
-# Here is what the Table in slide 50 of lecture 12 contains (Line by Line):
+# Slide 50 of Lecture 12 contains information about Here is what the Table in slide 50 of lecture 12 contains (Line by Line):
 
 **How is the information coded?**  
 - Hand or machine written  

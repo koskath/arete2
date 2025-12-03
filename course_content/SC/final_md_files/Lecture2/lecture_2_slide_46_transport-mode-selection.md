@@ -1,4 +1,4 @@
-# E. G. Transport Mode Selection
+# Slide 46 of Lecture 2 contains information about E. G. Transport Mode Selection
 
 # The image in slide 46 of lecture 2 is a schematic representation of a supply chain featuring various modes and facilities:
 

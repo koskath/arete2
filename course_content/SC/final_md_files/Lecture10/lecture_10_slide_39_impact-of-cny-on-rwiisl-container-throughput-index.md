@@ -1,4 +1,4 @@
-# Impact of CNY on RWI/ISL-Container Throughput Index
+# Slide 39 of Lecture 10 contains information about Impact of CNY on RWI/ISL-Container Throughput Index
 
 2015 = 100
 

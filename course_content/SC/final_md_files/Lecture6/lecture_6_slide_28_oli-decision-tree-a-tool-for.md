@@ -1,4 +1,4 @@
-# OLI Decision Tree, a Tool for Decision-making about Offshoring 
+# Slide 28 of Lecture 6 contains information about OLI Decision Tree, a Tool for Decision-making about Offshoring
 
 The image is a flowchart consisting of three main diamond-shaped decision nodes arranged horizontally, connected by arrows, and accompanied by rectangular decision outcomes. The layout is divided into three sections, each labeled at the top.
 

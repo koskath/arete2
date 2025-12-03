@@ -1,3 +1,4 @@
+# The image 1 in slide 32 of lecture 9 contains:
 The image is divided into two main sections, left and right, both containing text, graphics, and a central forklift illustration.
 
 **Top Section:**

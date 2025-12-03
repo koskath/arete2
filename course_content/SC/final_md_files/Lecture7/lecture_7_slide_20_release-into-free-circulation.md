@@ -1,4 +1,4 @@
-# Release into Free Circulation and Status of Goods
+# Slide 20 of Lecture 7 contains information about Release into Free Circulation and Status of Goods
 
 This image explains two related customs concepts:  
 **(1) Release into Free Circulation** and **(2) Status of Goods (Union vs. Non-Union goods)**.  

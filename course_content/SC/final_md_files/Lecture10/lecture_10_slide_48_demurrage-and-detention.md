@@ -1,4 +1,4 @@
-# Demurrage and Detention
+# Slide 48 of Lecture 10 contains information about Demurrage and Detention
 
 # Here is what the image contains:
 

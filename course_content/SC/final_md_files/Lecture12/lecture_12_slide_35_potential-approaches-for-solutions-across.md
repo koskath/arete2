@@ -1,4 +1,4 @@
-# Potential approaches for solutions across Boundaries - Supply Chain Towers for more visibility?
+# Slide 35 of Lecture 12 contains information about Potential approaches for solutions across Boundaries - Supply Chain Towers for more visibility?
 
 # The image in slide 35 of lecture 12 features a circular diagram illustrating a supply chain network labeled as "E2open Business Network Platform." The central figure is a "Command Center" represented by a red tower in the middle. This is surrounded by various entities depicted as buildings, encircled by a larger oval representing the platform.
 

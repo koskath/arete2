@@ -1,4 +1,4 @@
-# Slide 33
+# Slide 33 of Lecture 3 contains information about Slide 33
 
 This slide shows two different images. The first image on the left depicts two people paddling a canoe together, is a powerful analogy for the essential concepts of integration and collaboration in supply chain management. The smooth and efficient movement of the canoe relies entirely on the synchronized and coordinated actions of the two paddlers .
 

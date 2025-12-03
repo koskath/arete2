@@ -1,4 +1,4 @@
-# Dell Computer Company
+# Slide 54 of Lecture 13 contains information about Dell Computer Company
 “How can we make the process of buying a
 computer better?”
  Sell custom-built PCs directly to consumer

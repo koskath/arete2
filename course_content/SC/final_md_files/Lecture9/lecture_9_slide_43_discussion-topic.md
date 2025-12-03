@@ -1,4 +1,4 @@
-# Discussion Topic
+# Slide 43 of Lecture 9 contains information about Discussion Topic
 
 Apple Inc. vs. Samsung Electronics
 As a business analyst, it is now your task to answer the following questions:

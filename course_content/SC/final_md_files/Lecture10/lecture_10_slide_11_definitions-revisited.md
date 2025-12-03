@@ -1,4 +1,4 @@
-# Definitions Revisited
+# Slide 11 of Lecture 10 contains information about Definitions Revisited
 # The diagram in slide 11 of lecture 10 illustrates the conceptual relationship between **Multimodal Transport**, **Intermodal Transport**, and **Combined Transport** using three nested rectangles.  
 Handwritten annotations indicate examples of transport modes and load units associated with each layer.
 

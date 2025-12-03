@@ -1,4 +1,4 @@
-# The image in slide 25 of lecture 12 contains a Planning System Architecture
+# Slide 25 of Lecture 12 contains information about The image in slide 25 of lecture 12 contains a Planning System Architecture
 
 ## Three-Layer Hierarchical Structure
 

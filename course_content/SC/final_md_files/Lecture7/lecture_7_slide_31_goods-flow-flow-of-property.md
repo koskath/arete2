@@ -1,4 +1,4 @@
-# Goods Flow, Flow of Property Rights and Financial Flow
+# Slide 31 of Lecture 7 contains information about Goods Flow, Flow of Property Rights and Financial Flow
 
 This chart visualizes the **three parallel flows** involved in international trade transactions:  
 **(1) the physical movement of goods**,  

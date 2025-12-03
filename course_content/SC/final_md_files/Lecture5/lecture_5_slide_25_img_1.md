@@ -1,3 +1,4 @@
+# The image 1 in slide 25 of lecture 5 contains:
 The image depicts a standard normal distribution bell curve centered on a horizontal axis. The horizontal axis is marked with intervals from -3σ to 3σ, labeled as -3σ, -2σ, -1σ, 0, 1σ, 2σ, and 3σ. Below the axis, corresponding numbers -3, -2, -1, 0, 1, 2, and 3 are marked. The x-axis is labeled with the variable "x" on the right end, and below the axis is "t = x/σ".
 
 The bell curve is symmetrically divided into segments between these marks. Each segment's area percentage is labeled as follows:

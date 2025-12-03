@@ -1,4 +1,4 @@
-# “Translation” of the Learning Objectives
+# Slide 5 of Lecture 1 contains information about “Translation” of the Learning Objectives
 Students should learn to identify and understand specific basic and global supply chain management problems and relate them to theories, methods, and justifiable solutions. For the application and discussion of solutions, they should acquire knowledge on organisational relationships in operations like logistics, sourcing, and production; on concepts, structures, tools, and processes that are necessary for the management of global supply chains; and on the application context of global supply chain management issues. Finally, the students should learn to demonstrate the use of “flow thinking” and SCM terminology that is central to this course.
 
 Students shall be assessed against these learning objectives of the course. To gain the highest grade in the exam, students must be able to select and recall appropriate basic models and concepts from the curriculum and present them in a comprehensive and well-argued way that may also put their findings into new perspectives.

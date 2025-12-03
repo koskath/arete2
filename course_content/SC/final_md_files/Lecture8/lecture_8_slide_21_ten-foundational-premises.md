@@ -1,4 +1,4 @@
-# Ten Foundational Premises of Service-Dominant-Logic
+# Slide 21 of Lecture 8 contains information about Ten Foundational Premises of Service-Dominant-Logic
 1. Service is the fundamental basis of exchange.
 2. Indirect exchange masks the fundamental basis of exchange.
 3. Goods are a distribution mechanism for service provision.

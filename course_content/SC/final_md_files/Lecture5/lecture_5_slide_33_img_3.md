@@ -1,3 +1,4 @@
+# The image 3 in slide 33 of lecture 5 contains:
 The image contains two main rectangular sections, one dark gray and one white, stacked vertically. 
 
 1. The top section:

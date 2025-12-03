@@ -1,4 +1,4 @@
-# Logistics Planning & Design -Transportation 06.03.2024 Slide 45
+# Slide 45 of Lecture 14 contains information about Logistics Planning & Design -Transportation 06.03.2024 Slide 45
 
 This diagram visualizes how the three major global carriers—**Maersk**, **MSC**, and **CMA CGM**—have expanded far beyond their traditional maritime “core” by pursuing acquisitions at varying distances from their original business. The concentric circles represent the degree of adjacency: the center contains core maritime and terminal activities, while the surrounding rings show **close**, **midrange**, and **distant** diversification moves.
 Each company’s recent acquisitions are plotted according to how far the new activities are from their historic competencies. Close adjacencies include terminal operators, inland logistics providers, or rail companies. Midrange moves involve freight forwarding, customs services, or contract logistics. The most distant adjacencies—such as **e-commerce logistics**, **air-cargo operations**, last-mile delivery, and digital supply chain platforms—illustrate how carriers are transforming into end-to-end logistics integrators.

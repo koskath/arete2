@@ -1,4 +1,4 @@
-# TEU to Slot Ratio, Moves p.a. per Slot, and Effective Container Moves p.a.
+# Slide 51 of Lecture 10 contains information about TEU to Slot Ratio, Moves p.a. per Slot, and Effective Container Moves p.a.
 
 # Here is what the image contains:
 

@@ -1,4 +1,4 @@
-# The image in slide 61 of lecture 12 consists of several elements arranged in a structured format, as follows:
+# Slide 61 of Lecture 12 contains information about The image in slide 61 of lecture 12 consists of several elements arranged in a structured format, as follows:
 
 1. **Top Section:**
    - A dark blue horizontal banner with white text stating: "Internet of Things (IoT) collects and analyses data to deliver actionable insights and improve decision accuracy."

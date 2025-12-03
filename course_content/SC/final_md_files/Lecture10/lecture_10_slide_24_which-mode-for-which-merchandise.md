@@ -1,4 +1,4 @@
-# Which Mode for Which Merchandise?
+# Slide 24 of Lecture 10 contains information about Which Mode for Which Merchandise?
 
 The visual provides a strategic framework for selecting the optimal transportation mode by analyzing the trade-off between "Time Sensitivity" and "Cargo Value." The core of the strategy is a 2x2 matrix that assigns a specific transport mode—Air, Sea, or Rail—to four distinct operational scenarios.
 

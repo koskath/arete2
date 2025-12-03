@@ -1,4 +1,4 @@
-# The image in slide 8 of lecture 12 features a Venn diagram with four overlapping circles, each labeled with components of production planning and control, connected to supply chain analytics:
+# Slide 8 of Lecture 12 contains information about The image in slide 8 of lecture 12 features a Venn diagram with four overlapping circles, each labeled with components of production planning and control, connected to supply chain analytics:
 
 1. **Scheduling** (Yellow Circle):
    - Connected to the question "When to do things?".

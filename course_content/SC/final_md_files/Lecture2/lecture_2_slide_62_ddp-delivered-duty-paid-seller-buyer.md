@@ -1,4 +1,4 @@
-# DDP – Delivered Duty Paid Seller Buyer
+# Slide 62 of Lecture 2 contains information about DDP – Delivered Duty Paid Seller Buyer
 # The image in slide 62 of lecture 2 depicts a simplified supply chain network with various transportation and logistics elements arranged horizontally across the image:
 At the top, there are three airplanes, each depicted flying over different sections of the image. Below the planes, there are two cargo ships, each carrying several containers arranged in rows on their decks. The ships are positioned above the waterline and are sailing towards the center.
 

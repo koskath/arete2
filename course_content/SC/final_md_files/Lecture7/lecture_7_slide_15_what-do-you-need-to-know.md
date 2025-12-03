@@ -1,4 +1,4 @@
-# What do you need to know for Export/Import Operations
+# Slide 15 of Lecture 7 contains information about What do you need to know for Export/Import Operations
 
 The image is a flow-style diagram summarizing the key elements that a company must understand when performing export or import operations.  
 At the center is a main regulatory block, with six surrounding elements connected by arrows.

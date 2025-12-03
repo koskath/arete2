@@ -1,4 +1,4 @@
-# CFR – Cost and Freight Seller Buyer
+# Slide 57 of Lecture 2 contains information about CFR – Cost and Freight Seller Buyer
 # The image in slide 57 of lecture 2 is a schematic illustration of a supply chain or logistics process, depicted using a series of icons and symbols, organized horizontally across the image. The description follows from left to right:
 
 1. **Leftmost section**:

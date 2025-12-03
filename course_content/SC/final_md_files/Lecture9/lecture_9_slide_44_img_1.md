@@ -1,3 +1,4 @@
+# The image 1 in slide 44 of lecture 9 contains:
 The image features the cover of a case study titled "Missing Boxes in Central Europe," published by Copenhagen Business School. It mentions the involvement of Associate Professor Günter Prockl and Student Assistant Kirsten Weibrecht Kristensen in its creation.
 
 ### Connection to Supply Chain Analytics:

@@ -1,3 +1,4 @@
+# The image 1 in slide 30 of lecture 7 contains:
 The chart on the right side of the slide visually maps the **network of preferential trade relationships** connected to the EU27 (and the UK, as historically included in these frameworks). It illustrates how rules of origin operate across different regions and agreements, focusing on **contractual preferences**, **autonomous preferences**, and **cumulation zones**.
 At the center of the diagram is a large circle labeled **EU27 (& UK)**. From this central point, numerous arrows radiate outward to show the wide range of countries and regional groups with which the EU has preferential trade agreements or customs arrangements. These arrows represent the flow of **origin cumulation**, meaning that materials originating in those partner regions may count as “originating” when manufacturing goods under specific preference zones.
 

@@ -1,4 +1,4 @@
-# Evolution of Containerships 2/2
+# Slide 8 of Lecture 10 contains information about Evolution of Containerships 2/2
 
 2012  
 Marco Polo (CMA CGM)  

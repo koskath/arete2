@@ -1,4 +1,4 @@
-# Global Resources and Dynamics – Footloose Industries and the “Goose Flight”
+# Slide 19 of Lecture 2 contains information about Global Resources and Dynamics – Footloose Industries and the “Goose Flight”
 
 # The diagram in slide 19 illustrates the "Flying Geese" pattern of industrial development, specifically showing Japan's shifting competitive advantages across different industries over time:
 The vertical axis represents "Competitive Edge" while the horizontal axis represents "time." Five different industries are shown as arc-shaped curves that rise and fall sequentially across the timeline.

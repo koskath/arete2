@@ -1,4 +1,4 @@
-# FOB – Free On Board Seller Buyer
+# Slide 55 of Lecture 2 contains information about FOB – Free On Board Seller Buyer
 # The image in slide 55 of lecture 2 features a series of black and white outlined symbols representing a supply chain process from left to right:
 
 1. **Leftmost Factory**:

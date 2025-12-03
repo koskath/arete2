@@ -1,4 +1,4 @@
-# The challenge of the Scope?
+# Slide 8 of Lecture 2 contains information about The challenge of the Scope?
 # The diagram in slide 8 of lecture 2 presents three progressively complex views of supply chain scope, moving from a simple partnership to an ultimate supply chain network.
 At the top, the Partnership level shows the most basic relationship between a Seller and Buyer, connected by a bidirectional arrow.
 The Basic Supply Chain expands this to three entities: a Supplier, a Focal Firm in the middle, and a Customer, all connected with bidirectional arrows showing direct relationships.

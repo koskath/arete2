@@ -1,3 +1,4 @@
+# The image 1 in slide 20 of lecture 4 contains:
 The image depicts an industrial or warehouse setting. In the foreground, there are numerous metal sheets stacked in organized piles. These sheets are mostly dark gray and are arranged horizontally. Some stacks have paper labels affixed to the sides. To the left side of the image, there are several stacks of additional material, potentially metal, forming a varying height pattern.
 
 On top of these stacks, there are objects like wrapped materials and possibly cans or rolls. To the mid-ground, there is a machinery piece with a person working in front of it. This machine has a complex structure with visible gears and panels, and a large yellow warning label is attached. Next to the person, metal rods or bars are organized parallely.

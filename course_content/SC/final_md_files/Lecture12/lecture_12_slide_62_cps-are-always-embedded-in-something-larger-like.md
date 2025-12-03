@@ -1,4 +1,4 @@
-# CPS are always embedded in something larger like the Internet of Things CPS in the context of the Internet of Things (IoT)
+# Slide 62 of Lecture 12 contains information about CPS are always embedded in something larger like the Internet of Things CPS in the context of the Internet of Things (IoT)
 
 
 # Description of the Graph ins lide 62 of lecture 12: CPS in the Context of the Internet of Things (IoT)

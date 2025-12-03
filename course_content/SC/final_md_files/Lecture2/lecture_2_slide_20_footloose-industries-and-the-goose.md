@@ -1,4 +1,4 @@
-# … – Footloose Industries and the “Goose Flight”
+# Slide 20 of Lecture 2 contains information about … – Footloose Industries and the “Goose Flight”
 
 # The diagram in slide 20 of lecture 2 applies the Flying Geese model to garment production across Asian countries and regions over time.
 The vertical axis shows "Competitive Edge" and the horizontal axis represents "time." The diagram displays a sequence of arc-shaped curves representing different countries' or regions' competitive advantages in garment manufacturing.

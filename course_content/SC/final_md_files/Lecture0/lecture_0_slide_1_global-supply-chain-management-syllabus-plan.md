@@ -1,4 +1,4 @@
-# Global Supply Chain Management Syllabus Plan
+# Slide 1 of Lecture 0 contains information about Global Supply Chain Management Syllabus Plan
 
 
 Faculty: Günter Prockl (GP) - course coordinator

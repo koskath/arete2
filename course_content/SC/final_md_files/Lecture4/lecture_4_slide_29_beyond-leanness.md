@@ -1,4 +1,4 @@
-# Beyond Leanness: Agility, Adaptability & Alignment
+# Slide 29 of Lecture 4 contains information about Beyond Leanness: Agility, Adaptability & Alignment
 emphasise that agile supply chains are those that that respond both quickly and cost-efficiently (Lee, 2004).
 
 # Building the Triple-A Supply Chain

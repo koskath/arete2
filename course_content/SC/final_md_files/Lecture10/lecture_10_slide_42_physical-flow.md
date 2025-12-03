@@ -1,4 +1,4 @@
-# Physical Flow – Description of the Slide
+# Slide 42 of Lecture 10 contains information about Physical Flow – Description of the Slide
 
 This slide visualizes the **physical movement of a container** through the logistics chain and contrasts Jessica’s **best option** (in blue) with **alternative, less efficient flows** (in red). It complements the earlier “Information Flow” slide by showing how the physical shipment actually travels across different transport modes and nodes.
 At the starting point, the **Exporter/Shipper** hands over the cargo. Two potential pathways emerge:

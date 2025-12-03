@@ -1,4 +1,4 @@
-# Gereffis‘ Configurations of Global Governance Focal Actor, lead firms etc.
+# Slide 39 of Lecture 14 contains information about Gereffis‘ Configurations of Global Governance Focal Actor, lead firms etc.
 
 The image illustrates Gereffi’s five configurations of global value chain governance, arranged from left to right along two axes: increasing **explicit coordination** and increasing **power asymmetry** between firms. 
 The first configuration, **Market**, shows a simple structure where suppliers and customers interact primarily through price signals. There is little coordination, and firms operate independently with low power differences. 

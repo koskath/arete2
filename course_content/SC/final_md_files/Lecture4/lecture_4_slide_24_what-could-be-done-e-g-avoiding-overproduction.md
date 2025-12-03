@@ -1,4 +1,4 @@
-# What could be done? E.g. avoiding overproduction
+# Slide 24 of Lecture 4 contains information about What could be done? E.g. avoiding overproduction
 
 # The image 1 in slide 24 of lecture 4 is a schematic illustration consisting of two main sections.
 

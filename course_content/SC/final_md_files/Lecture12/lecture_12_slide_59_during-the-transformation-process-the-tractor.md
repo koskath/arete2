@@ -1,4 +1,4 @@
-# During the transformation process the „tractor“ becomes a smart and networked product and an example from the farming industry
+# Slide 59 of Lecture 12 contains information about During the transformation process the „tractor“ becomes a smart and networked product and an example from the farming industry
 
 # Here is a Description of the Graph in slide 59 of lecture 12: Transformation of a Tractor into a Smart, Connected Product
 

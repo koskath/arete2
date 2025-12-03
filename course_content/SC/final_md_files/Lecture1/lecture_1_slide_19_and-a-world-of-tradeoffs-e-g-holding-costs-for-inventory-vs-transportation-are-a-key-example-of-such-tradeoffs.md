@@ -1,4 +1,4 @@
-# And a world of tradeoffs – E.g. holding Costs for inventory vs. transportation are a key example of such tradeoffs.
+# Slide 19 of Lecture 1 contains information about And a world of tradeoffs – E.g. holding Costs for inventory vs. transportation are a key example of such tradeoffs.
 
 # The image in slide 19 of Lecture 1 is a graph with three distinct curves representing costs in relation to order quantity. The x-axis is labeled "Order Qty," and the y-axis is labeled "Costs $." 
 

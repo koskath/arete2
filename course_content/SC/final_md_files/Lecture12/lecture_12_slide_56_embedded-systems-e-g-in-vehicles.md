@@ -1,4 +1,4 @@
-# „Embedded systems“ – e.g. in vehicles
+# Slide 56 of Lecture 12 contains information about „Embedded systems“ – e.g. in vehicles
 
 # The image 1 in slide 56 of lecture 12 features an overhead view of a large container ship labeled "MAERSK LINE" on its side, navigating through the ocean. The ship is loaded with numerous stacks of multicolored shipping containers arranged in rows. Each container is uniformly rectangular, with visible variation in colors including white, red, and gray. 
 

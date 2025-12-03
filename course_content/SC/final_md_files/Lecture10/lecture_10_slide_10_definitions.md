@@ -1,4 +1,4 @@
-# Definitions
+# Slide 10 of Lecture 10 contains information about Definitions
 
 Definitions according to UN/ECE (2001)
 

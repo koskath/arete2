@@ -1,4 +1,4 @@
-# Strategic Scope of the single actor in the
+# Slide 24 of Lecture 13 contains information about Strategic Scope of the single actor in the
 Supply Chain – ONLY some thoughts!
 Objectives With different Scope Concepts, Risks and
 Strategic Chain/Function?? Instruments?? “Drawbacks”?

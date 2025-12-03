@@ -1,4 +1,4 @@
-# Thus closer timing/integration of the “worlds” of Execution and Planning
+# Slide 28 of Lecture 12 contains information about Thus closer timing/integration of the “worlds” of Execution and Planning
 # The image in slide 28 of lecture 12 illustrates the integration of execution and planning in supply chain analytics. It shows a two-layer structure with "Planning" and "Execution" as overarching themes. At the top layer, "Planning" is represented by four key processes: Transport, Production, Distribution, and Demand, each linked by arrows indicating flow and interaction.
 
 Below, "Execution" involves practical, operational components such as Sourcing, Master Data, Inventory Management, and Order Processing. Key elements like factories, warehouses, and consumer areas are depicted, connecting these processes.

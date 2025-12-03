@@ -1,4 +1,4 @@
-# Inward and Outward Processing
+# Slide 23 of Lecture 7 contains information about Inward and Outward Processing
 
 This slide explains two complementary customs procedures within the EU: **Outward Processing** and **Inward Processing**. Both procedures relate to how goods can be processed either outside or inside the EU while benefiting from reduced or suspended customs duties. The slide includes two diagrams that visually trace the movement of goods through each process.
 Outward Processing refers to a situation in which **Union goods are temporarily exported from the EU to be processed abroad**. The goal is to allow goods to undergo manufacturing, repair, or alteration in a non-EU country and then return to the EU with significantly reduced customs duties. When these goods re-enter the EU, import duties are not charged on the entire value of the goods; instead, duties apply only to the **value added abroad**. This means that the processing cost outside the EU becomes the basis for calculating customs duties, making it an economically attractive option for EU companies seeking specialized or cost-efficient processing abroad.

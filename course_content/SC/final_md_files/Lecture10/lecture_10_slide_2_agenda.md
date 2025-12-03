@@ -1,4 +1,4 @@
-# Agenda
+# Slide 2 of Lecture 10 contains information about Agenda
 
 Transport Services
 - Characteristics of transport modes

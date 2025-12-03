@@ -1,4 +1,4 @@
-# A Success Story!
+# Slide 22 of Lecture 10 contains information about A Success Story!
 
 # Here is what the image contains:
 

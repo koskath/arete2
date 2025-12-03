@@ -1,4 +1,4 @@
-# Suggestions for Jessica
+# Slide 53 of Lecture 10 contains information about Suggestions for Jessica
 
 - Upfront planning – every year, CNY happens and you can prepare yourself whenever you augment it ;-)
 - Pile up containers for CNY => Problem of detention fees, as you are only allowed to keep a container provided from a carrier for a few days for free (and this only if your make merchant haulage). In the case of carrier haulage, you have only 1-2 hrs to load the container (and not more) as the trucker is stand by.

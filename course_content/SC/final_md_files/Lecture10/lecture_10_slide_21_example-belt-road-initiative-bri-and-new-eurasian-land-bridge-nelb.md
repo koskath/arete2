@@ -1,4 +1,4 @@
-# Example: Belt-Road-Initiative (BRI) and New Eurasian Land Bridge (NELB)
+# Slide 21 of Lecture 10 contains information about Example: Belt-Road-Initiative (BRI) and New Eurasian Land Bridge (NELB)
 
 # Here is what the image contains:
 - A map showing the Belt-Road-Initiative (BRI) and New Eurasian Land Bridge (NELB) routes.

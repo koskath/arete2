@@ -1,4 +1,4 @@
-# Intermodal Transport Units
+# Slide 12 of Lecture 10 contains information about Intermodal Transport Units
 
 Various types of Intermodal Transport Units (ITUs):
 • Standard sized containers (typically 20 and 40 feet in length)

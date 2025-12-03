@@ -1,4 +1,4 @@
-# Information Flows – Description of the Slide
+# Slide 41 of Lecture 10 contains information about Information Flows – Description of the Slide
 
 This slide illustrates the complexity of **information flows** in a multimodal logistics chain, highlighting how many actors must coordinate to move a single shipment successfully. At the center of the diagram is the **Freight Forwarder (Jessica)**, who acts as the key orchestrator. The red annotations emphasize the confusion, questions, and the overwhelming number of interactions she must handle.
 On the left side, the **Exporter/Shipper** and the **Trucker** rely heavily on the forwarder for instructions, documentation, pickup arrangements, and timing. They depend on Jessica to communicate booking confirmations, container availability, shipping schedules, customs requirements, and loading instructions.

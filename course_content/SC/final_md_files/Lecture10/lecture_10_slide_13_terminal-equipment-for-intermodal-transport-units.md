@@ -1,4 +1,4 @@
-# Terminal Equipment for Intermodal Transport Units
+# Slide 13 of Lecture 10 contains information about Terminal Equipment for Intermodal Transport Units
 
 **Straddle Carrier**  
 Circulate over container piles. Can go over stacks up to 3 in height. Density of 500 to 700 TEU per hectare.  

@@ -1,4 +1,4 @@
-# MRP 50-60ies - MRP I, 60ies- 80ies MRP II, from the 80ies
+# Slide 27 of Lecture 14 contains information about MRP 50-60ies - MRP I, 60ies- 80ies MRP II, from the 80ies
 
 The slide illustrates how production planning systems evolved from the 1950s to the 1980s, moving from basic Material Requirements Planning (MRP) to the more advanced Manufacturing Resources Planning (MRP I) and eventually to the integrated Management Resources Planning (MRP II).
 On the left, the diagram breaks production management into two major areas: **production planning** and **production control**. Production planning includes the master production schedule, material requirement planning, and scheduling with capacity planning. Production control includes order release and job control. These layers represent the basic logic of early MRP systems, which focused mainly on ensuring that materials were available when needed.

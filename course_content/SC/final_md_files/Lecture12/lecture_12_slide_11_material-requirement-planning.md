@@ -1,4 +1,4 @@
-# Material Requirement Planning – Explosion of the Bill of Material
+# Slide 11 of Lecture 12 contains information about Material Requirement Planning – Explosion of the Bill of Material
 
 ## Technical Drawing (Figure 2.3 - Left Side)
 Shows the 1605 snow shovel with component parts and assemblies:

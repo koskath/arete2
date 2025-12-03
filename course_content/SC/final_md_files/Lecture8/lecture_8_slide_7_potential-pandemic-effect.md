@@ -1,4 +1,4 @@
-# Potential Pandemic Effect on Online and Offline Retailing
+# Slide 7 of Lecture 8 contains information about Potential Pandemic Effect on Online and Offline Retailing
 
 # The diagram in slide 7 of lecture 8 illustrates two parallel but opposing feedback loops triggered by the COVID-19 pandemic external shock, which includes factors such as more working at home, health concerns, and temporary closure of stores.
 

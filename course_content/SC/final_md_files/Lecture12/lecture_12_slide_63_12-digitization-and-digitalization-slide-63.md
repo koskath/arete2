@@ -1,4 +1,4 @@
-# Figure 1 "Core attributes of digital supply chains," in slide 63 of lecture 12 features a horizontal series of four rectangular blocks, each with distinct background colors and content. 
+# Slide 63 of Lecture 12 contains information about Figure 1 "Core attributes of digital supply chains," in slide 63 of lecture 12 features a horizontal series of four rectangular blocks, each with distinct background colors and content.
 
 1. **First Block (leftmost):**
    - Background Color: Olive green.

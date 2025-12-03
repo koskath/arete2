@@ -1,4 +1,4 @@
-# Tracking what, for whom, for what purpose?
+# Slide 45 of Lecture 12 contains information about Tracking what, for whom, for what purpose?
 # Description of the Table in slide 45 of lecture 12: “Tracking what, for whom, for what purpose?”
 
 The table shows the **hierarchy of logistical units**, the **means used to build them**, and how each unit is tracked and identified.  

@@ -1,4 +1,4 @@
-# … together with “the trumpet of doom”
+# Slide 24 of Lecture 12 contains information about … together with “the trumpet of doom”
 
 
 ## Forecast Error Range over Time

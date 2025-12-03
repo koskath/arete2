@@ -1,4 +1,4 @@
-# Example of Netlivery
+# Slide 11 of Lecture 9 contains information about Example of Netlivery
 
 
 Or see here their youtube video:

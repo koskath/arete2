@@ -1,3 +1,4 @@
+# The image 1 in slide 14 of lecture 13 contains:
 The image consists of a large square divided into four equal smaller squares by a vertical and a horizontal line intersecting at the center. 
 
 The color of the background inside the squares is white. Overlapping the top right and bottom left quadrants is a large pale green translucent parallelogram. The parallelogram is oriented such that its longer sides extend from the top left corner to the bottom right corner, with the top side extending beyond the square to the right, and the bottom side extending beyond the square to the left. The shorter sides of the parallelogram are parallel to each other and extend outside the top and right edges of the main square.

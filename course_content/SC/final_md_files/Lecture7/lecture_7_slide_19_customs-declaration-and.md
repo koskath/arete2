@@ -1,4 +1,4 @@
-# Customs Declaration and Procedures (since 01/05/2016)
+# Slide 19 of Lecture 7 contains information about Customs Declaration and Procedures (since 01/05/2016)
 
 The image is a flowchart illustrating the different types of **customs-approved treatments or uses** available under EU customs law (post–01/05/2016). It shows how goods may be handled when entering or leaving customs territory, including standard and special procedures.
 

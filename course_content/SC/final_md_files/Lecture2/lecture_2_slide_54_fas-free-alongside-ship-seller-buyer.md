@@ -1,4 +1,4 @@
-# FAS – Free Alongside ship Seller Buyer
+# Slide 54 of Lecture 2 contains information about FAS – Free Alongside ship Seller Buyer
 
 # The image in slide 54 of lecture 2 is a schematic representation of a supply chain process featuring various transportation and logistical elements: 
 

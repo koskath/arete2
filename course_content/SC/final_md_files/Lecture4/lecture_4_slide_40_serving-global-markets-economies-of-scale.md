@@ -1,4 +1,4 @@
-# Serving global Markets – Economies of Scale don`t stop at borders
+# Slide 40 of Lecture 4 contains information about Serving global Markets – Economies of Scale don`t stop at borders
 
 # The diagram in slide 40 of lecture 4 illustrates the evolution of global supply chain structures across three time periods, organized under two strategic implementation steps;
 The framework progresses horizontally from left to right, showing the transformation from "Used to be" through "now" to "tomorrow," while vertically demonstrating the flow from global production to local markets.

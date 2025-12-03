@@ -1,4 +1,4 @@
-# Slides for Discussion
+# Slide 45 of Lecture 10 contains information about Slides for Discussion
 
 - Buying own containers (SOC)
 - Steer from spot SOC

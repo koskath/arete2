@@ -1,4 +1,4 @@
-# De Minimis Exemptions Worldwide
+# Slide 16 of Lecture 8 contains information about De Minimis Exemptions Worldwide
 
 The image is a world map with countries colored according to different de minimis threshold values. There are six categories, each represented by a different color:
 

@@ -1,4 +1,4 @@
-# Speculation
+# Slide 27 of Lecture 3 contains information about Speculation
 
 The image is a graph with a title at the top left labeled "Orders, Demand, Production CPUs". The y-axis is labeled "Units" and is divided into "Real Demand" and "Production." The x-axis represents time, marked by two labels: "Market Introduction" and "End of life cycle," each with a black triangular symbol underneath.
 

@@ -1,3 +1,4 @@
+# The image 1 in slide 34 of lecture 9 contains:
 The image is a diagram representing a financial flowchart with various components and flows interconnected by lines and arrows.
 
 1. **Top Section:**

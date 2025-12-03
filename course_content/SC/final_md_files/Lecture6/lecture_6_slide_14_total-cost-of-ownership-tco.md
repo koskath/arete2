@@ -1,4 +1,4 @@
-# Total Cost of Ownership (TCO)
+# Slide 14 of Lecture 6 contains information about Total Cost of Ownership (TCO)
 The image is a flowchart divided into three main rectangular sections, each labeled and listing various components related to the "TOTAL COST OF OWNERSHIP." The sections are vertically aligned, connected by arrows, and arranged in the following sequence:
 
 1. **Pretransaction Components** (Top box):

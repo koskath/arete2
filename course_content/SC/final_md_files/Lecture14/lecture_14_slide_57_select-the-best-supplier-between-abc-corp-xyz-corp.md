@@ -1,4 +1,4 @@
-# Select the Best Supplier Between ABC Corp. & XYZ Corp.
+# Slide 57 of Lecture 14 contains information about Select the Best Supplier Between ABC Corp. & XYZ Corp.
 
 ## Supplier Data
 ### Supplier 1: **ABC Corp.**

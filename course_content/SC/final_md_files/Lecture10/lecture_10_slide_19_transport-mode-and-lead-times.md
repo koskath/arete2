@@ -1,4 +1,4 @@
-# Transport Mode and Lead Times
+# Slide 19 of Lecture 10 contains information about Transport Mode and Lead Times
 
 Lead times are closely related to decisions on transport mode.
 

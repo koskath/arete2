@@ -1,4 +1,4 @@
-# e.g. Control by visualization and Transparency
+# Slide 38 of Lecture 12 contains information about e.g. Control by visualization and Transparency
 
 # Logic Behind the Pictures in slide 38 of lecture 12: 
 

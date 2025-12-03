@@ -1,4 +1,4 @@
-# Danish eCommerce Buyer Behavior
+# Slide 11 of Lecture 8 contains information about Danish eCommerce Buyer Behavior
 
 
 # The top section of the diagram in slide 11 of lecture 8 presents aggregate European e-commerce metrics through a horizontal bar chart. Internet penetration reaches 99 percent across the European average. The percentage of e-commerce consumers stands at 88 percent of the population. Of these e-commerce consumers, 71 percent have shopped from abroad, indicating significant cross-border online shopping activity. The average purchase per month amounts to EUR 243. The percentage who shopped online more often due to coronavirus represents 28 percent of consumers, showing the pandemic's impact on online shopping behavior.

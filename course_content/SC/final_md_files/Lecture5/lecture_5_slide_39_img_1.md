@@ -1,3 +1,4 @@
+# The image 1 in slide 39 of lecture 5 contains:
 5. Ignoring the impact of uncertainties
 - No documentation or tracking of key sources of uncertainties
 - Partial information on sources of uncertainties

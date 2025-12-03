@@ -1,4 +1,4 @@
-# But there is more: Footprints of another, third form
+# Slide 21 of Lecture 1 contains information about But there is more: Footprints of another, third form
 # The image in slide 21 of Lecture 1 displays a chaotic traffic scene:
 
 This chaotic traffic scene is illustrating the concept of a third type of flow in logistics beyond the material and information flows shown in the previous slide.

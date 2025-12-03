@@ -1,4 +1,4 @@
-# Flow of Containers
+# Slide 40 of Lecture 10 contains information about Flow of Containers
 
 This diagram illustrates the complete movement of containers through the international transport chain, from the shipper’s origin to the final consignee. It compares different logistics configurations—break-bulk, LCL (Less-than-Container Load), and FCL (Full Container Load)—and highlights how containers move across various stages.
 At the top, the flow begins with the **shipper/origin**, followed by **pre-carriage** options (by truck, rail, or barge). Once cargo arrives at the **port of departure**, it moves through facilities such as *Kai/Kaischuppen* or packing centers (CFS). The cargo is then transported via **maritime shipping** (port to port) before reaching the **port of arrival**, where similar unpacking or processing takes place.

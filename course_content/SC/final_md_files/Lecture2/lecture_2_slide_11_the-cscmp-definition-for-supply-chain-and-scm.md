@@ -1,4 +1,4 @@
-# The CSCMP definition for supply chain and SCM
+# Slide 11 of Lecture 2 contains information about The CSCMP definition for supply chain and SCM
 CSCMP Definition of Supply Chain Management
 
 Supply Chain Management encompasses the planning and management of all activities involved in sourcing and procurement, conversion, and all Logistics Management activities. Importantly, it also includes coordination and collaboration with channel partners, which can be suppliers, intermediaries, third-party service providers, and customers. In essence, Supply Chain Management integrates supply and demand management within and across companies.

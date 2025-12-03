@@ -1,4 +1,4 @@
-# CIP – Carriage and Insurance paid to Seller Buyer
+# Slide 59 of Lecture 2 contains information about CIP – Carriage and Insurance paid to Seller Buyer
 # The image in slide 59 of lecture 2 is structured horizontally, depicting various stages of a supply chain connected by vertical dashed lines and divided into sections by these lines. 
 
 From left to right:

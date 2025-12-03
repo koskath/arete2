@@ -1,3 +1,4 @@
+# The image 1 in slide 20 of lecture 5 contains:
 The image is a diagram titled "Figure 9.5 Periodic system." It is a line graph illustrating inventory levels over time. 
 
 1. **Axes and Labels**:

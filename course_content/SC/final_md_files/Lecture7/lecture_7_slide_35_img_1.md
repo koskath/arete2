@@ -1,3 +1,4 @@
+# The image 1 in slide 35 of lecture 7 contains:
 The image shows a comparison of obligations, risks, and costs between sellers and buyers according to Incoterms 2020, which are a set of international commercial terms. These terms delineate the responsibilities of sellers and buyers in international trade, impacting supply chain analytics in several ways:
 
 1. **General Obligations**: Both parties have distinct general obligations (A1 for sellers, B1 for buyers) affecting compliance and efficiency metrics.

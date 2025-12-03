@@ -1,4 +1,4 @@
-# Customs Clearance - Standard Normal Procedure
+# Slide 26 of Lecture 7 contains information about Customs Clearance - Standard Normal Procedure
 
 ## Goods Declaration / Customs Declaration
 Normally lodged using Pre-Declaration (or SAD in rare cases) and decision about assignment of the goods presented to a customs procedure. Proof of admissibility and of responsibilities. 

@@ -1,4 +1,4 @@
-# Capacity requirement planning and – Need for smoothing
+# Slide 16 of Lecture 12 contains information about Capacity requirement planning and – Need for smoothing
 
 
 ## Planning Hierarchy (Left Section)

@@ -1,3 +1,4 @@
+# The image 1 in slide 35 of lecture 3 contains:
 Table titled "Table 4: Influence of Company Size on Collaboration with Customers" with a subheading "Survey Respondents." A key is provided stating "1 = 'no collaboration'; 5 = 'extensive collaboration'."
 
 The table contains six columns, with headers in teal, from left to right:

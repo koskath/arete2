@@ -1,4 +1,4 @@
-# Grey Box – an Alternative?
+# Slide 52 of Lecture 10 contains information about Grey Box – an Alternative?
 
 # Here is what the image contains:
 The image features several stacked shipping containers. The containers display the following brand names and logos, listed from top to bottom:

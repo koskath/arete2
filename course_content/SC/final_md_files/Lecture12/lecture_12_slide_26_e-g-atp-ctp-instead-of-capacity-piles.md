@@ -1,4 +1,4 @@
-# e.g. ATP, CTP instead of capacity “piles“
+# Slide 26 of Lecture 12 contains information about e.g. ATP, CTP instead of capacity “piles“
 
 
 - **Special ATP-Functionalities**

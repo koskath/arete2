@@ -1,4 +1,4 @@
-# Fred Smith: He got a „C“ for a project paper!
+# Slide 25 of Lecture 1 contains information about Fred Smith: He got a „C“ for a project paper!
 Fred Smith is the founder of FedEx (Federal Express), and the story about the "C" grade has become legendary in business history.
 While Smith was an undergraduate student at Yale University in the mid-1960s, he wrote a term paper for an economics class outlining his concept for an overnight delivery service. His idea proposed a revolutionary hub-and-spoke system where packages would be flown to a central sorting hub, then redistributed to their destinations overnight - which became the core model for FedEx.
 According to the famous story, his professor gave him a "C" grade on the paper, apparently skeptical that the concept was feasible or economically viable.

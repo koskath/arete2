@@ -1,3 +1,4 @@
+# The image 3 in slide 7 of lecture 3 contains:
 TUESDAY, 1:38 PM
 
 Midwest Regional Headquarters,

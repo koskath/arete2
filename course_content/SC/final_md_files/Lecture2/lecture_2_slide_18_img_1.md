@@ -1,4 +1,4 @@
-# The image 1 in slide 18 of lecture 2 is a flowchart consisting of three primary columns with various boxes, arrows, and annotations. 
+# The image 1 in slide 18 of lecture 2 contains:
 
 - The first column begins with a box labeled "Increase Value / Share Price." An arrow leads downward from this box to another box labeled "Increase Operating Margin," from which two arrows extend horizontally to two separate boxes labeled "Increase Revenue" and "Reduce Costs," respectively. The "Increase Revenue" box has two arrows extending to the right into "Price" and "Volume" boxes. The "Reduce Costs" box has arrows leading to four separate boxes labeled "Rent," "Staff costs," "Transport costs," and "Other overhead costs."
 

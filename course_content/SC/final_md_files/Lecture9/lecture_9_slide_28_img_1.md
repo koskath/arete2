@@ -1,3 +1,4 @@
+# The image 1 in slide 28 of lecture 9 contains:
 The image consists of four distinct diagrams, each illustrating a different warehouse or order processing workflow.
 
 1. **First Diagram (Leftmost)**:

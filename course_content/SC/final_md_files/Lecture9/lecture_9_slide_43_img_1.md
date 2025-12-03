@@ -1,3 +1,4 @@
+# The image 1 in slide 43 of lecture 9 contains:
 The image contains three main elements arranged horizontally on a white background:
 
 1. On the left side, there is a black silhouette of an apple with a bite taken out of the right side and a leaf at the top. The shape is simple and iconic.

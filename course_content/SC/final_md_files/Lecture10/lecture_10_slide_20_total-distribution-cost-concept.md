@@ -1,4 +1,4 @@
-# Total Distribution Cost Concept
+# Slide 20 of Lecture 10 contains information about Total Distribution Cost Concept
 
 1 Transport Related Costs reflect all costs associated with moving goods, including freight bills, documentation, customs brokerage, etc.  
 2 Inventory Related Costs include all other elements of logistics costs – from storing and handling product to write-downs of obsolete or spoiled goods.  

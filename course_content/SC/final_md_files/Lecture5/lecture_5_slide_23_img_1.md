@@ -1,3 +1,4 @@
+# The image 1 in slide 23 of lecture 5 contains:
 The image consists of three adjacent line graphs, each illustrating different demand patterns over time. 
 
 1. **Left Graph (a): Constant Demand**

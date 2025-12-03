@@ -1,3 +1,4 @@
+# The image 1 in slide 23 of lecture 3 contains:
 The image is a flowchart diagram with sections labeled "company target," "evaluation components," "value drivers," and "decisions along the financial supply chain."
 
 1. **Company Target Section (Top Region):**

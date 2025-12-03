@@ -1,4 +1,4 @@
-# What is the product? And how many of them? Ford’s Model-T philosophy
+# Slide 8 of Lecture 4 contains information about What is the product? And how many of them? Ford’s Model-T philosophy
 “Any customer can have a car painted any color that he wants so long as it is black.” 
 
 

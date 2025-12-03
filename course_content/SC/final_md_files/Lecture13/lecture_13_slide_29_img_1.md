@@ -1,3 +1,4 @@
+# The image 1 in slide 29 of lecture 13 contains:
 The image is a comparison table divided into two main columns labeled "Physically Efficient Process" and "Market-Response Process." There are five rows, each describing different aspects of these processes. 
 
 1. **Primary purpose:**

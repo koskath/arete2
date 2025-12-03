@@ -1,4 +1,4 @@
-# The image in slide 48 of lecture 2 is a timeline infographic depicted on an orange background with various icons and text blocks along a white winding path: 
+# The image 2 in slide 48 of lecture 2 contains:
 
 - **Top Left (1923):** 
   - Icon: A blue microscope facing left.

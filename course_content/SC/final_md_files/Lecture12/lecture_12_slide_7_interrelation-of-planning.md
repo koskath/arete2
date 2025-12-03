@@ -1,4 +1,4 @@
-# Interrelation of Planning, Control, Scheduling –> „Philosophies“
+# Slide 7 of Lecture 12 contains information about Interrelation of Planning, Control, Scheduling –> „Philosophies“
 
 # Here is what the image in slides 5, 6, 7 of lecture 12 contain:
 

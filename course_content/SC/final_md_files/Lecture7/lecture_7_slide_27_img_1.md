@@ -1,4 +1,4 @@
-# Description of the Picture on the Slide (TARIC)
+# The image 1 in slide 27 of lecture 7 contains:
 
 The picture on the right side of the slide is a screenshot of the **TARIC Consultation** interface from the European Commission’s *Taxation and Customs Union* website. It shows the online search tool that users access to look up EU tariff and trade-related measures.
 The interface is simple and structured. At the top, there is a blue banner with the **European Commission** logo on the left and the title *Taxation and Customs Union*. Below this banner, the interface displays the **TARIC Consultation** section with three main tabs or options: *Measure*, *Geographical area*, and *Regulation*. The visible tab in the screenshot is the *Measure* tab, which includes search fields where users can enter a **goods code (HS/CN code)** or the **country of origin/destination** to retrieve applicable tariff measures. There is also an *Advanced search* option and a link to *Reference Measures*.

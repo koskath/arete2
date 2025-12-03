@@ -1,3 +1,4 @@
+# The image 1 in slide 40 of lecture 9 contains:
 The image is a diagram titled "The 'Dell'-case" depicting a timeline and cycle related to supply chain processes. The diagram features a horizontal arrow labeled "Time" pointing to the right. Below the timeline are four vertical dashed lines at points labeled \( t_0 \), \( t_1 \), \( t_2 \), and \( t_3 \). 
 
 - At \( t_0 \), there is an upward vertical arrow labeled "Inventory purchased by supplier."

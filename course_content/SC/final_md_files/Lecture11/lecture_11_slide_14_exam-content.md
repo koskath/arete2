@@ -1,4 +1,4 @@
-# Exam content
+# Slide 14 of Lecture 11 contains information about Exam content
 What can be asked
 Material Nr. Consumption Price (in Euro)
 Example Q2, prestructured

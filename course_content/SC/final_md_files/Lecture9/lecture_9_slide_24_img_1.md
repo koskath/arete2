@@ -1,3 +1,4 @@
+# The image 1 in slide 24 of lecture 9 contains:
 The image shows three separate, rectangular, block-like structures arranged in a staggered formation. Each structure is composed of smaller, individual rectangular units that are stacked together in a grid pattern. The structures are aligned with each other from left to right, with slight variations in depth.
 
 1. **Left Structure:**

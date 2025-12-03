@@ -1,4 +1,4 @@
-# Next: Scheduling and order release
+# Slide 14 of Lecture 12 contains information about Next: Scheduling and order release
 
 # The image 1 in slide 14 of lecture 2 contains a Vertical Process Flow: 
 

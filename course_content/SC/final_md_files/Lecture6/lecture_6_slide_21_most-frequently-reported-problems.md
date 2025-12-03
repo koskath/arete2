@@ -1,4 +1,4 @@
-# Most Frequently Reported Problems Leading to Failure in Outsourcing
+# Slide 21 of Lecture 6 contains information about Most Frequently Reported Problems Leading to Failure in Outsourcing
 
 The image is a pie chart divided into twelve equal segments, each labeled with different categories surrounding the chart. Starting from the top center and moving clockwise, the categories are as follows:
 

@@ -1,4 +1,4 @@
-# Planning the quantities - Requirement planning: Primary/Secondary - Gross/net requirements
+# Slide 12 of Lecture 12 contains information about Planning the quantities - Requirement planning: Primary/Secondary - Gross/net requirements
 
 # The image 1 in slide 12 of lecture 12 contains a text document structured as an indented bill of materials (BOM) for a product labeled "1605 Snow Shovel". The layout includes descriptions, component numbers, names, and quantities required, organized hierarchically.
 

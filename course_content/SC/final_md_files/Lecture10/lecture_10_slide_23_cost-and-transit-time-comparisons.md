@@ -1,4 +1,4 @@
-# Cost and Transit Time Comparisons
+# Slide 23 of Lecture 10 contains information about Cost and Transit Time Comparisons
 
 Costs and Transit Time 2006* vs. 2017  
 (40’ Container with 10 t from Shanghai, China to Hamburg, Germany)  

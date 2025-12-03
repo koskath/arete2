@@ -1,4 +1,4 @@
-# But also: maybe new competences, new rules, new competition 
+# Slide 42 of Lecture 3 contains information about But also: maybe new competences, new rules, new competition
 
 The image, titled "But also: maybe new competences, new rules, new competition," highlights the rapid transformation of the retail supply chain driven by digital commerce, social media, and evolving consumer fulfillment expectations . The visual emphasizes the emergence of new rules and competition through several elements:
 

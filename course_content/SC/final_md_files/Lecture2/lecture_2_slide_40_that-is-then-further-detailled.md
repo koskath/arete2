@@ -1,4 +1,4 @@
-# That is then further detailled
+# Slide 40 of Lecture 2 contains information about That is then further detailled
 # The image in slide 40 of lecture 2 is a flow diagram titled "S1 Source Stocked Product." It is structured inside a hexagonal shape with a title banner extending from the top left, labeled with a directional arrow pointing rightwards. Below the title, there is a header stating "Level 3 Example — S1 Source Stocked Product.":
 
 The diagram is divided into sections, with three main categories: Inputs, Process Elements, and Outputs.

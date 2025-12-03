@@ -1,3 +1,4 @@
+# The image 1 in slide 30 of lecture 9 contains:
 The image is a quadrant chart with a horizontal and vertical axis. 
 
 - **Axes:**

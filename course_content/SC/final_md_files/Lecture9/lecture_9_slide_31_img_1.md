@@ -1,3 +1,4 @@
+# The image 1 in slide 31 of lecture 9 contains:
 The image is a diagram consisting of a large rectangle divided into four smaller rectangles, arranged in a 2x2 grid. 
 
 - The top left rectangle is labeled "STRUCTURE".

@@ -1,4 +1,4 @@
-# Example: Importation List from former German AWV
+# Slide 11 of Lecture 7 contains information about Example: Importation List from former German AWV
 
 The image shows a scanned excerpt from an **importation list** used under the former German AWV (Außenwirtschaftsverordnung – Foreign Trade and Payments Regulation). The document outlines goods subject to specific import regulations, including classification numbers, product descriptions, regulatory codes, and licensing requirements.
 

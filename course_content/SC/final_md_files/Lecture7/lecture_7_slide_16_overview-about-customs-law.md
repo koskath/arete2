@@ -1,4 +1,4 @@
-# Overview about Customs Law
+# Slide 16 of Lecture 7 contains information about Overview about Customs Law
 
 The image presents a structured overview of how **customs law** is organized across three levels:  
 **Multinational Conventions**, **EU Customs Law**, and **National Customs Law**.  

@@ -1,4 +1,4 @@
-# It is not only the order-to-payment flow
+# Slide 38 of Lecture 1 contains information about It is not only the order-to-payment flow
 
 # The graph in slide 28 of Lecture 1 is a flowchart illustrating a supply chain process divided into three main sections: "Idea to Market," "Business Readiness," and "Order to Payment," with an overarching theme of "Adaptation and Evolution."
 

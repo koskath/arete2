@@ -1,4 +1,4 @@
-# 34
+# Slide 34 of Lecture 13 contains information about 34
 
 
 This slide serves as a conceptual introduction to Supply Chain Configurations, outlining the fundamental theoretical frameworks used to design and classify logistics networks. It signals a shift from discussing individual components to analyzing the "dominant themes" and "basic patterns" that define how a supply chain operates as a whole system. The core concept introduced here is the Push/Pull boundary, also known as the Customer Order Decoupling Point (CODP). This boundary represents the critical interface in a supply chain where the flow of materials changes from being "forecast-driven" (Push) to "order-driven" (Pull). Upstream of this point, activities are speculative and based on predicted demand (Push), focusing on efficiency and economies of scale. Downstream of this point, activities are reactive and triggered by actual customer orders (Pull), focusing on responsiveness and customization.

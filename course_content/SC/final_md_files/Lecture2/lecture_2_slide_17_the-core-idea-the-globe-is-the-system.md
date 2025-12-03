@@ -1,4 +1,4 @@
-# The Core Idea – The globe is the system
+# Slide 17 of Lecture 2 contains information about The Core Idea – The globe is the system
 # The image 1 in slide 17 of lecture 2 contains multiple intersecting geometric shapes and annotated points:
 
 1. **Central Triangle**: A large, bold triangle is situated in the middle. The vertices of the triangle are labeled as \( M_1 \), \( M_2 \), and \( K \).

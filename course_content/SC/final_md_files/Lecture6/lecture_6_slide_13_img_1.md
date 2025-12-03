@@ -1,3 +1,4 @@
+# The image 1 in slide 13 of lecture 6 contains:
 The image contains a diagram with three distinct sections, each under a labeled heading, organized horizontally.
 
 1. **Left Section: "Acquisition costs"**

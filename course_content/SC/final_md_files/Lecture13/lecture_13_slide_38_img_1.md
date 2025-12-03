@@ -1,3 +1,4 @@
+# The image 1 in slide 38 of lecture 13 contains:
 The image is a flowchart diagram illustrating a supply chain process, characterized by several elements:
 
 1. **Text in a Purple Box**: 

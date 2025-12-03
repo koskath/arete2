@@ -1,4 +1,4 @@
-# Who is the class instructor?
+# Slide 2 of Lecture 1 contains information about Who is the class instructor?
 
 Günter Prockl is an Associate Professor for Supply Chain Management at Copenhagen Business School (CBS), where he has been teaching since April 2009 and joined the Digital Innovation and Analytics department (digi) in 2019. He contributes to several key programs including the Global Supply Chain Management Program, Cand. merc. SCM, and HD SCM. Beyond CBS, Professor Prockl serves as an Adjunct Professor at FAU Erlangen-Nürnberg, VSE Prague, and other institutions, and previously held positions as Full Professor at Mercator University Duisburg Essen and Lecturer at FAU Erlangen-Nürnberg in Germany. His academic credentials include a Habilitation (post-doctoral qualification) in Business Administration, a Dr. rer. pol. (doctorate) in Business Administration, a Master of Business Admin
 

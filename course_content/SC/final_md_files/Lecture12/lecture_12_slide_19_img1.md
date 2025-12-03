@@ -1,4 +1,4 @@
-# The image in slide 19 of lecture 12 is an octagonal diagram with a blue diamond shape at the center, containing the text:
+# Slide 19 of Lecture 12 contains information about The image in slide 19 of lecture 12 is an octagonal diagram with a blue diamond shape at the center, containing the text:
 
 - "R/3" in large white letters.
 - Below it are the words "Client / Server" and "ABAP/4" in smaller white letters, stacked vertically.

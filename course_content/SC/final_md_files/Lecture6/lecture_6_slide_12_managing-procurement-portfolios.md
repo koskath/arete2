@@ -1,4 +1,4 @@
-# Managing Procurement PortfoliosTable 9.3 titled "Managing procurement portfolios" is presented with three columns: "Risk/Value," "Description," and "Strategy." The values and their respective content are organized into four rows as follows:
+# Slide 12 of Lecture 6 contains information about Managing Procurement PortfoliosTable 9.3 titled "Managing procurement portfolios" is presented with three columns: "Risk/Value," "Description," and "Strategy." The values and their respective content are organized into four rows as follows:
 
 1. **Row 1:**
    - "Risk/Value": High/High

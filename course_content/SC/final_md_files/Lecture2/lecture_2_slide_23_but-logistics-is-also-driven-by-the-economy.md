@@ -1,4 +1,4 @@
-# But Logistics is also driven by the economy
+# Slide 23 of Lecture 2 contains information about But Logistics is also driven by the economy
 # The image 1 in slide 23 of lecture 2 shows the frontal view of a large cargo ship on the ocean:
 The ship's hull is predominantly light blue with a red section at the top, just below the deck. A symbol resembling an emblem with wings is visible centered on the hull below the deck area. The name of the ship appears on both sides of the hull in small letters, though it's difficult to discern from this angle.
 

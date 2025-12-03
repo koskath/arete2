@@ -1,4 +1,4 @@
-# Here is what the Table in slide 52 of lecture 12 contains (Line by Line):
+# Slide 52 of Lecture 12 contains information about Here is what the Table in slide 52 of lecture 12 contains (Line by Line):
 
 ---
 

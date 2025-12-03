@@ -1,4 +1,4 @@
-# Incoterms 2020 for all modes of transport
+# Slide 50 of Lecture 2 contains information about Incoterms 2020 for all modes of transport
 # The image in slide 50 of lecture 2 is a diagram showing various trade terms associated with the seller and buyer responsibilities for risks and costs along a supply chain:
 The diagram features sections that include icons and horizontal bars delineating these responsibilities.
 

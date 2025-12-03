@@ -1,4 +1,4 @@
-# From “dicky bow” to “rhombus“?
+# Slide 32 of Lecture 3 contains information about From “dicky bow” to “rhombus“?
 The image, titled "From 'dicky bow' to 'rhombus'," contrasts two fundamental types of supply chain relationships: the "Classic relationship" and the "Partnership relationship," using geometric shapes as metaphors .
 
 The Classic relationship, represented by the red "dicky bow" (or hourglass shape), is characterized by a limited focus on transaction (project, task) and is typically managed only at the Sales/Purchasing dept. level. This narrow, transactional focus creates a bottleneck in communication and trust, where the only link is the negotiation of price and quantity for a single transaction.

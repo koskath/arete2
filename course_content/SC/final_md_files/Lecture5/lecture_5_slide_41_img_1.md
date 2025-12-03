@@ -1,3 +1,4 @@
+# The image 1 in slide 41 of lecture 5 contains:
 The image is divided into two main sections. At the top, a blue rectangular banner features text in white capital letters: "INVENTORY MANAGEMENT TECHNIQUES THAT YOU NEED TO KNOW."
 
 On the left side, there are six labeled rectangular panels stacked vertically, each with a yellow-orange hexagonal icon on their left. Each panel lists a different inventory management technique, with specific icons:

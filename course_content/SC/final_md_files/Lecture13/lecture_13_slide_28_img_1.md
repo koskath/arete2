@@ -1,3 +1,4 @@
+# The image 1 in slide 28 of lecture 13 contains:
 The image contains a 2x2 matrix with annotations and labels depicting supply chain strategies aligned with product types. The matrix is divided into four quadrants:
 
 1. **Top-Left Quadrant**: 

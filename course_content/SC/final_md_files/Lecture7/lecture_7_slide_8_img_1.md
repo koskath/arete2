@@ -1,3 +1,4 @@
+# The image 1 in slide 8 of lecture 7 contains:
 World Trade Organisation (WTO)
 - Trade Facilitation Specific Articles:
   - GATT Article V (freedom of transit)

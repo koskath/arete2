@@ -1,3 +1,4 @@
+# The image 1 in slide 13 of lecture 3 contains:
 The image is a movie poster with a collage of horror-themed illustrations and text. At the top of the poster, there is a tagline in white text against a dark background: "IF YOU THINK YOU'RE READY FOR FREDDY, THINK AGAIN." Below this, a large, grotesque face dominates the center, with exaggerated features including an open, screaming mouth, and wild eyes. This face is surrounded by a fiery red and orange glow.
 
 To the upper right of the large face, there is a man in a dark suit with a white shirt, and a partially visible bow tie, looking ominous. Below him, there is a smaller depiction of a woman with long hair, her mouth open as if screaming. Next to her, on the lower right side of the poster, is a man lying down with his head turned towards a glowing golden light, his expression tense. Adjacent to him is another figure that appears distorted and partially obscured.

@@ -1,3 +1,4 @@
+# The image 1 in slide 38 of lecture 7 contains:
 The picture on the slide consists of **two horizontal bar charts** placed side by side. They illustrate the results of a 2014 ICC survey on which Incoterms® 2010 rules were most preferred by **sellers** and **buyers**. Each chart ranks the Incoterms based on the number of survey respondents who selected them.
 ## Left Chart: Incoterms® 2010 Preferred by Sellers
 The left chart shows which Incoterms were most commonly chosen by sellers.  

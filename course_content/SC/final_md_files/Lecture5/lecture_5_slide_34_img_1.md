@@ -1,3 +1,4 @@
+# The image 1 in slide 34 of lecture 5 contains:
 The image is a table titled "Table 9.3 Stockholding policies for alternative inventory flow types." It contains four columns labeled "Type," "Characteristics," and "Stockholding policy." The table is divided into four rows excluding the header.
 
 1. **Row 1:**

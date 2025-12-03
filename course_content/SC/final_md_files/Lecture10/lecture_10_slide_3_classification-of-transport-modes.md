@@ -1,4 +1,4 @@
-# Classification of Transport Modes
+# Slide 3 of Lecture 10 contains information about Classification of Transport Modes
 
 Air  
 - Package  

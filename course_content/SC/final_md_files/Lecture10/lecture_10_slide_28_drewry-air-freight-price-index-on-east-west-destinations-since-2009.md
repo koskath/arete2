@@ -1,4 +1,4 @@
-# Drewry Air Freight Price Index: on East-West Destinations since 2009
+# Slide 28 of Lecture 10 contains information about Drewry Air Freight Price Index: on East-West Destinations since 2009
 
 This slide presents the Drewry Air Freight Price Index for East-West destinations spanning from September 2009 through late 2024, measured in US dollars per kilogram. The visualization combines vertical blue bars representing individual data points with a red trend line that smooths the underlying price movements over this extended period.
 The chart opens in September 2009 with rates around 5.00 to 6.00 USD per kilogram, showing considerable week-to-week volatility as evidenced by the fluctuating bar heights. Throughout the initial years from 2009 through approximately 2013, the red trend line demonstrates a gradual declining trajectory, moving from the 5.00 USD range down toward 4.00 USD per kilogram. This downward pressure likely reflects the post-financial crisis period when global trade volumes were recovering and air freight capacity was being rebalanced with demand.

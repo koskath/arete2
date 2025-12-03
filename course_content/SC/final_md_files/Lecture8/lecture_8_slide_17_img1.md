@@ -1,4 +1,4 @@
-# The image in slide 17 of lecture 8 shows a tilted page from a publication. The title at the top is in a dark rectangular box with white text that reads: "CASE STUDY SELL DIRECT-TO-CONSUMER OR THROUGH AMAZON?" Below, in smaller font, it states: "AN E-BIKE MAKER WEIGHS THE TRADE-OFFS. BY THALES TEIXEIRA". 
+# Slide 17 of Lecture 8 contains information about The image in slide 17 of lecture 8 shows a tilted page from a publication. The title at the top is in a dark rectangular box with white text that reads: "CASE STUDY SELL DIRECT-TO-CONSUMER OR THROUGH AMAZON?" Below, in smaller font, it states: "AN E-BIKE MAKER WEIGHS THE TRADE-OFFS. BY THALES TEIXEIRA".
 
 Below the title, the main text in large purple font states: "Sitting in his office, Mark Ellinas frowned at his computer screen."
 

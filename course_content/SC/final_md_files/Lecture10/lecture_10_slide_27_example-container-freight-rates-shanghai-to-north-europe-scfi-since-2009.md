@@ -1,4 +1,4 @@
-# Example: Container Freight Rates Shanghai to North Europe (SCFI) since 2009
+# Slide 27 of Lecture 10 contains information about Example: Container Freight Rates Shanghai to North Europe (SCFI) since 2009
 
 14/02/2025:  
 1,608 USD/TEU

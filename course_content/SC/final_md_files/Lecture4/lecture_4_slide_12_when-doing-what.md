@@ -1,4 +1,4 @@
-# When doing what? Basic types of layout. Volume vs. Variety
+# Slide 12 of Lecture 4 contains information about When doing what? Basic types of layout. Volume vs. Variety
 
 # The graph in slide 12 of lecture 4 presents a two-dimensional graph with Volume on the vertical axis and Variety on the horizontal axis:
 Both axes range from Low to High, with Medium marked in the middle of the Volume axis.

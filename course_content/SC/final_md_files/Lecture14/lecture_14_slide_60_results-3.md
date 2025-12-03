@@ -1,4 +1,4 @@
-# Results 3
+# Slide 60 of Lecture 14 contains information about Results 3
 In Results 3 we are Calculating Policy & Other Factors for ABC Corp. and XYZ Corp. In this Policy & Other Factors
 ABC Corp. XYZ Corp. comparison, we consider a Quoted Price: $10.00 $12.00 together with Recycle: 0 - $0.6,
 which corresponds to (- 5 %) (No) (Yes), and Heroics: 0 - $0.36, which corresponds to (- 1 % each) (None)

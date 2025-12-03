@@ -1,4 +1,4 @@
-# Approaches are using different dimensions
+# Slide 35 of Lecture 13 contains information about Approaches are using different dimensions
 and variables and focusing on different
 Authors Dimensions Configurations
 aspects Fisher, 1997 - uncertainty of demand - Physically efficient process

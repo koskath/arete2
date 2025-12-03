@@ -1,4 +1,4 @@
-# DAT – Delivered At Terminal Seller Buyer
+# Slide 61 of Lecture 2 contains information about DAT – Delivered At Terminal Seller Buyer
 # The image in slide 61 of lecture 2 depicts a stylized logistics and transportation network diagram arranged horizontally:
  At the bottom left, there is a factory with a chimney and three vertical windows, accompanied by stacks of rectangular goods on pallets. To the right, a truck carries similar stacked goods. A train with two carriages follows, loaded with containers.
 

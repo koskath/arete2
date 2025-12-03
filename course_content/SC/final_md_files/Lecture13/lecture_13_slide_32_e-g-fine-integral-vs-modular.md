@@ -1,4 +1,4 @@
-# e.g. Fine: Integral vs. Modular
+# Slide 32 of Lecture 13 contains information about e.g. Fine: Integral vs. Modular
 Integrated Products Integrated Supply Chain
 – Components are tightly coupled – Closely coupled elements
 – Components perform several – Elements are not interchangeable

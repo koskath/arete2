@@ -1,4 +1,4 @@
-# Plan, Source, Make & Deliver (and after V6 Return) as Management Processes
+# Slide 36 of Lecture 2 contains information about Plan, Source, Make & Deliver (and after V6 Return) as Management Processes
 # The image in slide 36 of lecture 2 shows a structured diagram titled "SCOR is Based on Five Distinct Management Processes" at the top:
 Below this title, the diagram is organized into three main sections representing different levels of a supply chain: "Suppliers' Supplier," "Your Company," and "Customer's Customer," from left to right.
 

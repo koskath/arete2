@@ -1,4 +1,4 @@
-# Incoterms 2020 for sea and inland shipping
+# Slide 51 of Lecture 2 contains information about Incoterms 2020 for sea and inland shipping
 
 # The graph in slide 51 of lecture 2 has the following Structure:
 

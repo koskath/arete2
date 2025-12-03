@@ -1,4 +1,4 @@
-# And Inventory is Everywhere!
+# Slide 6 of Lecture 5 contains information about And Inventory is Everywhere!
 
 The image is a diagram titled "Supply chain pipeline" with the label "Figure 10.1" beneath it. The diagram illustrates the flow of goods in a supply chain, represented as a series of cylindrical shapes connected by lines.
 

@@ -1,4 +1,4 @@
-# Example of UTC Calculation
+# Slide 26 of Lecture 6 contains information about Example of UTC Calculation
 The image is a comparative table displaying three companies: Able Co, Baker Co, and Charlie Co. Each company's data is listed under several factors. The table is structured with the column headings "Factor", "Able Co", "Baker Co", and "Charlie Co".
 
 **Column 1: Factor**

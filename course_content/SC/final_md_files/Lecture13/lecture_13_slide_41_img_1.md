@@ -1,3 +1,4 @@
+# The image 1 in slide 41 of lecture 13 contains:
 The image is a flowchart that illustrates a supply chain process, specifically highlighting the stages from "Raw Materials" to "End customer." The flow is divided into sections, with detailed annotations and labels indicating various operations, stages, and influences on this process.
 
 1. **Background and Header**:

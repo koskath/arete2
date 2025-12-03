@@ -1,4 +1,4 @@
-# Total Cost of Ownership – Cost Elements and Cost Drivers
+# Slide 15 of Lecture 6 contains information about Total Cost of Ownership – Cost Elements and Cost Drivers
 
 ### Column Definitions
 **Activity Related to the Purchasing Process** describes the stage of the purchasing process (pretransaction, transaction, posttransaction) and the specific activity performed.

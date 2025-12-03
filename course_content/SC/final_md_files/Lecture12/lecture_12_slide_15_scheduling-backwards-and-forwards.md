@@ -1,4 +1,4 @@
-# Scheduling „backwards“ and „forwards“
+# Slide 15 of Lecture 12 contains information about Scheduling „backwards“ and „forwards“
 
 # The figure 2.7 in slide 15 of lecture 12 displays a Gantt chart titled "FIGURE 2.7 Back schedule based Gantt chart (latest start)."
 

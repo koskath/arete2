@@ -1,4 +1,4 @@
-# Cross Docking and Merge-in-Transit
+# Slide 16 of Lecture 9 contains information about Cross Docking and Merge-in-Transit
 
 The image contains two flow diagrams side by side, labeled "Material flows in cross-docking" on the left and "Material flows in merge-in-transit" on the right.
 

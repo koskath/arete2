@@ -1,4 +1,4 @@
-# Economic Integration Levels 2/2
+# Slide 6 of Lecture 7 contains information about Economic Integration Levels 2/2
 
 WTO Membership: Most Favored Nation (MFN) principle as a maximum tariff level for export and imports for trade flows within WTO.
 Common Market: Concerns countries that have a customs union in addition to the freedom of movement of the factors of production (capital and labor). Examples are the European Free Trade Association (EFTA), the European Economic Area (EEC) or the Eurasian Economic Union (EAEU).

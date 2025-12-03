@@ -1,3 +1,4 @@
+# The image 1 in slide 22 of lecture 3 contains:
 The image is a line graph titled "Chicken Soup USA," with a focus on "Demand." The y-axis, labeled "Units," ranges from 0 to 400 in increments of 100. The x-axis represents "Time" in "Month," marked from 1 to 12.
 
 Two lines are plotted on the graph:

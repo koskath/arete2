@@ -1,4 +1,4 @@
-# Logistics is driver of the development “shrinking the world”
+# Slide 21 of Lecture 2 contains information about Logistics is driver of the development “shrinking the world”
 
 # The image in slide 21 of lecture 2 illustrates how advances in logistics and transportation have progressively "shrunk" the world by reducing travel times and distances.
 On the left side, a globe shows transportation routes with text indicating the evolution of transportation speeds across different eras. From 1500-1840, horse-drawn coaches and sailing ships averaged only 10 mph. The period 1850-1930 saw steam locomotives reaching 65 mph and steam ships 36 mph. The 1950s brought propeller planes averaging 400 mph, and by the 1960s, jets were flying at 500 to 700 mph.

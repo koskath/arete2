@@ -1,4 +1,4 @@
-# Changes of Distribution Structures over Time
+# Slide 9 of Lecture 9 contains information about Changes of Distribution Structures over Time
 
 The image is divided into three horizontal sections, each representing a different decade: the 1980s, 1990s, and 2000s. Each section is split vertically into two categories: "Procurement" on the left and "Distribution" on the right. There are annotations and arrows indicating relationships and processes between different elements in each section.
 

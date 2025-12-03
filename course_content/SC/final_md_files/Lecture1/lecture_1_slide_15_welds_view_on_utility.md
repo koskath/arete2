@@ -1,4 +1,4 @@
-# Welds View on Utility – an old piece of literature
+# Slide 15 of Lecture 1 contains information about Welds View on Utility – an old piece of literature
 
 
 The purpose of this slide is to introduce a fundamental concept: logistics creates value, not just cost. Logistics adds time and place utility to products. The key highlighted concepts are:

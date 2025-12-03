@@ -1,3 +1,4 @@
+# The image 1 in slide 8 of lecture 5 contains:
 The image contains a table titled "Table 10.1 Reasons for holding inventory." The table is divided into two columns with headers:
 
 1. **Buffer against uncertainty**

@@ -1,4 +1,4 @@
-# e.g. Integrating with different length of the chains or the major objectives such as efficiency versus agility, resilience and sustainability.
+# Slide 34 of Lecture 1 contains information about e.g. Integrating with different length of the chains or the major objectives such as efficiency versus agility, resilience and sustainability.
 
 # The graph in slide 34 of Lecture 1 builds on the Order-to-Payment flow by introducing supply chain complexity and strategic choices.
 The three colored circles highlight different supply chain strategies based on where customization begins:

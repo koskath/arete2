@@ -1,3 +1,4 @@
+# The image 1 in slide 41 of lecture 9 contains:
 The image is a timeline diagram titled "The 'SwissPostLogistics'-case," illustrating the cash-to-cash (C2C) cycle and various time periods associated with Procter & Gamble (P&G), SwissPostLogistics (SPL), and Retailer.
 
 1. **Horizontal Axis:**

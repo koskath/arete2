@@ -1,4 +1,4 @@
-# The image in slide 49 of lecture 12 displays a thin, elongated RFID tag with intricate metallic antenna patterns on a rectangular substrate. 
+# The image 1 in slide 49 of lecture 12 contains:
 
 1. **Substrate**: 
    - Color: Light background

@@ -1,4 +1,4 @@
-# EXW - Ex Works
+# Slide 52 of Lecture 2 contains information about EXW - Ex Works
 
 # The image in slide 52 of lecture 2 features a symmetrical arrangement of transportation and infrastructure elements depicting a supply chain:
 

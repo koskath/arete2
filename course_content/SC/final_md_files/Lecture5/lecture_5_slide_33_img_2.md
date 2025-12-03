@@ -1,3 +1,4 @@
+# The image 2 in slide 33 of lecture 5 contains:
 The image is a layered area chart with an accompanying legend on the right side. The chart is titled with two labels within the layers: "Surge Flow Inventory" and "Wave Flow Inventory." 
 
 **Chart Details:**

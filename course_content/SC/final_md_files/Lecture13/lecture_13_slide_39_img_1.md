@@ -1,3 +1,4 @@
+# The image 1 in slide 39 of lecture 13 contains:
 The image is a diagram illustrating a supply chain process, starting from "Raw Materials" on the left and ending with "End customer" on the right. Both "Raw Materials" and "End customer" are enclosed in vertical yellow rectangles on either end of the diagram. A black horizontal line connects these two points.
 
 1. **Horizontal Process Flow:**

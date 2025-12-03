@@ -1,4 +1,4 @@
-# Syllabus – Book – and so on
+# Slide 46 of Lecture 1 contains information about Syllabus – Book – and so on
 Module 1: Introduction to Logistics and Supply Chain Management (GP)
 Module 2: The global context of logistics and supply chain management (GP)
 Module 3: Integration, collaboration and SCM (GP)

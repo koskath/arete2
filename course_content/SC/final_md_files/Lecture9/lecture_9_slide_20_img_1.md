@@ -1,3 +1,4 @@
+# The image 1 in slide 20 of lecture 9 contains:
 The image displays a technical drawing of a Euro pallet with three different views: side view, front view, and top view.
 
 1. **Top View (Bottom Right Corner):**

@@ -1,4 +1,4 @@
-# Incoterms ® 2020 Overview
+# Slide 36 of Lecture 7 contains information about Incoterms ® 2020 Overview
 The image is a detailed table comparing different Incoterms. It consists of 15 columns and 11 rows, including headers.
 The chart uses color coding to help distinguish responsibility zones:
 - **Green rows** correspond to Incoterms usable for *any mode of transport*.  

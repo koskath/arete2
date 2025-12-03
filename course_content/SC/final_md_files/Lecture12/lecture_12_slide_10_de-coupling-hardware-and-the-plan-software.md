@@ -1,4 +1,4 @@
-# De-coupling Hardware and the Plan (“Software”) The “programme” as a hierarchy of plans
+# Slide 10 of Lecture 12 contains information about De-coupling Hardware and the Plan (“Software”) The “programme” as a hierarchy of plans
 
 ## Hierarchical Structure
 

@@ -1,3 +1,4 @@
+# The image 1 in slide 43 of lecture 13 contains:
 The image depicts a process flow diagram with several components and annotations.
 
 1. At the top left, there is a purple rectangle with a shadow, containing bullet points:

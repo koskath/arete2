@@ -1,3 +1,4 @@
+# The image 1 in slide 21 of lecture 5 contains:
 The image is a line graph depicting inventory build-up and depletion over time. The vertical axis is labeled "Inventory level," and the horizontal axis is labeled "Time."
 
 1. **Lines and Shapes:**

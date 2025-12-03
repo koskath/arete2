@@ -1,4 +1,4 @@
-# Lean - A Strategy Based on Lead Time Compression
+# Slide 22 of Lecture 4 contains information about Lean - A Strategy Based on Lead Time Compression
 
 # The diagram in slide 22 of lecture 4 illustrates the transformation achieved through lean methodology using a before-and-after comparison.
 :The upper portion displays the initial process state with blue rectangular segments representing value-adding activities positioned above a baseline, while red segments marked with dollar signs extend below the baseline representing waste activities and their associated costs.

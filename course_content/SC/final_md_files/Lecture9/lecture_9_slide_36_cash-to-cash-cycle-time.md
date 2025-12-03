@@ -1,4 +1,4 @@
-# Cash-to-Cash Cycle Time: Single Company Perspective
+# Slide 36 of Lecture 9 contains information about Cash-to-Cash Cycle Time: Single Company Perspective
 Source: Hofmann and Kotzab(2010)
 
 The image is a diagram illustrating the Cash-to-Cash (C2C) cycle for Company 1, with a timeline and various periods marked. The diagram includes the following elements:

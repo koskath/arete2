@@ -1,4 +1,4 @@
-# Levels for Tracking – Interesting for whom
+# Slide 44 of Lecture 12 contains information about Levels for Tracking – Interesting for whom
 
 # The image in slide 44 of lecture 12 features a simplified illustration of a cargo ship with stacked containers:
 The ship is depicted in a dark gray silhouette profile on the left, facing right. On the ship, rectangular containers are stacked in rows and columns with four containers in height and extending towards the right from the middle of the ship. Each container is outlined in white with vertical lines suggesting doors.

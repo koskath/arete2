@@ -1,4 +1,4 @@
-# The image in slide 26 of lecture 8 is an inverted triangle divided into six horizontal sections, each labeled with a different term. From the top to the bottom, the sections are:
+# Slide 26 of Lecture 8 contains information about The image in slide 26 of lecture 8 is an inverted triangle divided into six horizontal sections, each labeled with a different term. From the top to the bottom, the sections are:
 
 1. The top section is labeled "Resource Reduction" and is the broadest part of the triangle.
 2. The second section is labeled "Reuse."

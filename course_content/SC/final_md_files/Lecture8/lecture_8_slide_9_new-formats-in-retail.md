@@ -1,4 +1,4 @@
-# New Formats in Retail
+# Slide 9 of Lecture 8 contains information about New Formats in Retail
 
 IKEA in the city
 Amazon go / fresh

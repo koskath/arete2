@@ -1,4 +1,4 @@
-# Key learning points – Session 6 Outsourcing,
+# Slide 43 of Lecture 11 contains information about Key learning points – Session 6 Outsourcing,
 Offshoring and Procurement in the Supply Chain
 Literature:
 Content:

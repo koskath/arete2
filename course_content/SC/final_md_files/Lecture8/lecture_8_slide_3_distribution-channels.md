@@ -1,4 +1,4 @@
-# Distribution Channels
+# Slide 3 of Lecture 8 contains information about Distribution Channels
 
 # The diagram in slide 3 of lecture 8 illustrates eight distinct distribution channel configurations, each demonstrating a different path from producer to consumer. All channels originate from producer nodes positioned at the top level and ultimately reach consumer nodes at the bottom level, with varying numbers of intermediary stages between them.
 

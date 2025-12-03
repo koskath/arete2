@@ -1,4 +1,4 @@
-# The elementary logistics functions:
+# Slide 13 of Lecture 1 contains information about The elementary logistics functions:
 Transportation, warehousing and transshipment are the elementary logistics functions. A key issue is: what questions could management have regarding these functions?
 
 # The image in slide 13 of Lecture 1 is illustrating the three fundamental logistics functions that are the building blocks of supply chain management:

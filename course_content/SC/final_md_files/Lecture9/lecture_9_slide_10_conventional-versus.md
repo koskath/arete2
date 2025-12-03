@@ -1,4 +1,4 @@
-# Conventional versus eCommerce Retail Logistics
+# Slide 10 of Lecture 9 contains information about Conventional versus eCommerce Retail Logistics
 
 The image is divided into two sections: "Conventional Retail Logistics" on the left and "E-commerce Retail Logistics" on the right.
 

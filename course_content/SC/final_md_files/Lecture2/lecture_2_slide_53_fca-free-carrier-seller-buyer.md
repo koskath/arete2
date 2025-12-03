@@ -1,4 +1,4 @@
-# FCA – Free Carrier Seller Buyer
+# Slide 53 of Lecture 2 contains information about FCA – Free Carrier Seller Buyer
 
 
 # The image in slide 53 of lecture 2 is a diagram featuring a stylized global supply chain process, arranged horizontally across the image:

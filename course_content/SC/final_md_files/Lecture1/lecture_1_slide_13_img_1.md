@@ -1,3 +1,4 @@
+# The image 1 in slide 13 of lecture 1 contains:
 The image depicts a model truck facing to the left. 
 
 1. **Truck Cab**: 

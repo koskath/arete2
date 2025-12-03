@@ -1,4 +1,4 @@
-# …and Control
+# Slide 33 of Lecture 9 contains information about …and Control
 
 Source: https://emergeapp.net/inventory-reports/10-inventory-metrics-for-smbs/
 

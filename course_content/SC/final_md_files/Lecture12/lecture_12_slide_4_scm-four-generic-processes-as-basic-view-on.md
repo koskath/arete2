@@ -1,4 +1,4 @@
-# SCM –Four generic processes as basic view on enterprises – related IT support
+# Slide 4 of Lecture 12 contains information about SCM –Four generic processes as basic view on enterprises – related IT support
 
 # Here is what the image in slide 4 of lecture 12 contains:
 

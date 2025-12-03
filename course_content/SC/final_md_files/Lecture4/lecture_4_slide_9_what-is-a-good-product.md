@@ -1,4 +1,4 @@
-# What is a good product? And how many different one of them?
+# Slide 9 of Lecture 4 contains information about What is a good product? And how many different one of them?
 
 
 "Prices for Mercedes-Benz's new ultra-premium sedan, the Maybach, start at about $300,000—but writing the check is one of the easier decisions you'll have to make. Among the Maybach's biggest selling points is its ability to be customized, and you'll be choosing from 2.2 million possible option combinations. — Alex Taylor III"

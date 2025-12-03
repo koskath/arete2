@@ -1,4 +1,4 @@
-# Financial Flows – Description of the Slide
+# Slide 43 of Lecture 10 contains information about Financial Flows – Description of the Slide
 
 This slide illustrates how **money moves through the logistics chain**, separating two key financial streams:
 - **Red arrows** → *Flow of bills* (invoices being sent)

@@ -1,4 +1,4 @@
-# The image in slide 57 of lecture 12 shows a detailed illustration of a large, partially enclosed container or box with several labeled features. The container appears to be designed for secure transportation and documentation of high-value goods.
+# The image 1 in slide 57 of lecture 12 contains:
 
 1. **Container Structure**:
    - The container is rectangular with dimensions labeled as 1200 mm in length and 800 mm in height.

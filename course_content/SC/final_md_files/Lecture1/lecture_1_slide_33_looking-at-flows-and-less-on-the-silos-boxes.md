@@ -1,4 +1,4 @@
-# Looking at flows and less on the “silos” (boxes) e.g.: The Order-to-Payment Flow
+# Slide 33 of Lecture 1 contains information about Looking at flows and less on the “silos” (boxes) e.g.: The Order-to-Payment Flow
 
 # The graph in slide 33 of Lecture 1 presents the Order-to-Payment (O2P) Flow - a process-oriented view that follows the complete cycle from when a customer places an order until payment is received.
 The three main flows are:

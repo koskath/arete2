@@ -1,4 +1,4 @@
-# So far a Battle Amazon vs. Zalando
+# Slide 12 of Lecture 8 contains information about So far a Battle Amazon vs. Zalando
 
 The image is a scatter plot chart showing data for several European countries, with two axes: the x-axis labeled "Percentage that shopped online at Zalando" ranging from 0 to 50 in increments of 5, and the y-axis labeled "Percentage that shopped online at Amazon" ranging from 0 to 100 in increments of 10.
 

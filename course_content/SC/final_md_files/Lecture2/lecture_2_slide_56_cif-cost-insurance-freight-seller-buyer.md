@@ -1,4 +1,4 @@
-# CIF – Cost, Insurance, Freight Seller Buyer
+# Slide 56 of Lecture 2 contains information about CIF – Cost, Insurance, Freight Seller Buyer
 # The image in slide 56 of lecture 2 depicts a transportation and logistics network involving various modes of transport and infrastructure elements:
 
 Across the top of the image, there are three airplanes evenly spaced, each pointing to the right. Below each airplane, there is a ship carrying cargo containers; all ships are oriented towards the right. Each ship has an anchor symbol on the side.

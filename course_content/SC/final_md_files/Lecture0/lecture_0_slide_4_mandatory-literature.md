@@ -1,4 +1,4 @@
-# Supply chain Mandatory Literature:
+# Slide 4 of Lecture 0 contains information about Supply chain Mandatory Literature:
 
 The mandatory literature consists of the following. The textbook is: Mangan, J., Lalwani, C.C. and Calatayud, A. (2021) Global Logistics and Supply Chain Management, 4th Edition, ISBN: 978-1-119-70299-3, Wiley. The reading list consists of a mix of articles and business cases, as specified on the next page. In-class exercises, in addition to the reading list, include short features and cases that shall be prescribed where necessary; these cases shall be accessible as per the lecturer’s instructions in the class, and on CANVAS.
 

@@ -1,4 +1,4 @@
-# Just a stupid metaphor?
+# Slide 6 of Lecture 1 contains information about Just a stupid metaphor?
 
 # The image in slide 6 of lecture 1 contains:
 a sports metaphor (with a touch of self-aware humor in the title) to illustrate an important concept in supply chain management: the value of being a "complete player" rather than a specialist in just one area.

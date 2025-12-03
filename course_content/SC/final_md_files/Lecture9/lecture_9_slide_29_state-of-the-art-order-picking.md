@@ -1,4 +1,4 @@
-# State of the Art Order Picking
+# Slide 29 of Lecture 9 contains information about State of the Art Order Picking
 
 Source: https://www.youtube.com/watch?v=udr0OOxmPbc
 

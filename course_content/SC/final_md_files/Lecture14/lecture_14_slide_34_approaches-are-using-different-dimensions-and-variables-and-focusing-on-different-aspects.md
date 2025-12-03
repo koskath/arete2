@@ -1,4 +1,4 @@
-# Approaches are using different dimensions and variables and focusing on different aspects
+# Slide 34 of Lecture 14 contains information about Approaches are using different dimensions and variables and focusing on different aspects
 
 The table summarizes how various authors conceptualize supply chain configurations by focusing on different dimensions and proposing different structural models. It is divided into three columns: **Authors**, **Dimensions**, and **Configurations**.
 In the first column, several key scholars and publication years are listed, including Fisher (1997), Tan et al. (2000), Christopher (2000), Mason-Jones/Naylor/Towill (2000), Lee (2002), Corsten & Gabriel (2002), and Klaas (2003). Each author has contributed a different perspective on how supply chains can be categorized.

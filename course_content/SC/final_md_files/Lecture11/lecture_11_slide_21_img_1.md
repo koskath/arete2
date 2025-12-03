@@ -1,3 +1,4 @@
+# The image 1 in slide 21 of lecture 11 contains:
 The image contains a horizontal, segmented bar chart with three distinct vertical bars, labeled "A," "B," and "C" from left to right. 
 
 - **Bar A**:

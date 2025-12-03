@@ -1,4 +1,4 @@
-# International Freight Forwarder's Functions
+# Slide 33 of Lecture 10 contains information about International Freight Forwarder's Functions
 
 1. Gives advice to customers on the quickest and most economical means of transportation (consultancy function),
 2. Gives advice to customers on packing problems (packaging function),

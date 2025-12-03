@@ -1,4 +1,4 @@
-# More about eCommerce in Denmark
+# Slide 10 of Lecture 8 contains information about More about eCommerce in Denmark
 
 # Here is the description of the graphs in slide 10 of lecture 8:
 

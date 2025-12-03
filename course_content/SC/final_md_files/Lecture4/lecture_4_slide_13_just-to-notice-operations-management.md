@@ -1,4 +1,4 @@
-# Just to notice! “Operations” Management. Some More Milestones in History
+# Slide 13 of Lecture 4 contains information about Just to notice! “Operations” Management. Some More Milestones in History
 The timeline presents contributions to Operations Management since 1900, organized chronologically with the year, contribution description, and associated contributor names.
 
 Beginning in 1900, Scientific Management, Functional Organization, and Cost Systems were introduced by Frederick Taylor. In the same year, Motion Study was developed by Frank Gilbreth.

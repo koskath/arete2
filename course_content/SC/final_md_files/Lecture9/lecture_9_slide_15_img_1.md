@@ -1,3 +1,4 @@
+# The image 1 in slide 15 of lecture 9 contains:
 The image depicts a schematic diagram of a warehouse layout with various components and marked paths. 
 
 - The diagram is enclosed in a rectangular outline representing the warehouse.

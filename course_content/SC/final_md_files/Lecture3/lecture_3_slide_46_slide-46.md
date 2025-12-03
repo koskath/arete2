@@ -1,4 +1,4 @@
-# Slide 46
+# Slide 46 of Lecture 3 contains information about Slide 46
 
 
 The image is a scatter plot titled "Development of Retail Omni-channels." The x-axis is labeled "Omni-channel Development Index," ranging from 0 to 10, with increments of 2. The y-axis is labeled "Operating Profit," with values ranging from -20% to 40% in increments of 10%.

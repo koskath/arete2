@@ -1,4 +1,4 @@
-# Eg. Chain of Events – Tracking in Transportation
+# Slide 43 of Lecture 12 contains information about Eg. Chain of Events – Tracking in Transportation
 # Description of the Transportation Tracking Flow on the Slide 43 of lecture 12
 
 The slide illustrates how **digital tracking** works across the entire transportation chain using **barcode or RFID scanning** at each event point.  

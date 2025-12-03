@@ -1,4 +1,4 @@
-# Key learning points: Session 10: Transport
+# Slide 47 of Lecture 11 contains information about Key learning points: Session 10: Transport
 and Logistics Services in Supply Chains
 Content:
 Literature:

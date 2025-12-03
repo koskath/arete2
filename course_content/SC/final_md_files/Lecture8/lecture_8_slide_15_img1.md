@@ -1,4 +1,4 @@
-# Here is what the image 1 in slide 15 of lecture 8 contains:
+# Slide 15 of Lecture 8 contains information about Here is what the image 1 in slide 15 of lecture 8 contains:
 
 When engaging in online shopping across borders, it's crucial to understand customs declarations like the CN22 form visible in the image. This form is used for international shipments and provides key information that affects supply chain logistics and analytics:
 

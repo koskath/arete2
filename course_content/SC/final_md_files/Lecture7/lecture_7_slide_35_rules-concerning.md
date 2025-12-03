@@ -1,4 +1,4 @@
-# Rules Concerning
+# Slide 35 of Lecture 7 contains information about Rules Concerning
 
 Obligations, Risks and Costs
 A – Rules for Sellers  

@@ -1,3 +1,4 @@
+# The image 1 in slide 29 of lecture 3 contains:
 The image is divided into two main sections with annotations and diagrams.
 
 On the left section:

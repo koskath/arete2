@@ -1,4 +1,4 @@
-# Customs Warehousing and Entry in a Free Zone
+# Slide 21 of Lecture 7 contains information about Customs Warehousing and Entry in a Free Zone
 
 Customs warehousing allows the **postponement of duties and taxes** on goods imported from countries outside the EU.
 ### Key Points

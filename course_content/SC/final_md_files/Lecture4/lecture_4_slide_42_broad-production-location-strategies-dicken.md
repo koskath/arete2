@@ -1,4 +1,4 @@
-# Broad production location strategies Dicken
+# Slide 42 of Lecture 4 contains information about Broad production location strategies Dicken
 
 The image contains a 2x2 grid of diagrams, each representing different models of production and supply chain management. The entire grid is divided into four quadrants, two rows and two columns. 
 

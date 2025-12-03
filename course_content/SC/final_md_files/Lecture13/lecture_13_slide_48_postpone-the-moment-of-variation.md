@@ -1,4 +1,4 @@
-# Postpone the moment of variation
+# Slide 48 of Lecture 13 contains information about Postpone the moment of variation
 – The way to hybrids
 • The Configuration of a Logistics system
 is the better the further „upstream“

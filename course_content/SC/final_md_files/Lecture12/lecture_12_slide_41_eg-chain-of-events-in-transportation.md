@@ -1,4 +1,4 @@
-# Eg. Chain of Events in Transportation
+# Slide 41 of Lecture 12 contains information about Eg. Chain of Events in Transportation
 # Description of the Transportation Flow in slide 41 of lecture 12 Depicted on the Slide
 
 The slide illustrates a **typical end-to-end logistics transportation chain**, showing how goods move from the sender to the receiver through multiple stages, each requiring specific information to trigger the next step.

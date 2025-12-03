@@ -1,4 +1,4 @@
-# LSPs versus 3PLs
+# Slide 35 of Lecture 10 contains information about LSPs versus 3PLs
 
 Considerable overlap between the terminology  
 All companies that provide transport/logistics services are LSPs  

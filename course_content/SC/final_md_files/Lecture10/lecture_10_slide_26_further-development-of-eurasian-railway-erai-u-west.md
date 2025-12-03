@@ -1,4 +1,4 @@
-# Further Development of Eurasian Railway - ERAI U-West
+# Slide 26 of Lecture 10 contains information about Further Development of Eurasian Railway - ERAI U-West
 
 This slide tracks the development of Eurasian Railway freight rates from July 2016 through January 2025, displaying multiple route pricing indicators measured in US dollars per forty-foot equivalent unit. The data shows six different rate series including the ERAI Composite index, ERAI U-East and U-West routes, Shanghai to Rotterdam rates in both directions, and TAC Hong Kong to Europe per ton rates.
 The visualization reveals several distinct periods of market behavior. From mid-2016 through early 2020, rates remained relatively stable across all measured routes, clustering between approximately 2,000 and 4,000 USD per FEU. This period, circled in red on the chart with a notation of "2016", represents the baseline operational environment for Eurasian rail freight before major disruptions occurred.

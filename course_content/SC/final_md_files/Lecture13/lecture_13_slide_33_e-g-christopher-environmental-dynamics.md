@@ -1,4 +1,4 @@
-# e.g. Christopher: Environmental dynamics
+# Slide 33 of Lecture 13 contains information about e.g. Christopher: Environmental dynamics
 Agility vs. Lean Supply Chains
 „Lean“ works best in high Agility“ is needed in less predictable
 volume, low variety and high environments I.e. demand is volatile

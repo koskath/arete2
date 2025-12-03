@@ -1,3 +1,4 @@
+# The image 1 in slide 39 of lecture 9 contains:
 The image features a comparison between "1997 Dell Computer" and "2001 Dell Computer," both depicted with timelines and labeled with days.
 
 **Left Side: 1997 Dell Computer**

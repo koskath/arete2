@@ -1,4 +1,4 @@
-# What about the basement of the tower?
+# Slide 36 of Lecture 12 contains information about What about the basement of the tower?
 
 # The image in slide 36 of lecture 12 is a circular diagram with a central section labeled "Command Center," depicted with a red, cylindrical tower icon. The diagram is divided into two halves labeled "Supply" on the left and "Demand" on the right, marked by a green outer ring surrounding the circle.
 

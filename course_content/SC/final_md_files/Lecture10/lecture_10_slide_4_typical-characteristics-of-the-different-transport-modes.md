@@ -1,4 +1,4 @@
-# Typical Characteristics of the Different Transport Modes
+# Slide 4 of Lecture 10 contains information about Typical Characteristics of the Different Transport Modes
 
 # Here is what the image contains:
 

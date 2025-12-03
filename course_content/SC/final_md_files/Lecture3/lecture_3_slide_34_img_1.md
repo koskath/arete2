@@ -1,3 +1,4 @@
+# The image 1 in slide 34 of lecture 3 contains:
 The image consists of a diagram titled "The Partnership Model" at the top, with a dark gray background for the title section. Below the title, there are four circular shapes arranged in a network structure to illustrate the partnership model.
 
 1. **Left Circle (Drivers)**

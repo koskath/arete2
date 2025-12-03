@@ -1,4 +1,4 @@
-# Using Logistics as a Basis for new Business Models – E.g.
+# Slide 28 of Lecture 1 contains information about Using Logistics as a Basis for new Business Models – E.g.
 # The image in slide 28 of lecture 1 showcases Levi's Personal Pair program as an example of how innovative logistics can enable entirely new business models - specifically, mass customization.
 The process works in three steps:
 1. "Measurement" in store - A customer visits a Levi's store and gets measured (the left image shows body scanning technology). Their exact measurements and fit preferences are captured digitally.

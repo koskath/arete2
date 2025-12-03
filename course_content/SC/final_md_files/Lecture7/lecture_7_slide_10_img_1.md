@@ -1,3 +1,4 @@
+# The image 1 in slide 10 of lecture 7 contains:
 The image illustrates the structure of a Harmonized System (HS) code, which is crucial for the classification of goods in international trade. The HS code is a standardized numerical method for classifying traded products and is used by customs authorities around the world.
 
 1. **Chapter HS (Digits 1-2):** These digits represent the broad category or chapter of goods.

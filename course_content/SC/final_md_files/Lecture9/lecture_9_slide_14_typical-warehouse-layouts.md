@@ -1,4 +1,4 @@
-# Typical Warehouse Layouts
+# Slide 14 of Lecture 9 contains information about Typical Warehouse Layouts
 
 The slide consists of three diagrams representing different warehouse operation flows: a straight flow operation, a 'U' flow operation with conveyors, and an 'L' flow operation with a conveyor. Each diagram is labeled and structured distinctly with annotations for directions and actions.
 

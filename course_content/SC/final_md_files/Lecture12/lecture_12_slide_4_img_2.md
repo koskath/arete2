@@ -1,3 +1,4 @@
+# The image 2 in slide 4 of lecture 12 contains:
 The image is a complex flowchart or process diagram consisting of interconnected sections, each representing different stages or components of a business process. It is divided into three main horizontal sections:
 
 1. **Top Section (Idea to Market)**

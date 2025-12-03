@@ -1,4 +1,4 @@
-# and changes into a „ product system“ or rather a „system of systems“ in another evolutionary step and an example from the farming industry
+# Slide 60 of Lecture 12 contains information about and changes into a „ product system“ or rather a „system of systems“ in another evolutionary step and an example from the farming industry
 
 # The image 1 in slide 60 of lecture 12 consists of two main sections labeled "4. Product system" and "5. System of systems," both set against a light gray background.
 

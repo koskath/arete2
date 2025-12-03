@@ -1,3 +1,4 @@
+# The image 12 in slide 2 of lecture 5 contains:
 The image is a business card with the following details:
 
 1. At the top right, there are large turquoise-blue letters "TUHH." Below this, in smaller font, it reads "Technische Universität Hamburg-Harburg."

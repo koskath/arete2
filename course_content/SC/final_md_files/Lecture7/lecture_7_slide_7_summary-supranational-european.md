@@ -1,4 +1,4 @@
-# Summary: Supranational European Bodies and Economic Integration
+# Slide 7 of Lecture 7 contains information about Summary: Supranational European Bodies and Economic Integration
 
 The image is a complex, layered diagram illustrating how various European countries participate in different **supranational organizations**, **economic unions**, and **political cooperation frameworks**. Each organization is shown as a colored boundary that encloses the member states, represented by their national flags.
 

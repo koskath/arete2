@@ -1,4 +1,4 @@
-# The smile in a more dynamic analysis Spillover effects and catch-up
+# Slide 42 of Lecture 14 contains information about The smile in a more dynamic analysis Spillover effects and catch-up
 
 The image presents a dynamic version of the “smile curve,” showing how value creation along global value chains evolves over time through spillover effects and catch-up processes. The vertical axis represents value added, while the horizontal axis shows the disaggregation of the value chain from inputs toward final markets.
 On both ends of the curve, **advanced economies** dominate high-value activities—such as services, intangibles, and innovation—linked to strong R&D knowledge on the left and marketing knowledge on the right. These segments represent areas of **industry creation**, where firms capture the highest value.

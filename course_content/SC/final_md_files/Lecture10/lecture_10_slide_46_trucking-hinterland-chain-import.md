@@ -1,4 +1,4 @@
-# Trucking Hinterland Chain (Import) – Slide Description
+# Slide 46 of Lecture 10 contains information about Trucking Hinterland Chain (Import) – Slide Description
 This slide visualizes the **import-side hinterland logistics chain**, showing how a container moves from the seaport to the inland destination, and how different actors interact through both **physical flows** and **contractual relationships**.
 
 At the center of the diagram are the key actors—each represented by a box—while arrows illustrate two different dimensions:

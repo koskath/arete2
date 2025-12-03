@@ -1,3 +1,4 @@
+# The image 1 in slide 17 of lecture 9 contains:
 The image is a flowchart depicting a warehouse management system (WMS) and its interactions within a supply chain. The chart consists of several blocks connected by arrows, illustrating processes and information flows.
 
 1. **Top Level:**

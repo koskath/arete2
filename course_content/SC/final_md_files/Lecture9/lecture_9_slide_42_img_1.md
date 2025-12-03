@@ -1,3 +1,4 @@
+# The image 1 in slide 42 of lecture 9 contains:
 The image is a multi-layered flow diagram displaying relationships between financial concepts, supply chain elements, strategic imperatives, and potential tactical decisions.
 
 **Top Layer:**

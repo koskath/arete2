@@ -1,3 +1,4 @@
+# The image 1 in slide 23 of lecture 9 contains:
 The image shows an arrangement of rectangular boxes stacked in a 3D configuration. The boxes are arranged in a grid-like pattern, consisting of 4 rows, 4 columns, and 3 stacks vertically. Each box is uniform in size, and they are stacked directly on top of each other. 
 
 Annotations include:

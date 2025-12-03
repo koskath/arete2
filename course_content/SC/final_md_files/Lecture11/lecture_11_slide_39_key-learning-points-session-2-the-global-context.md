@@ -1,4 +1,4 @@
-# Key learning points: Session 2: The global context
+# Slide 39 of Lecture 11 contains information about Key learning points: Session 2: The global context
 of logistics and supply chain management
 Content:
 Literature:

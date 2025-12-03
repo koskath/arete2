@@ -1,3 +1,4 @@
+# The image 1 in slide 20 of lecture 13 contains:
 The image is a complex diagram structured into three main sections: "Idea to Market," "Business Readiness," and "Order to Payment." Each section is filled with a series of arrows, labels, and annotations that detail processes and flows.
 
 1. **Idea to Market Section:**

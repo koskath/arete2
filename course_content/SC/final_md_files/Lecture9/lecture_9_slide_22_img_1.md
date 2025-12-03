@@ -1,3 +1,4 @@
+# The image 1 in slide 22 of lecture 9 contains:
 The image contains three separate diagrams, each depicting a different type of conveyor system.
 
 1. **Left Diagram: "Roller tracks in high warehouse"**

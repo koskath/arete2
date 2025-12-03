@@ -1,3 +1,4 @@
+# The image 1 in slide 11 of lecture 5 contains:
 The image contains two separate graphs side by side, each illustrating inventory levels over time with different order quantities: small and large.
 
 **Left Graph - Small Order Quantity:**

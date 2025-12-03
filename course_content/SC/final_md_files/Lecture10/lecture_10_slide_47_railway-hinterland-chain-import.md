@@ -1,4 +1,4 @@
-# Railway Hinterland Chain (Import) – Slide Description
+# Slide 47 of Lecture 10 contains information about Railway Hinterland Chain (Import) – Slide Description
 
 This slide illustrates the **import-side hinterland logistics chain when rail transport is used**, showing how containers move from the seaport to the inland destination, and how a larger set of actors interact through **physical flows** and **contractual relationships**.
 

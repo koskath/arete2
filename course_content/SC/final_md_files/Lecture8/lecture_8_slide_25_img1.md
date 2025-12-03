@@ -1,4 +1,4 @@
-# The diagram in slide 25 of lecture 8 is composed of several labeled boxes and directional arrows indicating the flow of a logistics system. 
+# Slide 25 of Lecture 8 contains information about The diagram in slide 25 of lecture 8 is composed of several labeled boxes and directional arrows indicating the flow of a logistics system.
 
 - At the top is the label "Forward Logistics" with a dotted arrow pointing to the right.
 

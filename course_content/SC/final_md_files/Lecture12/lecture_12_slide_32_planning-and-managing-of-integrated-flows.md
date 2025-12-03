@@ -1,4 +1,4 @@
-# Planning and Managing of integrated flows across boundaries is certainly not trivial and not just easy to adjust;
+# Slide 32 of Lecture 12 contains information about Planning and Managing of integrated flows across boundaries is certainly not trivial and not just easy to adjust;
 
 The image is a flowchart illustrating processes in the supply chain involving OEM, System-supplier, and Sub-supplier. The chart is divided vertically into three main sections, each representing different stages and activities characterized by colored backgrounds and distinct icons.
 

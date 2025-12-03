@@ -1,4 +1,4 @@
-# Christodoulou et al
+# Slide 35 of Lecture 4 contains information about Christodoulou et al
 
 # The diagram in slide 35 of lecture 4 presents a comprehensive framework illustrating how global production networks create synergy through strategic configuration. The model is structured with two main input components at the top, a central synergistic mechanism, and three configuration mechanisms at the bottom.
 

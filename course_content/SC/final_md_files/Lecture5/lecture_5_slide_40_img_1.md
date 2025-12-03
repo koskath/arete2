@@ -1,3 +1,4 @@
+# The image 1 in slide 40 of lecture 5 contains:
 The image contains a list of issues related to supply chain management, where each item is numbered and proceeds with descriptive bullet points. The list includes:
 
 10. Incorrect assessment of inventory costs
