@@ -1,2 +1,3 @@
 # … Catalogue Sales …
 
+The slide contains the logos of: Quelle, Neckermann, Otto, Best

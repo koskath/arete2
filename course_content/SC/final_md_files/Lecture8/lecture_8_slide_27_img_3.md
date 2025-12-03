@@ -1,4 +1,4 @@
-The image is a diagram illustrating an open-loop reverse logistics system. It includes the following elements:
+# The image 2 in slide 27 of lecture 8 is a diagram illustrating an open-loop reverse logistics system. It includes the following elements:
 
 1. **Suppliers**: 
    - Positioned on the left side of the diagram.

@@ -1,4 +1,4 @@
-The image is a diagram titled "Figure 15.3 Illustration of a closed-loop reverse logistics system." It features various elements connected by arrows, categorized into three main sections: Suppliers, Producers, and Distributors, with additional roles for Recyclers and Collectors. 
+# The image 1 in slide 27 of lecture 8 is a diagram titled "Figure 15.3 Illustration of a closed-loop reverse logistics system." It features various elements connected by arrows, categorized into three main sections: Suppliers, Producers, and Distributors, with additional roles for Recyclers and Collectors. 
 
 - **Suppliers:**
   - On the left, there are three vertically aligned ovals labeled "1," "2," and "n."

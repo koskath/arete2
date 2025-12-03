@@ -1,4 +1,4 @@
-The image features a horizontal chain of five overlapping ovals, each representing a distinct stage in a manufacturing supply chain. The ovals from left to right are labeled "Supplier," "Manufacturer," "Distributor," "Retailer," and "Consumer." Each label is centered within its respective oval.
+# The image 1 in slide 23 of lecture 8 features a horizontal chain of five overlapping ovals, each representing a distinct stage in a manufacturing supply chain. The ovals from left to right are labeled "Supplier," "Manufacturer," "Distributor," "Retailer," and "Consumer." Each label is centered within its respective oval.
 
 Above the chain of ovals, two horizontal double-headed arrows span the entire length of the diagram. The top arrow is labeled "Materials" and points in both the left and right directions.
 

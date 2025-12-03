@@ -1,4 +1,4 @@
-The image shows a page from what appears to be a magazine or journal, tilted slightly to the right. At the top of the page, a headline reads, "CASE STUDY SELL DIRECT-TO-CONSUMER OR THROUGH AMAZON?" followed by a subtitle, "AN E-BIKE MAKER WEIGHS THE TRADE-OFFS. BY THALES TEIXEIRA." 
+# The image in slide 2 of lecture 14  shows a page from what appears to be a magazine or journal, tilted slightly to the right. At the top of the page, a headline reads, "CASE STUDY SELL DIRECT-TO-CONSUMER OR THROUGH AMAZON?" followed by a subtitle, "AN E-BIKE MAKER WEIGHS THE TRADE-OFFS. BY THALES TEIXEIRA." 
 
 Beneath the subtitle, in large purple text, is the sentence: "Sitting in his office, Mark Ellinas frowned at his computer screen." 
 

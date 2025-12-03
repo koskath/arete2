@@ -1,3 +1,5 @@
+# Here is what the image 1 in slide 15 of lecture 8 contains:
+
 When engaging in online shopping across borders, it's crucial to understand customs declarations like the CN22 form visible in the image. This form is used for international shipments and provides key information that affects supply chain logistics and analytics:
 
 1. **Description of Contents**: Details about the items, such as weight and value, must be accurately declared. This information is essential for calculating tariffs and taxes, influencing cost management in supply chain analytics.

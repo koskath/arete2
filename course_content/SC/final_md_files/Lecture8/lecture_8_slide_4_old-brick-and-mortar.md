@@ -1,3 +1,3 @@
 # „OLD“ Brick-and-Mortar…
 
-
+The slide contains brand the logos of: Marks & Spencer, RadioShack, Woolworth, Kmart, The Body Shop, Sears, Toys “R” Us, Hertie, Fona, Schlecker.

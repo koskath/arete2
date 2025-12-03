@@ -1,4 +1,4 @@
-The image contains a horizontal diagram titled "(b) Service supply chain" in the lower right corner. 
+# The image 1 in slide 23 of lecture 8 contains a horizontal diagram titled "(b) Service supply chain" in the lower right corner. 
 
 There are three overlapping ovals positioned horizontally:
 
