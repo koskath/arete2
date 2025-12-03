@@ -12,4 +12,4 @@
 Service-Dominant (S-D) Logic is a mindset for a unified understanding of
 the purpose and nature of organizations, markets and society.
 More about? See: http://www.sdlogic.net/index.html
-21
+
