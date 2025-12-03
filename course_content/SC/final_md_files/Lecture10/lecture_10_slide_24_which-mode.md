@@ -1,1 +1,0 @@
-# Which Mode for Which Merchandise?
