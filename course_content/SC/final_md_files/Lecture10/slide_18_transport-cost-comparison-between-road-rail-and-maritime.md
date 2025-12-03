@@ -1,6 +1,6 @@
 # Transport Cost Comparison between Road, Rail and Maritime
 
-# Here is what the image contains:
+# Here is what the graph in slide 18 of lecture 9 contains:
 
 - A graph with the X-axis labeled "Distance" and the Y-axis labeled "Transport costs per unit."
 - Three lines representing different transport modes:

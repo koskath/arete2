@@ -4,7 +4,7 @@
 2 Inventory Related Costs include all other elements of logistics costs – from storing and handling product to write-downs of obsolete or spoiled goods.  
 3 Total Distribution Cost = Transport-Related Cost + Inventory-Related Cost.
 
-# Here is what the image contains:
+# Here is what the graph in slide 20 of lecture 9 contains:
 
 - A graph plotting 'Cost per year' on the Y-axis and 'Transportation service' ranging from '100% surface, 0% air' to '0% surface, 100% air' on the X-axis. 
 - Three curved lines on the graph:

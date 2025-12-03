@@ -8,7 +8,7 @@ A valuable strategy is accounting logistics costs on a full-cost basis.
 - Inventory carrying costs for safety stock
 - Investment cost required to produce the inventory to fill the pipeline
 
-# Here is what the image contains:
+# Here is what the graph in slide 19 of lecture 12 contains:
 
 - Diagram with various stages (Booking in System, Arrival store USA, Arrival port (C), Sailing, Departure port Taiwan, Departure factory (A)) annotated.
 - Bars representing time with numbers and notations next to them.

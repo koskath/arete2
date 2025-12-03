@@ -1,6 +1,6 @@
 # Relationship between Rate per Kilo and Consignment Weight
 
-# Here is what the image contains:
+# Here is what the graph in slide 17 of lecture 9 contains:
 
 A graph with a downward sloping curve. 
 
