@@ -1,4 +1,4 @@
-The image shows a collection of various cylindrical objects and one rectangular box-like object arranged on a flat surface. 
+# The image in slide 48 of lecture 12 shows a collection of various cylindrical objects and one rectangular box-like object arranged on a flat surface. 
 
 On the left side is the rectangular box, oriented horizontally with its longer sides parallel to the bottom edge of the image. It has a protruding circular section on the bottom left corner. The box features several printed elements: the top has a logo consisting of a stylized lowercase “i” inside a square, followed by the text “IDENT-I” in bold letters. Below this, there is a graphic of a crosshair with several concentric circles. Beneath the graphic, the text reads “IMC-40-3.6K” and “Part No. 236456 Made in Canada.”
 

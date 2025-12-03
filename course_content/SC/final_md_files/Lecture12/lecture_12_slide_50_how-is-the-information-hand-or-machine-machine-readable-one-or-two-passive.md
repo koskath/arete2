@@ -1,5 +1,41 @@
-# How is the information Hand or machine Machine readable One or two Passive
-coded? written label with object id dimensional barcode Transponder,RfID
-label of object ID Tag, electronic label
-How is information read at the I-point? It can be read by human eyes, by optical reading devices with character recognition (OCR), by optical reading with mobile or stationary barcode scanners, or via radio waves in the reading area of antennas (poles or gates) for passive transponders and RFID tags. Where is the status information stored? It may be on the label, but more likely it is kept as a data record on a central database or central server, with data records for barcode-based systems and for passive transponder or RFID-based systems. Where and how is the required control activity triggered? Typically there is centralized matching of “as is” and “to be” states, with triggering based on this comparison for all three coding types. The basic advantages are that hand-written labels incur no additional costs, barcodes have no or limited costs and enable automation, and passive transponders or RFID tags offer low label costs, higher automation (no visual contact required) and bulk-reading (multi-tagging). The basic disadvantages or dangers include reading errors, typos and lack of motivation for manual labels, more likely reading errors with dirty or hidden barcode labels and single-reading limitations, and, for transponders or RFID tags, label costs, possible jamming by radiation, metal or interference and the need to manage such risks.
-12 Digitization and Digitalization 14.03.2025 Slide 50
+# Here is what the Table in slide 50 of lecture 12 contains (Line by Line):
+
+**How is the information coded?**  
+- Hand or machine written  
+- Machine readable label with object ID  
+- One or two dimensional barcode label of object ID  
+
+---
+
+**How is information read at I-Point?**  
+- By human eyes  
+- Optical reading devices; character-recognition (OCR)  
+- Optical by mobile or stationary barcode scanner  
+
+---
+
+**Where is the status information stored?**  
+- Maybe on label; more likely in central database  
+- Data record on central server  
+- Data record on central server  
+
+---
+
+**Where/how is the required control activity triggered?**  
+- —  
+- Centralized matching of “as is” and “to be”; triggering  
+- Centralized matching of “as is” and “to be”; triggering  
+
+---
+
+**Basic advantages**  
+- No additional costs  
+- No or limited costs for the labels  
+- Low costs for labels; automatization  
+
+---
+
+**Basic disadvantages/dangers**  
+- Reading errors, typos, lack of motivations  
+- Reading errors more likely; dirty, hidden labels  
+- Single reading of barcode; dirty, hidden labels  
