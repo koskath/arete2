@@ -1,1 +1,0 @@
-The image is completely black with no visible details, structures, shapes, annotations, or spatial relationships present.

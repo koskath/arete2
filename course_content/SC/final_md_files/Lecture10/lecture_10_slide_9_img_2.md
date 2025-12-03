@@ -1,1 +1,0 @@
-The image contains a single word "Airfreight" written in a bold, black font. The font style is sans-serif, with smooth edges and no additional embellishments. The letters are evenly spaced. The background is plain and not visible, allowing the text to stand out prominently. There are no other elements, annotations, or spatial structures present in the image.

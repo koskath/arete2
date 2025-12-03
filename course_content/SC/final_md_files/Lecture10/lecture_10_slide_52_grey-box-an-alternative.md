@@ -1,2 +1,0 @@
-# Grey Box – an Alternative?
-
