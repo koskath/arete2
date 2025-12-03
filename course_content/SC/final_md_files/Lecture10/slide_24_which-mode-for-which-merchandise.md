@@ -1,49 +1,8 @@
 # Which Mode for Which Merchandise?
 
-Tsd USD  
-High Time Sensitivity Scenario
+The visual provides a strategic framework for selecting the optimal transportation mode by analyzing the trade-off between "Time Sensitivity" and "Cargo Value." The core of the strategy is a 2x2 matrix that assigns a specific transport mode—Air, Sea, or Rail—to four distinct operational scenarios.
 
-- Rail
-- Sea
-- Air
-- Sea/Air
+In the top-right quadrant, characterized by both High Time Sensitivity and High Cargo Value, the model designates Air freight as the appropriate choice (Scenario I), accepting high costs to ensure rapid delivery of valuable goods. Conversely, the bottom-left quadrant represents the "Low/Low" scenario—Low Time Sensitivity and Low Cargo Value—where Sea freight is selected (Scenario IV) to maximize cost efficiency. The matrix positions Rail transport as the ideal "middle ground" solution for the remaining two mixed scenarios: it is recommended for Scenario III (High Time Sensitivity, Low Value) and Scenario II (Low Time Sensitivity, High Value), balancing speed against cost better than the extreme options.
 
-(Line graph with increasing trend lines, Rail with slowest increase, and Air and Sea/Air with steepest increase)
+To support this decision matrix, the left side of the slide features two line graphs plotting transportation costs (in thousands of USD) against varying shipment parameters (likely weight or volume). These graphs visually demonstrate the cost stratification of the modes, showing Air and Sea/Air combinations as significantly steeper cost curves compared to the flatter, more economical profiles of Rail and Sea. Handwritten annotations on the slide, such as "8-10%," likely refer to a specific logistics rule of thumb regarding the acceptable percentage of logistics costs relative to the total product value.
 
-8-10%
-
-Cargo Value (Low)  
-Time Sensitivity (High)  
-Rail  
-(Scenario III)  
-
-Air  
-(Scenario I)  
-AH
-
-Cargo Value (High)  
-Time Sensitivity (Low)  
-Rail  
-(Scenario II)  
-
-Sea  
-(Scenario IV)  
-
-Tsd USD  
-Low Time Sensitivity Scenario
-
-- Rail
-- Sea
-- Air
-- Sea/Air
-
-(Line graph with slower increasing trend lines, Rail with slowest increase, and Sea and Sea/Air with steepest increase)
-
-Cargo Value (Low)
-
-Source: Zhang and Schramm (2020) 
-
-CBS \| COPENHAGEN BUSINESS SCHOOL  
-HANDELSHØJSKOLEN
-
-24

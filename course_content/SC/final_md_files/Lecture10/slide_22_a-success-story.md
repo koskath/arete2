@@ -22,6 +22,5 @@
 
 - Text on the right side of the right chart: "Source: China Railway Container Transport (2018)"
 
-- Page number: 22
 
-- Logos: CBS | COPENHAGEN BUSINESS SCHOOL | HANDELSHØJSKOLEN
+

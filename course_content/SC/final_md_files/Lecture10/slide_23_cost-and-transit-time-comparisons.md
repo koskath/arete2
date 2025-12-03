@@ -19,5 +19,3 @@ Costs and Transit Time 2006* vs. 2017
   - Red circle and lines added by hand pointing to the different modes.
   - Handwritten annotations like "0" crossed through in the bottom left.
 - Source noted at the bottom right: "Source: U.S. Chamber of Commerce (2006), Zhang (2017), own calculations"
-- Slide number at the bottom right: 23
-- Logo on the top right: CBS Copenhagen Business School.
