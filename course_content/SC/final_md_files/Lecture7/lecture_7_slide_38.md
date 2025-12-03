@@ -1,64 +1,25 @@
-The image consists of two side-by-side horizontal bar charts with light beige backgrounds. Each chart is enclosed in a light gray border. The charts are titled at the top in bold gray text:
+The picture on the slide consists of **two horizontal bar charts** placed side by side. They illustrate the results of a 2014 ICC survey on which Incoterms® 2010 rules were most preferred by **sellers** and **buyers**. Each chart ranks the Incoterms based on the number of survey respondents who selected them.
+## Left Chart: Incoterms® 2010 Preferred by Sellers
+The left chart shows which Incoterms were most commonly chosen by sellers.  
+The bars extend horizontally, with longer bars indicating greater preference. The most preferred terms appear at the top:
+- **FCA** (Free Carrier) is overwhelmingly the top choice among sellers.  
+- **EXW** (Ex Works) and **DAP** (Delivered at Place) follow, showing that sellers tend to prefer terms that minimize their logistical responsibility or give them strong control over domestic handling.  
+- Mid-range preferences include **CIF**, **CIP**, **CPT**, and **FOB**, which are common in trade but require sellers to take on more costs or obligations.  
+- Least preferred terms among sellers—such as **DAT**, **FAS**, or **DDP**—show very short bars.
+The left chart highlights that sellers gravitate toward rules giving them simplicity, control, or lower risk.
 
-- Left chart: "Les règles Incoterms préférées par les vendeurs"
-- Right chart: "Les règles Incoterms préférées par les acheteurs"
+## Right Chart: Incoterms® 2010 Preferred by Buyers
+The right chart mirrors the left one but shows the preferences of buyers.  
+Here, the most preferred Incoterms are different:
+- **DAP** is the leading choice for buyers, as it shifts most transport responsibility to the seller.  
+- **FCA** also ranks high, showing its general popularity across both groups.  
+- Buyers also strongly prefer **DDP**, which places maximum responsibility on the seller—including import clearance.  
+- Middle-ranking terms include **FOB**, **EXW**, **CIF**, and **CIP**.  
+- The least preferred terms for buyers include **DAT**, **FAS**, and **CFR**.
+Overall, this chart shows that buyers tend to prefer Incoterms where the seller handles more transport stages or where delivery is closer to the buyer's location.
 
-Both charts have a common layout with a series of horizontal blue bars representing different Incoterms, aligned next to a vertical axis listing these terms. The length of each bar corresponds to a numerical value represented on the horizontal axis at the bottom.
-
-### Left Chart Details:
-- **Title**: "Les règles Incoterms préférées par les vendeurs"
-- **Vertical Axis Terms** (from top to bottom):
-  1. FCA
-  2. EXW
-  3. DAP
-  4. CIF
-  5. CPT
-  6. CIP
-  7. FOB
-  8. CFR
-  9. DDP
-  10. DAT
-  11. FAS
-- **Horizontal Axis**: The axis below is labeled with numbers from 0 to 200, at intervals of 50, using gray vertical dashed lines.
-- **Bar Lengths**: The bars extend to approximately:
-  1. FCA: about 175
-  2. EXW: about 150
-  3. DAP: about 125
-  4. CIF: about 100
-  5. CPT: about 75
-  6. CIP: about 75
-  7. FOB: about 50
-  8. CFR: about 50
-  9. DDP: about 25
-  10. DAT: about 15
-  11. FAS: about 10
-- **Source**: "Source : ICC, enquête Incoterms 2010" is written vertically on the right side.
-
-### Right Chart Details:
-- **Title**: "Les règles Incoterms préférées par les acheteurs"
-- **Vertical Axis Terms** (from top to bottom):
-  1. DAP
-  2. FCA
-  3. DDP
-  4. FOB
-  5. EXW
-  6. CIF
-  7. CPT
-  8. CIP
-  9. CFR
-  10. DAT
-  11. FAS
-- **Horizontal Axis**: The axis below is labeled with numbers from 0 to 200, at intervals of 50, using gray vertical dashed lines.
-- **Bar Lengths**: The bars extend to approximately:
-  1. DAP: about 175
-  2. FCA: about 150
-  3. DDP: about 125
-  4. FOB: about 100
-  5. EXW: about 75
-  6. CIF: about 75
-  7. CPT: about 50
-  8. CIP: about 50
-  9. CFR: about 25
-  10. DAT: about 15
-  11. FAS: about 10
-- **Source**: "Source : ICC, enquête Incoterms 2010" is written vertically on the right side.
+## Combined Interpretation
+The two charts illustrate a classical tension in Incoterms choice:
+- **Sellers prefer terms like FCA and EXW**, which reduce their obligations.  
+- **Buyers prefer terms like DAP and DDP**, which increase seller obligations and shift risk away from the buyer.
+The visual comparison clearly demonstrates how Incoterms reflect negotiating positions and differing priorities between buyers and sellers in international trade.

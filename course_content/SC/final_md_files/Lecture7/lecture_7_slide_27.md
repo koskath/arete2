@@ -1,28 +1,5 @@
-The image is a screenshot of a webpage from the European Commission's TARIC Consultation page. 
+# Description of the Picture on the Slide (TARIC)
 
-1. **Header Section**:
-   - Top left: The European Commission logo shows an EU flag on top of stylized buildings, accompanied by the text "European Commission."
-   - Below the logo, in large blue font: "TAXATION AND CUSTOMS UNION."
-   - A blue navigation bar spans the section, containing links: "European Commission > Taxation and Customs Union > Databases > TARIC > Measure."
-   - On the right side of the blue bar, there are links: "Legal Notice | Contact | Search | English (en)."
-   - Above the blue bar, the browser's address bar displays the URL: "ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en."
-
-2. **Main Content Section**:
-   - Title: "TARIC Consultation" in bold, gray font.
-   - Below the title, a light yellow background contains black text stating: "The TARIC site has been upgraded. The following document is a guide to this upgrade: [User Guide] (6.7 Mb)."
-   - Aligned to the right: "Last update: 08-11-2013."
-
-3. **Search Interface**:
-   - Encased in a blue box titled: "Search for measures."
-   - Tabs are aligned horizontally at the top of the blue box: "Measure" (selected), "Geographical area," "Regulation."
-   - Below tabs, fields for entry:
-     - "Goods code [browse]" with a blank input field.
-     - "Country of origin/destination" with a dropdown selection box (currently blank).
-   - Below entry fields, a link: "[Advanced search]."
-   - Below, a blue button: "Retrieve Measures."
-   - At the bottom of the blue box, text: "The current reference date for the query is 10-11-2013 [change]."
-
-4. **Additional Details**:
-   - The overall design uses light colors, primarily blue and light yellow backgrounds with blue and gray text.
-   - The browser window shows standard buttons: back, forward, refresh, and home, along with a search bar with the term "taric" in it.
-   - There are no visible data points, graphs, or additional interface elements.
+The picture on the right side of the slide is a screenshot of the **TARIC Consultation** interface from the European Commission’s *Taxation and Customs Union* website. It shows the online search tool that users access to look up EU tariff and trade-related measures.
+The interface is simple and structured. At the top, there is a blue banner with the **European Commission** logo on the left and the title *Taxation and Customs Union*. Below this banner, the interface displays the **TARIC Consultation** section with three main tabs or options: *Measure*, *Geographical area*, and *Regulation*. The visible tab in the screenshot is the *Measure* tab, which includes search fields where users can enter a **goods code (HS/CN code)** or the **country of origin/destination** to retrieve applicable tariff measures. There is also an *Advanced search* option and a link to *Reference Measures*.
+The bottom part of the visible interface includes a date indicating the **reference date for the query**, showing when the TARIC information was last updated for consultation. Overall, the picture illustrates the official EU interface used to consult customs tariffs, restrictions, trade defence measures, and other regulatory information integrated into TARIC.
