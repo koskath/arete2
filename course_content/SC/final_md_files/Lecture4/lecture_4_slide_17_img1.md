@@ -1,4 +1,4 @@
-The image consists of a sequence of cartoon-style illustrations with accompanying text written in German. 
+# The image in slide 17 of lecture 4 consists of a sequence of cartoon-style illustrations with accompanying text written in German. 
 
 On the left side:
 

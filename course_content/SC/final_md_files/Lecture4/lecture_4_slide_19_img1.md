@@ -1,4 +1,4 @@
-The image depicts a conveyor belt system with six human figures engaged in an assembly line process. The assembly line consists of a horizontal conveyor belt that runs from left to right. 
+# The image in slide 19 of lecture 4 depicts a conveyor belt system with six human figures engaged in an assembly line process. The assembly line consists of a horizontal conveyor belt that runs from left to right. 
 
 1. **Human Figures**:
    - There are six human figures, each depicted wearing a hat. They are positioned on both sides of the conveyor belt.
